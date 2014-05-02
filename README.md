@@ -12,5 +12,3 @@ To add or edit pages, just fork this repo and submit a pull request.
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
-
-<3
