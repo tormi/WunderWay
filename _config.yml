@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            WunderWay
+tagline:          How we work
+description:      A collection of processes we use at WunderRoot.
+url:              http://wunderroot.co.uk
+
+author:
+  name:           Lewis Nyman
+  url:            https://twitter.com/lewisnyman
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/wunderroot/wunderway
