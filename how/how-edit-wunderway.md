@@ -41,3 +41,18 @@ The WunderWay is publicly viewable, so please make any changes responsibly. You 
 
 ## Formatting
 We use a formatting syntax called 'Markdown' to write the content of the Wunderway. It's very simple to use. You can find a full briefing on the syntax at http://daringfireball.net/projects/markdown/syntax
+
+## Creating New Pages
+If you need to create a completely new page, you can create a new file in the right section folder in WunderWay. Call the file 'your-file-name.md' where your-file-name can be anything you like. The '.md' file extension is important.
+
+At the very beginning of your file you need a few lines of text called 'front-matter'. These look like this, and you can copy and paste this as a template to start with and edit as you need...
+
+    ---
+    layout: page
+    section: how
+    categories: Admin
+    tags: Expenses, Finance
+    title: How To Claim Expenses
+    ---
+
+  This tells the system that builds the site what type of file it is, what section it's in, the categories it's in, and the title. The Tags will help with navigation.
