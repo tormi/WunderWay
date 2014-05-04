@@ -3,6 +3,7 @@ layout: section
 title: How
 ---
 
+This section explains how we do things, from delivering projects to the day to day admin.
 
 {% comment %}
   The code below dynamically generates a list of pages with
