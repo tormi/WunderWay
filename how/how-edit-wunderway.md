@@ -1,5 +1,8 @@
 ---
 layout: page
+section: how
+categories:
+tags:
 title: How To Edit The WunderWay
 ---
 
