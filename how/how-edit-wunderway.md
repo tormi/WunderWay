@@ -3,7 +3,7 @@ layout: page
 title: How To Edit The WunderWay
 ---
 
-The WunderWay is designed for collaborationa and continuous improvement. No one person is responsible for updating and extending it - everybody is (within our company).
+The WunderWay is designed for collaboration and continuous improvement. No one person is responsible for updating and extending it - everybody is.
 
 To help with this, it's in a version control system. This allows us to keep all the different versions of the content that have ever existed, track changes, and discuss them. That makes any mistake really easy to fix, so don't worry about breaking it.
 
@@ -13,6 +13,7 @@ To help with this, it's in a version control system. This allows us to keep all 
 
 ## Editing The WunderWay On Github
 You can simply work on the Github website, without needing to set up anything on your own computer:
+
 1. Go to the [WunderWay repository](https://github.com/WunderRoot/WunderWay)
 2. Navigate to the page you want to edit, clicking on the folders until you find the filename you want. Click on that. For example, this page can be edited at https://github.com/WunderRoot/WunderWay/blob/gh-pages/how/how-edit-wunderway.md
 3. Click Edit. Make the changes you want.
@@ -34,3 +35,6 @@ You can simply work on the Github website, without needing to set up anything on
 
 ## Editing responsibly
 The WunderWay is publicly viewable, so please make any changes responsibly. You don't need to ask for anyone's permission to make edits, but like in everything else we do, it's a good idea to ask for peer review of any major changes.
+
+## Formatting
+We use a formatting syntax called 'Markdown' to write the content of the Wunderway. It's very simple to use. You can find a full briefing on the syntax at http://daringfireball.net/projects/markdown/syntax
