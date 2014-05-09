@@ -7,3 +7,14 @@
   margin-left: -15px;
   background: url(../images/logo-xsmall.png) 0 0 no-repeat;
 }
+.minor-text {
+  font-weight: 400;
+  color: #e5e5e5;
+}
+.minor-text:hover {
+  color: #c0c0c0;
+  text-decoration: none;
+}
+.no-spacing {
+  margin: 0!important;
+}

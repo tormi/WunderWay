@@ -15,10 +15,11 @@ author:
   name:           Lewis Nyman
   url:            https://twitter.com/lewisnyman
 
-paginate:         1
+paginate:         0
 
 # Custom vars
 version:          1.0.0
 
 github:
   repo:           https://github.com/wunderroot/wunderway
+  branch:         https://github.com/wunderroot/wunderway/tree/gh-pages
