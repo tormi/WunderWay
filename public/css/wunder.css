@@ -1,0 +1,9 @@
+.masthead-title:before {
+  content: '';
+  display: inline-block;
+  vertical-align: text-bottom;
+  width: 57px;
+  height: 57px;
+  margin-left: -15px;
+  background: url(../images/logo-xsmall.png) 0 0 no-repeat;
+}
