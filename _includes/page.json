@@ -1,0 +1,5 @@
+{
+  "id"    : "http://way.wunder.co.uk{{ post.url }}",
+  "title"   : "{{ page.title }}",
+  "content" : "{{ page.content | strip_html | strip_newlines | remove:'"'  }}"
+}

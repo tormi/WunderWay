@@ -18,3 +18,13 @@
 .no-spacing {
   margin: 0!important;
 }
+.search-form {
+  position: fixed;
+  top: 2rem;
+  right: 1rem;
+}
+.search-form input {
+  font-size: 1.5em;
+  border: none;
+  text-align: right;
+}
