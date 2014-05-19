@@ -5,7 +5,6 @@ categories:
 tags:
 title: How To Buy A Computer
 ---
-# How to Buy A Computer
 
 Everyone in the company gets an equipment budget each year. You can spend this as you like, saving it up to get cooler, more expensive devices less frequently, or replacing cheaper devices on a regular basis.
 It can be used for home office equipment, laptops, mobile phones, tablets or any other equipment which 
