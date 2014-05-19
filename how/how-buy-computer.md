@@ -20,7 +20,8 @@ We have a special account with Apple called 'Joint Venture'. This gives us a dis
 Unfortunately they are not geared up to provide this through the Apple Store online, so you have to contact the Business Team in any physical Apple Store in the UK to arrange your order. They can do this over the phone/email.
 
 The main store contacts we use are:
-coventgardenbusiness@apple.com
-0207 447 1420
 
-More details at https://www.apple.com/uk/retail/business/
+- Email: coventgardenbusiness@apple.com
+- Tel: 0207 447 1420
+
+More details at [the Apple Business website](https://www.apple.com/uk/retail/business/).
