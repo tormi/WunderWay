@@ -8,7 +8,11 @@ require([
   var docs =
   [
   {% for page in site.pages limit:100 %}
-    {% include page.json %},
+    {% if page.layout != "section" %}
+      {% unless page.exclude_from_search %}
+        {% include page.json %},
+      {% endunless %}
+    {% endif %}
   {% endfor %}
   ];
   // init lunr
