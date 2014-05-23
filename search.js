@@ -17,7 +17,7 @@ require([
   ];
   // init lunr
   var idx = lunr(function () {
-    this.field('title', 10);
+    this.field('title', {boost: 10});
     this.field('content');
     this.ref('id');
   });
@@ -59,6 +59,7 @@ require([
   }));
 
   function prepare( query ) {
+    console.log(idx.search(query));
     var entries = idx.search(query).map(function (result) {
       return docs.filter(function (q) { return q.id === result.ref })[0]
     })
