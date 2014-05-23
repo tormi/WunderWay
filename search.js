@@ -44,7 +44,7 @@ require([
     };
   };
 
-  $('#search').bind('keyup click', debounce(function () {
+  $('#search').bind('input click', debounce(function () {
     var query = $(this).val();
     if (query < 1) {
       originalContent.reset();
