@@ -15,34 +15,69 @@ require([
   var idx = lunr(function () {
     this.field('title', 10);
     this.field('content');
-  })
+    this.ref('id');
+  });
+
   // add each document to be index
   for(var index in docs) {
     idx.add(docs[index]);
   }
-  console.log(idx);
+
+  var originalContent = {
+    selector : '.page',
+  };
+  originalContent.content = $(originalContent.selector).html();
+  originalContent.reset = function() {
+    $(originalContent.selector).html(originalContent.content);
+  };
 
   var debounce = function (fn) {
-    var timeout
+    var timeout;
     return function () {
       var args = Array.prototype.slice.call(arguments),
-          ctx = this
+          ctx = this;
 
-      clearTimeout(timeout)
+      clearTimeout(timeout);
       timeout = setTimeout(function () {
-        fn.apply(ctx, args)
-      }, 100)
+        fn.apply(ctx, args);
+      }, 100);
+    };
+  };
+
+  $('#search').bind('keyup click', debounce(function () {
+    var query = $(this).val();
+    if (query < 1) {
+      originalContent.reset();
+      return;
     }
+
+    render( prepare( query ) );
+  }));
+
+  function prepare( query ) {
+    var entries = idx.search(query).map(function (result) {
+      return docs.filter(function (q) { return q.id === result.ref })[0]
+    })
+    return entries;
   }
 
-  $('#search').bind('keyup', debounce(function () {
-    if ($(this).val() < 2) return
-    var query = $(this).val()
-    var results = $.map(this.index.search(query), function(result) {
-      return $.grep(entries, function(entry) { return entry.id === parseInt(result.ref, 10); })[0];
-    });
+  function render( entries ) {
+    var output = '';
+    if (entries.length == 0) {
+      output = '<h2 class="minor-text">Nothing found</h2>';
+    }
+    for(var index in entries) {
+      entry = entries[index];
+      output += '<div class="search-result">';
+      output += '<a href="' + entry.id + '">';
+      output += '<h2 class="search-result__title">';
+      output += entry.title;
+      output += '</h2>';
+      output += '</a>';
+      output += '</div>';
+    }
 
-    console.log(results)
-  }))
+    $(originalContent.selector).html( output );
+  }
 
-})
+});

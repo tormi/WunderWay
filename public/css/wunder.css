@@ -24,7 +24,12 @@
   right: 1rem;
 }
 .search-form input {
+  background: transparent;
   font-size: 1.5em;
   border: none;
   text-align: right;
+}
+.search-form input:focus {
+  background: white;
+  outline: 1px solid #CCC;
 }
