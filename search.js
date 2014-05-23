@@ -48,21 +48,27 @@ require([
     };
   };
 
-  $('#search').bind('input click', debounce(function () {
+  // Run a query as the user types
+  $('#search').bind('input', debounce(function (e) {
     var query = $(this).val();
     if (query < 1) {
       originalContent.reset();
       return;
     }
-
     render( prepare( query ) );
-  }));
+  }))
+
+  // Load the top result if the user hits enter
+  $('.search-form').bind('submit', function(e) {
+    window.location.href = idx.latestEntries[0].id;
+    e.preventDefault();
+  });
 
   function prepare( query ) {
-    console.log(idx.search(query));
     var entries = idx.search(query).map(function (result) {
       return docs.filter(function (q) { return q.id === result.ref })[0]
     })
+    idx.latestEntries = entries;
     return entries;
   }
 
