@@ -1,17 +1,14 @@
 ---
-layout: section
-title: Why
+layout: page
+section: company
+categories:
+tags:
+title: Our Company Character
 ---
 
-why we exist, what we're aiming for, why we want to work in certain ways
+In everything we do, we want to demonstrate the following characteristics. This sense of character should become how everyone thinks of our company.
 
-
-
-
-
-
-# The Key Values Of The WunderWay
-In every single thing we do, we want to demonstrate the following values. When making decisions about our company, clients or projects, we should consider these factors.
+Therefore, when making decisions about our company, clients or projects, we should consider these factors.
 
 We are:
 
