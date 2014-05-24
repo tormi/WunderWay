@@ -3,7 +3,7 @@ layout: section
 title: Our Company
 ---
 
-why we exist, what we're aiming for, why we want to work in certain ways
+This section sets out who we are as a company, where we've come from, how we want to be, and where we're going.
 
 
 {% comment %}
