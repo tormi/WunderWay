@@ -9,10 +9,10 @@ title: Our Business Objectives
 Effective from: 
 October 2012
 
-**Responsibility: **
+**Responsibility:**
 Steve Parks, Managing Director
 
-**Introduction: **
+**Introduction:**
 These are the initial goals of the business which was officially launched on 1st October 2012 (but year end has been adjusted to December to match other group companies). The overall purpose of the business is to grow quickly, and be known for quality and professional services.
 
 **Objective :** Create a Professional, Sustainable Business
