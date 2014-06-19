@@ -37,8 +37,6 @@ Within each step of the project process we need to consider the following elemen
 
 Each of these elements plays a role in us achieving our <a href="qms">quality objectives</a>.
 
-<img src="../public/images/project-workflow.png">
-
 ![image](http://way.wunder.co.uk/public/images/project-workflow.png)
 
 **Image**: <i>A summary view of the project workflow</i>
