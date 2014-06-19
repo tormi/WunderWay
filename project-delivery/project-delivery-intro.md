@@ -5,7 +5,7 @@ categories: Admin
 tags:
 title: Introduction to Project Delivery
 ---
-We use an Agile framework (Scrum) to deliver our projects. While Scrum allows flexibility in order to handle multiple changes throughout the life of the project, our general project processes are rigid. The processes are not overwhelming but are necessary to control the delivery and to achieve our <a href="qms.md">quality objectives</a>.
+We use an Agile framework (Scrum) to deliver our projects. While Scrum allows flexibility in order to handle multiple changes throughout the life of the project, our general project processes are rigid. The processes are not overwhelming but are necessary to control the delivery and to achieve our <a href="qms">quality objectives</a>.
 
 There are 4 key roles within our Scrum framework:
 
@@ -35,7 +35,7 @@ Within each step of the project process we need to consider the following elemen
 	<li>Output - the documentation that we produce</li>
 </ul>
 
-Each of these elements plays a role in us achieving our <a href="qms.md">quality objectives</a>.
+Each of these elements plays a role in us achieving our <a href="qms">quality objectives</a>.
 
 <img src="../_images/project-workflow.png">
 
