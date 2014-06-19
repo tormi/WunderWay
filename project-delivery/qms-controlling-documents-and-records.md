@@ -1,6 +1,6 @@
 ---
 layout: page
-section: how we work
+section: project delivery
 categories: Admin
 tags:
 title: Controlling Documents & Records

@@ -1,6 +1,6 @@
 ---
 layout: page
-section: project delivery
+section: project-delivery
 categories: Admin
 tags:
 title: Quality Management System (QMS)
