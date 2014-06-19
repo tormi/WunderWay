@@ -3,7 +3,7 @@ layout: page
 section: project-delivery
 categories: Admin
 tags:
-title: Controlling Documents & Records
+title: 2. Controlling Documents & Records
 ---
 
 Controlling documents and records is the way that we maintain our process documents, how and where we archive and ensuring that everyone is using the most current version.

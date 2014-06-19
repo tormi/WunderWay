@@ -3,7 +3,7 @@ layout: page
 section: project-delivery
 categories: Admin
 tags:
-title: Quality Management System (QMS)
+title: 1. Quality Management System (QMS)
 ---
 
 A Quality Management System (QMS) is a defined framework for our business to help us implement and maintain quality is all that we do from onboarding new staff through to delivering projects.

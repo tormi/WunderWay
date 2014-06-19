@@ -3,7 +3,7 @@ layout: page
 section: project-delivery
 categories: Admin
 tags:
-title: QMS Internal Audits & Management Reviews
+title: 3. QMS Internal Audits & Management Reviews
 ---
 In order to maintain an effective and efficient operation we need to continually review our QMS. Its implementation and its effectiveness are imperative to our success.
 
