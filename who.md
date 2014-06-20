@@ -1,6 +1,7 @@
 ---
 layout: section
 title: Who
+sidebar: true
 ---
 
 Staff directory, photo, their skills, bio, contact details

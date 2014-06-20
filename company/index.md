@@ -1,5 +1,6 @@
 ---
 layout: section
+sidebar: true
 title: Our Company
 ---
 
