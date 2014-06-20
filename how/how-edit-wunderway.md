@@ -56,10 +56,11 @@ At the very beginning of your file you need a few lines of text called 'front-ma
 
     ---
     layout: page
+    sidebar: true
     section: how
     categories: Admin
     tags: Expenses, Finance
     title: How To Claim Expenses
     ---
 
-  This tells the system that builds the site what type of file it is, what section it's in, the categories it's in, and the title. The Tags will help with navigation.
+  This tells the system that builds the site what type of file it is, what section it's in, the categories it's in, and the title. The Tags will help with navigation. Sidebar specifies if you want the page to appear in the sidebar navigation or not.
