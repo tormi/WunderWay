@@ -36,6 +36,13 @@ You can simply work on the Github website, without needing to set up anything on
 9. You can make any edits like this offline. When you are back online and want to push your changes to the WunderWay site, click 'Sync Branch' in the top right of Github for Mac.
 10. Your changes will be made automatically to the live WunderWay site within moments.
 
+## Previewing WunderWay on you local computer
+1. Navigate to the top WunderWay folder in your terminal
+2. Install Jekyll by running ``` $ gem install jekyll ```
+3. You you encounter an error, you may need to run ``` $ sudo gem install jekyll ```
+4. In the same directory, run ``` jekyll serve ```. This compile the jekyll site and serve it on http://localhost:4000
+5. If you want Jekyll to recompile the site every time you save a file, run ``` jekyll serve --watch ``` instead
+
 ## Editing responsibly
 The WunderWay is publicly viewable, so please make any changes responsibly. You don't need to ask for anyone's permission to make edits, but like in everything else we do, it's a good idea to ask for peer review of any major changes.
 
