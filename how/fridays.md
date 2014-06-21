@@ -28,7 +28,6 @@ It allows us to focus better on clients the rest of the week without the distrac
 - Contributing to an open source project
 - Working on a pet project
 - Contributing to the Wunder Way
-- 
 
 ## How it Works
 Because we're self-managing, you don't need to ask what you should do on Fridays, or get permission. You do what you think is the best thing to do. But you can always ask for ideas or feedback from colleagues.
