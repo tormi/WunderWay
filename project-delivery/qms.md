@@ -109,6 +109,19 @@ The efficiency of our operations will be measured by:
 	<li>Regular, planned internal audits and management reviews</li>
 </ul>
 
+## Roles & Responsibilities
+
+The QMS has an owner and is sponsored and supported by senior management. The roles and responsibilities are as follows:
+
+###Steve Hunton
+Title: QMS Manager
+Role: Responsible for defining, documenting, communicating and implementing the QMS within the organisation
+
+###Steve Parks
+Title: Managing Director
+Role: Support the QMS - management and implementation
+
+
 ## Verion History
 
 Previously the QMS was recorded in a <a href="https://docs.google.com/a/wunderkraut.com/document/d/1IQzVWjQeVNoMQ-2ZNY3iHRUem7DuI2O8AzqO8mN66so/edit#">Google Doc</a> and a <a href="https://drive.google.com/a/wunderkraut.com/?tab=mo#folders/0Bxb4YZjQwNDgUWFYWHc1Y2V4Rzg">QMS archive</a> was maintained as the document was updated. The QMS is now maintained via GitHub which includes a log of all changes made. This wiki version of the QMS is always the most recent version. A change history log can be viewed in the <a href="https://github.com/WunderRoot/WunderWay">WunderWay repository in GitHub</a>.
