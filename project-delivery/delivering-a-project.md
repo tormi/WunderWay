@@ -3,7 +3,7 @@ layout: page
 section: project-delivery
 categories: Admin
 tags:
-title: Delivering a Project
+title: Understanding Product and Sprint Backlogs
 ---
 ## Product Backlog
 
