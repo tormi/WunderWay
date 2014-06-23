@@ -19,7 +19,7 @@ This section sets out how we deliver projects.
   {% endif %}
 {% endfor %}
 
-<br/><br/><br/>
+<br/><br/>
 SteveH's suggested menu:<br/><br/>
 **Introduction to Project Delivery** - a quick summary of how we manage project delivery
 
@@ -36,6 +36,10 @@ SteveH's suggested menu:<br/><br/>
 **Quality Control, Testing and Handling Non-Conformities** - Bugs, what to do and steps to prevent them
 
 **Sprint Reviews, Retrospectives and Reporting** - Reviewing, improving and reporting progress
+
+**Customer Complaints** - Carefully handling sensitive issues
+
+**Hosting & Support** - arranging hosting and handing over to support
 
 **End of Project** - getting sign-off and assessing the project
 
