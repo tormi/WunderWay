@@ -33,7 +33,7 @@ SteveH's suggested menu:<br/><br/>
 
 <a href="issue-and-risk-management">Risks and Issues</a> - logging, reviewing, managing and reporting
 
-**Quality Control, Testing and Handling Non-Conformities** - Bugs, what to do and steps to prevent them
+<a href="qualty-testing-non-conformities">Quality Control, Testing and Handling Non-Conformities</a> - Bugs, what to do and steps to prevent them
 
 **Sprint Reviews, Retrospectives and Reporting** - Reviewing, improving and reporting progress
 
