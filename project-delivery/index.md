@@ -21,17 +21,18 @@ This section sets out how we deliver projects.
 
 <br/><br/>
 SteveH's suggested menu:<br/><br/>
-**Introduction to Project Delivery** - a quick summary of how we manage project delivery
+<a href="project-delivery-intro">Introduction to Project Delivery</a> - an introduction to Agile and how the roles in the team **[NEED INTRO TO AGILE]
+**
 
-**Initialising a Project** - contacts, assessing suitability, monitoring costs
+<a href="initialising-a-project">Initialising a Project</a> - contacts, assessing suitability, monitoring costs
 
-**Project Documents, Templates and Controlling Documents** - where we keep and manage them
+<a href="qms-controlling-documents-and-records">Project Documents, Templates and Controlling Documents</a> - where we keep and manage them
 
 **Backlogs** - Managing product and sprint backlogs
 
 **The Daily Standup** - what this is and how to join in
 
-**Risks and Issues** - logging, reviewing, managing and reporting
+<a href="issue-and-risk-management">Risks and Issues</a> - logging, reviewing, managing and reporting
 
 **Quality Control, Testing and Handling Non-Conformities** - Bugs, what to do and steps to prevent them
 
