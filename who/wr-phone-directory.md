@@ -5,6 +5,7 @@ categories: Admin
 tags:
 title: WR Phone Directory
 ---
+For details about setting up your SIP phone see <a href="how/sip-phone-setup">SIP Phone Setup</a>.
 
 ###Steve Parks
 **Managing Director**<br/>

@@ -84,4 +84,4 @@ If you’re left a voicemail the voicemail symbol will appear on the handset. To
 
 If you have further problems you can call the OrbTalk support line on 0844 357 1660.
 
-For details of all staff direct numbers and extensions see WR Phone Directory.
+For details of all staff direct numbers and extensions see <a href="who/wr-phone-directory">WR Phone Directory</a>.
