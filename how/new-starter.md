@@ -53,9 +53,16 @@ We use Gmail for all email correspondence. You should have received details of t
 
 ##Health & Safety
 
-Your wellbeing is important to us. We've a <a href="http://way.wunder.co.company/health-and-safety/">Health & Safety policy</a> that you can you review.
+Due to the distributed nature of the team it is not practical to visit your home office on a regular basis. The company needs you to assess your own comfort and safety and to communicate any risks or discomfort to management. Where the risk or discomfort is related to hardware or furniture then we'll work with you to fix this.
 
-As a distributed team we need to rely on you to tell us if there is anything that is likely to affect your wellbeing or how you do your job. We have an open door policy and we can be very discreet. If you have any issue at all that you need to discuss please speak to Steve Parks or Steve Hunton.
+When you begin working with the organisation we'll have already asked you about your home office arrangements to determine whether or not you have a suitable work space in which to perform your job. Some people work solely from home, others choose to split their time between home and e.g. coffee shops.
+
+Travel is a necessity for some of usto perform our jobs. The company does not operate or deal with customers in potentially risky countries. We only travel and operate in destinations approved by the UK Foreign Office.
+
+If you have any issues or questions related to Health and Safety these must be discussed with Steve Parks or Steve Hunton.
+
+Here's our <a href="http://way.wunder.co.uk/company/health-and-safety/">Health & Safety policy</a> in full.
+
 
 ##We're the best!
 
