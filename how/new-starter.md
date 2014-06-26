@@ -51,6 +51,12 @@ We generally use Google Hangouts for video calls. Our experience of these is far
 
 We use Gmail for all email correspondence. You should have received details of this. 
 
+##Health & Safety
+
+Your wellbeing is important to us. We've a <a href="http://way.wunder.co.company/health-and-safety/">Health & Safety policy</a> that you can you review.
+
+As a distributed team we need to rely on you to tell us if there is anything that is likely to affect your wellbeing or how you do your job. We have an open door policy and we can be very discreet. If you have any issue at all that you need to discuss please speak to Steve Parks or Steve Hunton.
+
 ##We're the best!
 
 Well, that's our plan and we've made big steps to achieve that. We've implemented some nice lean processes and are ISO9001 certified. That just means that we manage ourselves and our projects as well as we can, we're always looking to better ourselves and we want you to be part of that too. There are some references to get you started here:
