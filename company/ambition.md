@@ -1,6 +1,6 @@
 ---
 layout: page
-section: how
+section: company
 categories:
 tags:
 title: Our Ambition
