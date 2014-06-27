@@ -41,7 +41,7 @@ This section sets out how we deliver projects.
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
   {% if node.title != null %}
-    {% if node.section == "project-delivery" %}
+    {% if node.section == "projects" %}
 <a class="section-list" href="{{ node.url }}">{{ node.title }}</a>
     {% endif %}
   {% endif %}

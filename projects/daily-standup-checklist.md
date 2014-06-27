@@ -1,6 +1,6 @@
 ---
 layout: page
-section: project-delivery
+section: projects
 categories: Admin
 tags:
 title: Daily Standup (scrum) Checklist
