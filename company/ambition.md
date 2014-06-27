@@ -9,7 +9,7 @@ title: Our Ambition
 We want to be known as the most expert, professional, open and collaborative company in the world.
 
 
-# WHat?!
+# What?!
 That's a really big long term goal (yes, it means out of all companies in the world!), so in the mid-term we want to achieve that same reputation as a web company in Europe, and in the short term as a Drupal company in Europe. We'll move step by step towards the big ambition.
 
 
