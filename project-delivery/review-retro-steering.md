@@ -6,6 +6,8 @@ tags:
 title: Sprint Reviews, Retrospectives and Steering Groups
 ---
 
+We carry out a number of reviews during the course of projects. Regular reviews and demonstrations provides the opportunities to identify improvements to products, processes and relationships. 
+
 ##Sprint Review
 
 Every sprint ends with a demo of what's been developed. Every project is different so there's no template for the demo.
