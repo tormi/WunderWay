@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            WunderWay
-tagline:          How we work
-description:      A collection of processes we use at WunderRoot.
+tagline:          The WunderRoot Intranet
+description:      How we run our company and deliver projects
 url:              http://wunderroot.co.uk
 
 author:
-  name:           Lewis Nyman
-  url:            https://twitter.com/lewisnyman
+  name:           WunderRoot
+  url:            https://twitter.com/wunderroot
 
 # Custom vars
 version:          1.0.0
