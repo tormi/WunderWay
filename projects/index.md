@@ -7,6 +7,8 @@ This section sets out how we deliver projects.
 
 - Startup
 
+-- [Initialising a Project](/projects/initialising-a-project)
+
 - Discovery
 -- User Research
 -- Stakeholder Research
@@ -19,9 +21,9 @@ This section sets out how we deliver projects.
 -- Phases: Alpha, Beta, Live
 -- Sprints
 --- Sprint Planning
---- Daily Standup
---- (Sprint Review)[/projects/sprint-review.md]
---- Sprint Retrospective
+--- [Daily Standup](/projects/daily-standup)
+--- [Sprint Review](/projects/sprint-review)
+--- [Sprint Retrospective]()
 -- Stakeholder communciation
 -- User Testing
 -- Risk Management
