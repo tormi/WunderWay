@@ -11,21 +11,21 @@ This section sets out how we deliver projects.
 -- User Research
 -- Stakeholder Research
 -- Other Research
--- Backlog Development
--- Risk Management
--- Quality Management
+-- <a href="delivering-a-project">Backlog Development</a>
+-- <a href="issue-and-risk-management">Risk Management</a>
+-- <a href="qualty-testing-non-conformities">Quality Management</a>
 
 - Delivery
 -- Phases: Alpha, Beta, Live
 -- Sprints
 --- Sprint Planning
---- Daily Standup
+--- <a href="daily-standup">Daily Standup</a>
 --- (Sprint Review)[/projects/sprint-review.md]
 --- Sprint Retrospective
--- Stakeholder communciation
+-- <a href="qms-internal-audits-and-management-reviews">Stakeholder communciation</a>
 -- User Testing
--- Risk Management
--- Quality Management
+-- <a href="issue-and-risk-management">Risk Management</a>
+-- <a href="qualty-testing-non-conformities">Quality Management</a>
 
 
 - Delivery Workflow
