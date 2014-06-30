@@ -8,5 +8,7 @@ This section explains how we work with clients - from identifying who we'd like 
 - Our kind of client
 - Winning new clients
 - Looking after clients
--- Handling complaints
+
+-- (Handling complaints)[/clients/complaints]
+
 - Building long-term partnerships
