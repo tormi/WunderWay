@@ -35,6 +35,8 @@ We'll provide you with a SIP phone which you can use from your home office. This
 
 For information about expenses see <a href="http://way.wunder.co.uk/how/how-claim-expenses/">How to Claim Expenses</a>.
 
+[id]: http://way.wunder.co.uk/how/how-claim-expenses/ "Link Text"
+
 ##Holidays
 
 You'll be allocated a holiday allowance each year. See <a href="http://way.wunder.co.uk/how/how-to-book-holidays/">How to Book Holidays</a> for more information.
