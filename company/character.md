@@ -26,9 +26,9 @@ We play nicely with others. We easily form 'one team' on a project regardless of
 # Character In Action
 This company character can help guide us in making the right decisions about our daily work, projects, and the way we run the company. For example:
 
-- if there's something we don't feel we can be **open** about, perhaps that's a warning sign that it might not be the right thing to do.
-- if there's something we don't have genuine **expertise** in, and can't build that expertise in a suitable timeframe, then that's not an area we should undertake work in.
-- if a client isn't prepared to work in a very **collaborative** way with us, perhaps we're not a good fit for each other.
+- We should only do things that we are happy to be **open** about. If we're ok with anything being public, it probably means we're on track with our standards of honesty and ethics.
+- We should only do work for which we have genuine **expertise**, politely declining offers of projects that we're not a good fit for.
+- We will only work with clients and other organisations who are prepared to work in a very **collaborative** way with us, politicely declining to work with those who aren't.
 
 # Continuous Improvement
 In line with our principle of continuous improvement, we will always be able to get better at living up to our character. Therefore whenever any of us, even the newest recruit, spots room for improvement we communicate that frankly and helpfully.
