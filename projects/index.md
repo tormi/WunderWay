@@ -5,34 +5,33 @@ title: Projects
 
 This section sets out how we deliver projects.
 
-- Startup
+#Startup
 
--- [Initialising a Project](/projects/initialising-a-project)
-
-- Discovery
--- User Research
--- Stakeholder Research
--- Other Research
--- <a href="delivering-a-project">Backlog Development</a>
--- <a href="issue-and-risk-management">Risk Management</a>
--- <a href="qualty-testing-non-conformities">Quality Management</a>
-
-- Delivery
--- Phases: Alpha, Beta, Live
--- Sprints
---- Sprint Planning
---- [Daily Standup](/projects/daily-standup)
---- [Sprint Review](/projects/sprint-review)
---- [Sprint Retrospective]()
--- Stakeholder communciation
--- User Testing
--- <a href="issue-and-risk-management">Risk Management</a>
--- <a href="qualty-testing-non-conformities">Quality Management</a>
+-[Initialising a Project](/projects/initialising-a-project)
 
 
-- Delivery Workflow
--- 
--- Backlog Development
+# Discovery
+
+- User Research
+- Stakeholder Research
+- Other Research
+- [Backlog Development](/projects/delivering-a-project)
+- [Risk Management](/projectsissue-and-risk-management)
+- [Quality Management](/projects/qualty-testing-non-conformities)
+
+
+# Delivery
+
+- Phases: Alpha, Beta, Live
+- Sprints
+	- Sprint Planning
+	- [Daily Standup](/projects/daily-standup)
+	- [Sprint Review](/projects/sprint-review)
+	- [Sprint Retrospective]()
+- Stakeholder communciation
+- User Testing
+- [Risk Management](/projectsissue-and-risk-management)
+- [Quality Management](/projects/qualty-testing-non-conformities)
 
 
 {% comment %}
