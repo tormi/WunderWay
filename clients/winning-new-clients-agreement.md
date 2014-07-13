@@ -3,5 +3,5 @@ layout: page
 section: clients
 categories:
 tags:
-title: Winning New Clients: Agreement
+title: Winning New Clients - Agreement
 ---

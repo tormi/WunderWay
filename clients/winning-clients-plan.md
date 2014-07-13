@@ -3,5 +3,5 @@ layout: page
 section: clients
 categories:
 tags:
-title: Winning Clients: Plan
+title: Winning Clients - Plan
 ---

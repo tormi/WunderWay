@@ -3,7 +3,7 @@ layout: page
 section: clients
 categories:
 tags:
-title: Winning Clients: Stop/Go
+title: Winning Clients - Stop/Go
 ---
 
 The decision to bid or not to bid is based on two things: our evaluation of the information gathered in the Discovery phase and our gut feeling.

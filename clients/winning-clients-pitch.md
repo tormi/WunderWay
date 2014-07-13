@@ -3,5 +3,5 @@ layout: page
 section: clients
 categories:
 tags:
-title: Winning Clients: Pitch
+title: Winning Clients - Pitch
 ---
