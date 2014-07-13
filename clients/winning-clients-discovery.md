@@ -3,7 +3,7 @@ layout: page
 section: clients
 categories:
 tags:
-title: Winning Clients: Discovery
+title: Winning Clients - Discovery
 ---
 
 Gather and review as much information as you can on:
