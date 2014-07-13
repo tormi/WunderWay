@@ -33,7 +33,8 @@ We'll provide you with a SIP phone which you can use from your home office. This
 
 ##Expenses
 
-For information about expenses see <a href="http://way.wunder.co.uk/how/how-claim-expenses/">How to Claim Expenses</a>.
+For information about expenses see [How to Claim Expenses](http://way.wunder.co.uk/how/how-claim-expenses/).
+
 
 ##Holidays
 
