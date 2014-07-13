@@ -6,7 +6,9 @@ tags:
 title: Winning Clients - Discovery
 ---
 
-Gather and review as much information as you can on:
+First - properly read any documentation we have been sent by the client.
+
+Then, gather and review as much information as you can on:
 
 - Client background: company profile, client team members, individual profiles
 - Who the buyers are (see below)
@@ -37,8 +39,9 @@ Types of Buyers:
 This is the person signing off the spend. They usually sit at a high level in the organization.
 
 - What are their perspectives on the project, and what will make them choose us?
+- What risks do they perceive and prioritise?
 - Is this project sponsor a technical person? 
-- Are they only a rubber-stamper taking a recommendation from technical colleagues, or can they override technical opinion?
+- Are they only a rubber-stamper taking a recommendation from technical colleagues, or might they override technical opinion?
 - Consider how the shift towards web budgets coming under the CMO affects this client. Will it change their perspective and how we need to respond?
 
 ### Economic buyer
@@ -47,21 +50,24 @@ This person makes a recommendation to the colleague signing off. They need to ma
 ### Technical buyer
 The person who has their eye on the technical detail of how the solution will work.
 
+- Do they have preferences for, or prejudices against, particular systems from past projects?
+
 ### Influencer
-This person can make huge difference to the choice – they may have influence but not have management power. For example, a web editor who will use the system day to day, or someone from procurement.
+This person can make huge difference to the choice – they may have influence but not have management power. For example, a web editor who will use the system day to day.
 
 ### Procurement
-This person can sometimes just be an influencer, without holding any real power. It’s important to know their strength and if they can be side-stepped.
+In some cases the procurement person can really lead the process, and be very pro-active. In other cases this person can just be an influencer, without holding any real power. It’s important to know their true role in the process and if we can build a direct relationship with other buyers too.
 [TOOL: Winning With Procurement](https://docs.google.com/a/wunderkraut.com/presentation/d/1IPr04C39adDeVOjiZwLAfn9ZPkPNCJ6rfx09raTWmCk/edit)
 
-### Client coach
+### Client connector
 Someone within the client who was the reason you were invited to pitch, perhaps a social contact, from the Drupal community, or someone closer to you than the other buyers.
 This person can provide client insight you might not normally get, and can make a big difference to the outcome.
+
 
 ## The Buyer Campaign
 We need to activate all of the people voting on or influencing a bid decision. It’s best to reach them before the proposal stage, and in a non-proposal setting. This is particularly relevant in cases when we’re targeting clients for future work, developing long-term relationships and watching for bigger opportunities.
 
-Approach this by reviewing our list of targets and noting down ways to make connections ahead of time – through industry or technical meetups, by organizing forums ourselves, or hosting training days. This helps us break out of RFP process, develop relationships that further the Wunder brand, and attract a better class of customer.
+Approach this by reviewing our list of contacts and noting down ways to make connections ahead of time – through industry or technical meetups, by organizing forums ourselves, or hosting training days. This helps us break out of RFP process, develop relationships that further the Wunder brand, and attract a better class of customer.
 
 Get the inside track on who is involved in the decision-making on the pitches, and exactly who those people are. Look within the Wunder companies for connections with individual customers, BUT beware of very close connections and conflicts of interest – these could have a negative effect in some situations.
 
