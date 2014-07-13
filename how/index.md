@@ -1,6 +1,6 @@
 ---
 layout: section
-title: How
+title: How To
 ---
 
 This section explains how we do things, from delivering projects to the day to day admin.

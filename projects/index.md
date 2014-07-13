@@ -7,7 +7,7 @@ This section sets out how we deliver projects.
 
 #Startup
 
--[Initialising a Project](/projects/initialising-a-project)
+- [Initialising a Project](/projects/initialising-a-project)
 
 
 # Discovery
@@ -33,6 +33,11 @@ This section sets out how we deliver projects.
 - [Risk Management](/projectsissue-and-risk-management)
 - [Quality Management](/projects/qualty-testing-non-conformities)
 
+
+
+
+# All pages
+Below is a list of all pages in this section, including those which may not have been manually added to the contents above yet
 
 {% comment %}
   The code below dynamically generates a list of pages with
