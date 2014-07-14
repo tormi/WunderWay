@@ -6,23 +6,36 @@ tags:
 title: Winning Clients - Stop/Go
 ---
 
-The decision to bid or not to bid is based on two things: our evaluation of the information gathered in the Discovery phase and our gut feeling.
+The decision to bid or not to bid is based on two things: our evaluation of the information available and our gut feeling.
+
+We put all new opportunities through the Stop/Go decision gate at numerous points. This is because it is better and cheaper for us to get to 'No' as soon as possible.
+
+# Stop/Go Decision Points
+
+1. As soon as we receive an opportunity.
+2. After Sales Discovery.
+3. After Plan & Prove work.
+4. After Presentation.
+5. ...or any other point at which the information or your gut feel changes.
+
+# Making a Stop/Go Decision
 
 The fundamental questions to ask before entering into a pitch process are:
 
 - Do we want it?
 - Can we win it?
 
-If the answer to either is ‘No’, our efforts may well be better spent chasing other opportunities.
+If the answer to either is ‘No’ or even 'Not Sure', our efforts are likely to be better spent on other opportunities.
 
-- Do we want it?
+## Do we want it?
 - Is the project itself economically viable?
-- Is the client one we want to work with?
-- Can our team stretch?
+- Is the client one we want to work with? See [Our Kind of Client](/clients/our-kind-of-client)
+- Can we put together a good team for the timescale of the project?
 - Would we benefit as a company, as a brand, as a team of professionals?
+- Would we enjoy the work, and be proud of it?
 
-- Can we win it?
-- Can we do what the client needs us to do?
+## Can we win it?
+- Can we do what the client needs us to do, really well?
 - Do we know people on the client side and have beneficial relationships with them?
 - Who are we competing against? Are we able to match and exceed their strengths? How are their relationships with the client?
 

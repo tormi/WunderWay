@@ -3,12 +3,12 @@ layout: page
 section: clients
 categories:
 tags:
-title: Winning Clients - Plan and Prove
+title: Winning Clients - Prepare and Prove
 ---
 
 In this section we'll begin to develop our case
 
-## Plan
+## Prepare
 
 Start your plan with the end in mind – imagine that we’ve won the pitch and work backwards to unpick how we did it. We’ll have needed to have completely understood the customer’s wants and needs, and to have looked, sounded and felt different from our competitors.
 
