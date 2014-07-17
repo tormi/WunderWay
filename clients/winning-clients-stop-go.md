@@ -27,19 +27,32 @@ The fundamental questions to ask before entering into a pitch process are:
 
 If the answer to either is ‘No’ or even 'Not Sure', our efforts are likely to be better spent on other opportunities.
 
-## Do we want it?
+### Do we want it?
 - Is the project itself economically viable?
 - Is the client one we want to work with? See [Our Kind of Client](/clients/our-kind-of-client)
 - Can we put together a good team for the timescale of the project?
 - Would we benefit as a company, as a brand, as a team of professionals?
 - Would we enjoy the work, and be proud of it?
 
-## Can we win it?
+### Can we win it?
 - Can we do what the client needs us to do, really well?
 - Do we know people on the client side and have beneficial relationships with them?
 - Who are we competing against? Are we able to match and exceed their strengths? How are their relationships with the client?
 
 [TOOL: Opportunity Assessment Worksheet](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Am3NbyRYpZJDdGNXbUIzQjRKRXFBR1UzYS16cVRSVnc&usp=drive_web#gid=0)
+
+
+## Putting together a team
+A key consideration at this stage is whether we have the right people with the right level of availability to undertake our Winning New Clients process. We need:
+
+- A project sponsor: usually someone based close to the customer, or with particularly in-depth knowledge about the sector
+- A project leader: someone with enough experience of our Winning New Clients process, who can co-ordinate the team and make key decisions. They will put together the business case.
+- A tech lead: someone with expertise in the relevant technologies and challeneges involved in the project. They will put together the technical proposal, and lead the estimation.
+- An assistant: They will help the team with research, admin, travel arrangements etc
+
+At least one of the project sponsor, project leader, or technical lead should have availability to continue on to deliver the project if we are successful, and on large projects it should be at least two.
+
+If we can't put together a suitable team, with enough availability, then we must say 'Stop' at this point.
 
 
 ## If It’s ‘Stop’
