@@ -47,7 +47,7 @@ A key consideration at this stage is whether we have the right people with the r
 
 - A project sponsor: usually someone based close to the customer, or with particularly in-depth knowledge about the sector
 - A project leader: someone with enough experience of our Winning New Clients process, who can co-ordinate the team and make key decisions. They will put together the business case.
-- A tech lead: someone with expertise in the relevant technologies and challeneges involved in the project. They will put together the technical proposal, and lead the estimation.
+- A tech lead: someone with expertise in the relevant technologies and challenges involved in the project. They will put together the technical proposal, and lead the estimation.
 - An assistant: They will help the team with research, admin, travel arrangements etc
 
 At least one of the project sponsor, project leader, or technical lead should have availability to continue on to deliver the project if we are successful, and on large projects it should be at least two.
