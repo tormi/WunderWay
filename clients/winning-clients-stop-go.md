@@ -29,7 +29,7 @@ If the answer to either is ‘No’ or even 'Not Sure', our efforts are likely t
 
 ### Do we want it?
 - Is the project itself economically viable?
-- Is the client one we want to work with? See [Our Kind of Client](/clients/our-kind-of-client)
+- Is the client one we want to work with? See [Our Kind of Client](/clients/our-kind-client)
 - Can we put together a good team for the timescale of the project?
 - Would we benefit as a company, as a brand, as a team of professionals?
 - Would we enjoy the work, and be proud of it?
@@ -39,7 +39,10 @@ If the answer to either is ‘No’ or even 'Not Sure', our efforts are likely t
 - Do we know people on the client side and have beneficial relationships with them?
 - Who are we competing against? Are we able to match and exceed their strengths? How are their relationships with the client?
 
-[TOOL: Opportunity Assessment Worksheet](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Am3NbyRYpZJDdGNXbUIzQjRKRXFBR1UzYS16cVRSVnc&usp=drive_web#gid=0)
+## Worksheet
+We've developed a new project evaluation worksheet, which lists some of these questions and others, and aims to help us filter all the potential new projects we receive:
+[TOOL: New Project Evaluation Worksheet](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdDZpdWVxQmxLQ2dibkxocUduaTZoRkE#gid=0)
+Create a copy of this template worksheet to assess each new project.
 
 
 ## Putting together a team
