@@ -103,4 +103,7 @@ Make sure you introduce the new starter on their first Friday company Hangout, a
 You'll need to carry on the same sort of rhythm:
 
 - make sure you have Hangouts regularly;
-- keep checking the
+- keep checking the Questions channel in HipChat;
+- etc.
+
+It'll be clear when your ward is still in need of support and when they're flying, so just use your own wisdom to work out how much contact you need to keep up for how long.
