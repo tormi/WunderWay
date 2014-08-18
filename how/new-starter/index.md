@@ -79,3 +79,19 @@ Well, that's our plan and we've made big steps to achieve that. We've implemente
 ##Everything Else
 
 If you still have questions you can look around the WunderWay (see the <a href="http://way.wunder.co.uk/how/">How</a> section), ask your buddy or speak to SteveP or SteveH.
+
+Or it may be below:
+
+{% comment %}
+  The code below dynamically generates a list of pages with
+  section = how in the front-matter.
+{% endcomment %}
+
+{% assign pages_list = site.pages %}
+{% for node in pages_list %}
+  {% if node.title != null %}
+    {% if node.section == "how" and node.subsection == "questions" %}
+- <a class="section-list" href="{{ node.url }}">{{ node.title }}</a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
