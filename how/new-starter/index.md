@@ -15,7 +15,7 @@ We keep a checklist of everything you need to make sure we don't miss anything b
 
 ##[You get a buddy!](/how/new-starter/buddies/)
 
-When you first start you'll be assigned a buddy. We're a friendly bunch but you'll find it easier if there's a single person you can turn to to help you out initially. Your buddy will be the last person to join. They've probably gone through an induction recently so it'll all be fresh in their minds and will help us understand whether or not they've understood everything they need to know too.
+When you first start you'll be assigned a buddy. We're a friendly bunch but you'll find it easier if there's a single person you can turn to to help you out initially.
 
 Find out [more about buddies](/how/new-starter/buddies/).
 

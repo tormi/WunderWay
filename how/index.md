@@ -13,7 +13,7 @@ This section explains how we do things, from delivering projects to the day to d
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
   {% if node.title != null %}
-    {% if node.section == "how" %}
+    {% if node.section == "how" and node.subsection == null %}
 <a class="section-list" href="{{ node.url }}">{{ node.title }}</a>
     {% endif %}
   {% endif %}
