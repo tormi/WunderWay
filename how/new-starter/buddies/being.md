@@ -92,8 +92,15 @@ Don't forget to have at least one Hangout each day - first thing is probably a g
 
 Remember to recap the plan for the week, and ask about how things have been going.
 
-It's also really important regularly to check the Questions channel in HipChat - any questions in there should have a response as soon as you're able.
+It's also really important regularly to check the Questions channel in HipChat - any questions in there should have a response as soon as you're able. Any questions asked in the Questions channel may be useful enough to add an item to the [New Starter Questions here on WunderWay](how/new-starter/questions/) - if so, either add a page to the site, or create an issue (in Rally? as a GitHub repo issue?) to add one. It's your responsibility to make sure this questions gets added to the site!
 
 ###The first Friday
 
 Make sure you introduce the new starter on their first Friday company Hangout, and get them to talk about what they've been doing this week, and what they're going to be working on at WunderRoot.
+
+##The next few weeks
+
+You'll need to carry on the same sort of rhythm:
+
+- make sure you have Hangouts regularly;
+- keep checking the
