@@ -91,7 +91,7 @@ Or it may be below:
 {% for node in pages_list %}
   {% if node.title != null %}
     {% if node.section == "how" and node.subsection == "questions" %}
-- <a class="section-list" href="{{ node.url }}">{{ node.title }}</a>
+- <a class="section-list question-list" href="{{ node.url }}">{{ node.title }}</a>
     {% endif %}
   {% endif %}
 {% endfor %}
