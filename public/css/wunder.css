@@ -33,3 +33,13 @@
   background: white;
   outline: 1px solid #CCC;
 }
+
+/* Quick floats */
+.pull-left {
+  float: left !important;
+  margin: 0 2rem 2rem 0;
+}
+.pull-right {
+  float: right !important;
+  margin: 0 0 2rem 2rem;
+}
