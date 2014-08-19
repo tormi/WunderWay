@@ -38,6 +38,11 @@ We'll provide you with a SIP phone which you can use from your home office. This
 For information about expenses see [How to Claim Expenses](/how/how-claim-expenses/).
 
 
+## Fridays
+
+[Fridays are special days](/how/fridays/). Each Friday we have a company Hangout, to catch up with other staff that we haven't worked with during the week, to hear what people have been working on and what their 'give back' Friday plans are. Your first Friday Hangout will be a chance to introduce yourself and meet anyone you haven't said hello to yet.
+
+
 ##Holidays
 
 You'll be allocated a holiday allowance each year. See <a href="/how/how-to-book-holidays/">How to Book Holidays</a> for more information.
@@ -48,11 +53,11 @@ With distributed teams communication is really important. With the right tools w
 
 The phone is always a good place to start. Take a look at the <a href="/who/wr-phone-directory/">UK Phone Directory</a>.
 
-We use a combination of <a href="http://www.skype.com/en/">Skype</a> and <a href="https://www.hipchat.com">HipChat</a> for online text chats. It's a good idea to install both of these. 
+We use a combination of <a href="http://www.skype.com/en/">Skype</a> and <a href="https://www.hipchat.com">HipChat</a> for online text chats. It's a good idea to install both of these.
 
-We generally use Google Hangouts for video calls. Our experience of these is far better than Skype. When you started we created a Google Account for you. Whenever there's to be a hangout we'll announce it and provide a link in HipChat. As a minimum there's a weekly Wunderroot Hangout on a Friday when we discuss our weeks and have a general chin wag. Otherwise we use hangouts for quick project calls.
+We use Google Hangouts for video calls. Whenever there's to be a hangout we'll announce it and provide a link in HipChat. As a minimum there's a weekly Wunderroot Hangout on a Friday when we discuss our weeks and have a general chin wag. We use hangouts for quick project calls.
 
-We use Gmail for all email correspondence. You should have received details of this. 
+We use a company Gmail account for all email correspondence.
 
 ##Health & Safety
 
