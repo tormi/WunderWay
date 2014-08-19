@@ -102,6 +102,21 @@ Remember to recap the plan for the week, and ask about how things have been goin
 
 It's also really important regularly to check the Questions channel in HipChat - any questions in there should have a response as soon as you're able. Any questions asked in the Questions channel may be useful enough to add an item to the [New Starter Questions here on WunderWay](how/new-starter/questions/) - if so, either add a page to the site, or create an issue (in Rally? as a GitHub repo issue?) to add one. It's your responsibility to make sure this questions gets added to the site!
 
+###How do I add a new newbie question to WunderWay?
+
+It's very simple! Just add a new {questionname}.md file in the /how/new-starter/ directory of this site's codebase. And make sure in the [frontmatter of the .md file](http://jekyllrb.com/docs/frontmatter/) that you include:
+
+{% highlight yaml %}
+---
+layout: page
+section: how
+subsection: questions
+title: Your question title here
+---
+{% endhighlight %}
+
+Check out some of the existing questions in the [New Starter directory of the codebase for this site](https://github.com/WunderRoot/WunderWay/tree/gh-pages/how/new-starter) for further inspiration.
+
 ###The first Friday
 
 Make sure you introduce the new starter on their first Friday company Hangout, and get them to talk about what they've been doing this week, and what they're going to be working on at WunderRoot.
