@@ -66,6 +66,14 @@ It's also important to spend time on the first day to get the new starter set up
 
 In order to get to know each other you should aim to write a short biography of the new person on their first day. This should be added to the [Staff Directory page of WunderWay](/who/).
 
+The biography doesn't need to be long; 200 ± 25% words is a good target. Do try to cover some important things, though:
+
+- significant project the newbie has worked on
+- any relevant professional qualifications (e.g. Scrum Master)
+- some personal colour and shade
+
+Try to use simple, conversational language, in whole sentences. Simple stuff, really.
+
 ###What's gonna be happening this week?
 
 Spend time to go over the plan for this week, and maybe set up some meetings for the new starter and their teammates or project leaders to get introduced to the projects and clients.
