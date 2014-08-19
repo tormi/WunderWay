@@ -27,7 +27,7 @@ Create a new repository.
 
 For project management tools, we use [Rally](https://www.rallydev.com/).
 
-Steve Hunton shows rally who's boss for us, so if you need help creating a Project in Rally, he's the man to ask.
+Steve Hunton shows Rally who's boss for us, so if you need help creating a Project in Rally, he's the man to ask.
 
 ### GitHub integration
 
