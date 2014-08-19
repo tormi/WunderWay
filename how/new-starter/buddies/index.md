@@ -4,10 +4,9 @@ section: how
 subsection: buddies
 categories: Admin
 tags:
-title: New starter buddies
+title: The buddy system
 ---
-When you first start you'll be assigned a buddy. We're a friendly bunch but you'll find it easier if there's a single person you can turn to to help you out initially. Your buddy will be the next-to-last person to join. They've probably gone through an induction recently so it'll all be fresh in their minds and will help us understand whether or not they've understood everything they need to know too.
-
+When you first start you'll be assigned a buddy. Your buddy is responsible for making sure you're settling in and you have everything you need. As buddies are usually the next-to-last person to join, they've recently gone through an induction themselves and understand the point of view of a newbie.
 
 ##[Having a buddy »](/how/new-starter/buddies/having/)
 Your buddy will spend plenty of time with you in the first few weeks with WunderRoot. Find out what to expect from [having a buddy](/how/new-starter/buddies/having/).
