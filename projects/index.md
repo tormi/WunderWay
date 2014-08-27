@@ -22,6 +22,7 @@ This section sets out how we deliver projects.
 
 # Delivery
 
+- [Agile delivery diagram](/projects/agile-delivery-diagram)
 - Phases: Alpha, Beta, Live
 - Sprints
 	- Sprint Planning
