@@ -28,7 +28,7 @@ The Quality Objectives are derived from the overall [WR Business Objectives](/co
 
 Our primary objective is to provide professional services to our customers. In order to do this we need to focus on several sub-objectives:
 
-###Development and Provision of Quality Products
+**Development and Provision of Quality Products**
 
 Goals & Measurements:
 
@@ -42,7 +42,7 @@ We must maintain quality in everything that we do including the service we provi
 
 *The quality of the products that we produce will be measured by the satisfaction of the client at the end of each sprint (usability and bug count). Sign-off of a sprint is acceptance of the quality delivered. Sprint estimation accuracy provides a clear indication of what is possible within the remaining sprints and allows for more accurate planning.*
 
-###The Provision of a Quality Service
+**The Provision of a Quality Service**
 
 Goals & Measurements:
 
@@ -53,7 +53,7 @@ The quality of the services that we provide must be consistently high, must prov
 
 *The satisfaction of customers is recorded at the end of every sprint and at the end of every project.  Sign-off of a sprint is acceptance of the quality delivered.*
 
-###Managing Risk
+**Managing Risk**
 
 Goals & Measurements:
 
@@ -65,7 +65,7 @@ Risk is inherent in everything that we do. We must seek to identify and manage r
 
 *The management of risk provides assurances to the customer of a quality service. The quality of the service is addressed with the customer at the end of every sprint and project. Risk cannot be avoided. By providing a means to capture risks and assigning an owner to the management of the risk logs with regular reviews we can carefully monitor the progress of mitigation against each risk.*
 
-###Efficient Operations
+**Efficient Operations**
 
 The operation on our business must be as efficient as possible in order to enjoy bigger margins and to be competitive in our pricing. 
 
