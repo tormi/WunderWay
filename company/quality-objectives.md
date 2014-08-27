@@ -22,8 +22,7 @@ The Quality Objectives are derived from the overall [WR Business Objectives](/co
 
 **See also:**
 
-- [Quality Scope](/company/quality-scope)
-- [Quality Policy](/company/quality-policy/)
+- [Quality Policy & Scope](/company/quality-policy/)
 
 ##Professional Services
 
