@@ -24,7 +24,7 @@ The Quality Objectives are derived from the overall [WR Business Objectives](/co
 
 - [Quality Policy & Scope](/company/quality-policy/)
 
-##Professional Services
+##Professional Services##
 
 Our primary objective is to provide professional services to our customers. In order to do this we need to focus on several sub-objectives:
 
