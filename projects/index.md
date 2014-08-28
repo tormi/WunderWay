@@ -9,6 +9,7 @@ This section sets out how we deliver projects.
 
 - [Initialising a Project](/projects/initialising-a-project)
 - [Project Suitability](/projects/suitable-project/)
+- [Cost of Acquisition](/projects/cost-of-acquisition/)
 
 
 # Discovery
