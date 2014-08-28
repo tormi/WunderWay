@@ -8,6 +8,7 @@ This section sets out how we deliver projects.
 #Startup
 
 - [Initialising a Project](/projects/initialising-a-project)
+- [Project Suitability](/projects/suitable-project/)
 
 
 # Discovery
