@@ -26,18 +26,15 @@ Acceptance criteria is written into each user story and is used during User Acce
 
 The code review is performed by the lead or senior developer to check that it has been well written and is efficient.
 
-Code is fully tested prior to being released to live and to the environment in which the client will test. Because all products are different we define the necessary checks on a per-sprint basis and the checks are logged in the Quality Control spreadsheet which is stored in the backlogs folder in the project repository. A new tab can be created in the spreadsheet for each sprint. The actual quality controls will be largely based on that which is agreed and documented in the Project Initialisation phase. 
+Code is fully tested prior to being released to live and to the environment in which the client will test. User stories are tested against the Definition of Done (recorded in the project's *backlog* folder). The actual quality controls will be largely based on that which is agreed and documented in the Project Initialisation phase. 
 
-When going through the checklist, if any checks fail then we simply raise a bug (defect) in the backlog that captures the detail of what we were testing, what was expected and what actually happened. Where appropriate, we also record details of the environment and anything else that will help the developers recreate the problem so that a fix can be identified and implemented.
-
-Quality Control Spreadsheet template:
-<https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdFdiMk9OYUNZQU5sNmpxX19hTzR5aFE#gid=0>
+When testing, if any checks fail then we simply raise a bug (defect) in the backlog that captures the detail of what we were testing, what was expected and what actually happened. Where appropriate, we also record details of the environment and anything else that will help the developers recreate the problem so that a fix can be identified and implemented.
 
 The general procedure for product testing is:
 
 <ol>
 	<li>All tasks relating to a story must first be complete before the story can be tested
-	<li>The developer performs testing of the story based on the acceptance criteria (record in the user story if applicable) and the definition of done (stored in the Technical Documentation folder)
+	<li>The developer performs testing of the story based on the acceptance criteria (record in the user story if applicable) and the definition of done
 	<li>If the story passes the tests it is marked as passed/closed
 	<li>The story is next tested by the WR test team (against acceptance criteria and the definition of done)
 	<li>If the story passes the tests it is marked as passed/closed
@@ -46,20 +43,20 @@ The general procedure for product testing is:
 
 The purpose of the Definition of Done (DoD) is to specify the generic testing required for most stories. The DoD will include testing criteria for minimum browser requirements, mobile requirements and design requirements).
 
-###Control of Non-Conforming Products and Corrective Actions
+###Managing Defects
+*Control of Non-Conforming Products and Corrective Actions*
 
-In the event that a bug, or non-conformity is found within a product, the details are fed back into the story and the story is marked as open. Because the number of stories accepted into a sprint is small we use the daily standups to report stories as having failed in testing. Details of non-conformities are kept within the story.
+When a story does not pass testing we record the details of the issue, re-work the story and re-test.
 
-We work in small teams which makes the communication of non-conformities easy. As a non-conformity is discovered, whether by the WR test team or the client, the user story is updated  with notes about the issue.
+If a bug is found and is not related to a story in the current sprint then we raise a defect in Rally and move it to the backlog.
+
 <ol>
-	<li>During testing a non-conformity is discovered
-	<li>Where possible the root cause is determined (product non-conformities usually require the skills of a programmer to identify)
-	<li>Details of the non-conformity are recorded against the user story
-	<li>The story is passed back to the developer who originally created the functionality
+	<li>During testing a bug is discovered
+	<li>Where possible the root cause is determined and recorded in the user story or defect
+	<li>The story is passed back to the developer who originally handled it
 	<li>The fix is implemented and the story is passed back through the full Quality Control and Testing process
-	<li>If specific acceptance requirements are improperly worded these can be update in the user story
 	<li>The cycle continues until all parties are able to mark the story as closed/passed
-	<li>If the root cause of the non-conformity is determined to be something that can be prevented from occurring again this is raised as a QMS Change Request
+	<li>If the root cause of the non-conformity is determined to be something that can be prevented from occurring again this is raised as a [QMS Change Request](/company/qms-change-request/)
 </ol>
 
 If the testing of a particular story proves to be problematic this can be raised during the daily standup. It’s up to the Scrum Master to identify the issues related to this and to implement steps to resolve.
