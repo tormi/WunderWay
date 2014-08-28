@@ -56,28 +56,23 @@ If a bug is found and is not related to a story in the current sprint then we ra
 	<li>The story is passed back to the developer who originally handled it
 	<li>The fix is implemented and the story is passed back through the full Quality Control and Testing process
 	<li>The cycle continues until all parties are able to mark the story as closed/passed
-	<li>If the root cause of the non-conformity is determined to be something that can be prevented from occurring again this is raised as a [QMS Change Request](/company/qms-change-request/)
+	<li>If the root cause of the non-conformity is determined to be something that can be prevented from occurring again this is raised as a QMS Change Request
 </ol>
 
-If the testing of a particular story proves to be problematic this can be raised during the daily standup. It’s up to the Scrum Master to identify the issues related to this and to implement steps to resolve.
+*See [QMS Change Request](/company/qms-change-request/)*
+
+If the testing of a particular story proves to be problematic this can be raised during the daily standup to get the input of the wider team.
 
 ###Preventive Actions
 
-At the end of every sprint we hold a Sprint Review and a Sprint Retrospective. During these sessions we look at the issues related to the sprint in order to mitigate the risk of them occurring again and to help the efficiency of future sprints.
+We hold a Sprint Review and a Sprint Retrospective at the end of each sprint. The sprint review demostrates what we've completed in the sprint. The sprint retrospective is an opportunity for the team to look back at how they managed the sprint and to look for ways to improve.
 
-In the event of a plan being identified to prevent a non-conformity or issue occurring again:
+When we identify a way to prevent a reoccuring problem we record it as a QMS Change Request to make sure it's managed properly:
 <ol>
-	<li>Record the findings as a QMS Change Request
+	<li>Record the details as a QMS Change Request
 	<li>Follow up the change request with the QMS Manager if this is considered a priority
 	<li>Report the request to the Scrum Master to ensure that it’s followed up as necessary
 	<li>Discuss the change (if accepted) during the next Sprint Retrospective
 </ol>
 
-Some non-conformities are identified during a sprint or other times. In these cases we use the QMS Change Request log to record the issue. The procedure is:
-<ol>
-	<li>The request is recorded and owned
-	<li>The request is reviewed to identify whether the QMS is at fault or whether it was a human error
-	<li>The request is assessed for priority, impact and value
-	<li>Preventive action (procedure review, communication) is implemented if necessary
-	<li>Corrective action (training, communication) is provided if necessary
-</ol>
+The person managing the change request will be responsible for identifying the need for training or process amends and will communicate these as necessary.
