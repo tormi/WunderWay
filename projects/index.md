@@ -18,7 +18,7 @@ This section sets out how we deliver projects.
 - Stakeholder Research
 - Other Research
 - [Backlog Development](/projects/delivering-a-project)
-- [Risk Management](/projectsissue-and-risk-management)
+- [Risk Management](/projects/issue-and-risk-management)
 - [Quality Management](/projects/qualty-testing-non-conformities)
 
 
@@ -33,7 +33,6 @@ This section sets out how we deliver projects.
 	- [Sprint Retrospective]()
 - Stakeholder communciation
 - User Testing
-- [Risk Management](/projects/issue-and-risk-management)
 - [Quality Management](/projects/qualty-testing-non-conformities)
 
 
