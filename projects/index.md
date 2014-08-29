@@ -27,13 +27,13 @@ This section sets out how we deliver projects.
 - [Agile delivery diagram](/projects/agile-delivery-diagram)
 - Phases: Alpha, Beta, Live
 - Sprints
-	- Sprint Planning
+	- [Backlogs & Planning](/projects/backlogs-and-planning)
 	- [Daily Standup](/projects/daily-standup)
 	- [Sprint Review](/projects/sprint-review)
 	- [Sprint Retrospective]()
 - Stakeholder communciation
 - User Testing
-- [Risk Management](/projectsissue-and-risk-management)
+- [Risk Management](/projects/issue-and-risk-management)
 - [Quality Management](/projects/qualty-testing-non-conformities)
 
 
