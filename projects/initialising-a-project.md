@@ -29,6 +29,8 @@ When preparing the proposal or attending meetings to discuss the project we reco
 
 Pre-written content is reviewed every six months by our copywriter. Requests for new content are added to the QMS Change Request log.
 
+**Templates:**
+
 - [Project Evaluation](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdFpOd3o3bHBkYXQ2eGV1X2diM2ZxVGc#gid=0)
 - [RFI Template](https://docs.google.com/a/wunderkraut.com/document/d/1mRlELA9rTN2zFUibhhWmObO97_3RaYfrgfBqbSyeq8A/edit#)
 - [Pre-approved Proposal Content](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0An9zqkd7d0PYdDN2RmJ4QUdsOFVRZmZBd1Fzdk9BN1E#gid=0)
