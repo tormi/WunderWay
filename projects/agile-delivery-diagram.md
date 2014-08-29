@@ -1,5 +1,8 @@
 ---
-layout: section
+layout: page
+section: projects
+categories: Admin
+tags:
 title: Agile Delivery Diagram
 ---
 
