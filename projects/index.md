@@ -10,6 +10,7 @@ This section sets out how we deliver projects.
 - [Initialising a Project](/projects/initialising-a-project)
 - [Project Suitability](/projects/suitable-project/)
 - [Project Costs](/projects/project-costs/)
+- [Communication](/projects/communication/)
 
 
 # Discovery
