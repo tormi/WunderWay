@@ -77,7 +77,7 @@ Here's our <a href="/company/health-and-safety/">Health & Safety policy</a> in f
 Well, that's our plan and we've made big steps to achieve that. We've implemented some nice lean processes and are ISO9001 certified. That just means that we manage ourselves and our projects as well as we can, we're always looking to better ourselves and we want you to be part of that too. There are some references to get you started here:
 
 <a href="/company/ambition/">Our Ambition</a><br/>
-<a href="/project-delivery/qms/">Quality Management System</a> < that's the official *how we do stuff* document<br/>
+<a href="/company/qms/">Quality Management System</a> < that's the official *how we do stuff* document<br/>
 <a href="/company/">Our Company</a><br/>
 <a href="/who/">Who we are</a>
 
