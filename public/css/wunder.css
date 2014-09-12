@@ -43,3 +43,16 @@
   float: right !important;
   margin: 0 0 2rem 2rem;
 }
+
+.social {
+  font-size: 0.75em;
+  padding-left: 1em;
+}
+a.icon-social:link,
+a.icon-social:visited {
+  color: #313131;
+}
+a.icon-social:hover,
+a.icon-social:active {
+  color: #268bd2;
+}
