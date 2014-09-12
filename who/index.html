@@ -1,0 +1,20 @@
+---
+layout: section
+title: Who
+---
+
+Staff directory, photo, their skills, bio, contact details
+
+Maybe we can loop through a people category  here like they do in https://github.com/github/training.github.com/blob/7049d7532a6856411e34046aedfce43a4afaf424/trainers/index.html
+
+
+{% for bio in site.categories.who %}
+  <div class="biography section center-on-mobiles">
+    {% if bio.avatar_url %}
+    <img src="{{ bio.avatar_url }}" class="avatar" alt="{{ bio.name }}, {{ bio.role }}">
+    {% else %}
+    <img src="http://www.wunderroot.co.uk/sites/default/files/styles/panopoly_image_half/public/default_images/nobody.jpg" class="avatar" alt="{{ bio.name }}, {{ bio.role }}">
+    {% endif %}
+    <h3>{{ bio.name }}</h3>
+  </div>
+{% endfor %}
