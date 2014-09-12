@@ -65,7 +65,21 @@ It's also important to spend time on the first day to get the new starter set up
 
 ###Who are you?
 
-In order to get to know each other you should aim to write a short biography of the new person within their first week. This should be added to the [Staff Directory page of WunderWay](/who/).
+In order to get to know each other you should aim to write a short biography of the new person within their first week. This should be added to the [Staff Directory page of WunderWay](/who/). To add it there, you just need to create a new markdown file in the [/who/_posts/](https://github.com/WunderRoot/WunderWay/tree/gh-pages/who/_posts) directory of this site's codebase. The file needs to be named correctly as a Jekyll post, meaning that the file name needs to include the date in reverse order, e.g.:
+
+  **2014-09-12-person-name-here.md**
+
+And make sure in the [frontmatter of the .md file](http://jekyllrb.com/docs/frontmatter/) that you include:
+
+{% highlight yaml %}
+---
+name: Person Name
+role: Person Role
+avatar_url: URL to a photo of the person
+github: Github username
+twitter: Twitter username
+---
+{% endhighlight %}
 
 The biography doesn't need to be long; 200 ± 25% words is a good target. Do try to cover some important things, though:
 
