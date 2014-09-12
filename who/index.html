@@ -3,18 +3,21 @@ layout: section
 title: Who
 ---
 
-Staff directory, photo, their skills, bio, contact details
+<p>Staff directory, photo, their skills, bio, contact details</p>
 
-Maybe we can loop through a people category  here like they do in https://github.com/github/training.github.com/blob/7049d7532a6856411e34046aedfce43a4afaf424/trainers/index.html
+<!-- <p>Maybe we can loop through a people category  here like they do in https://github.com/github/training.github.com/blob/7049d7532a6856411e34046aedfce43a4afaf424/trainers/index.html</p> -->
 
 
 {% for bio in site.categories.who %}
   <div class="biography section center-on-mobiles">
     {% if bio.avatar_url %}
-    <img src="{{ bio.avatar_url }}" class="avatar" alt="{{ bio.name }}, {{ bio.role }}">
+    <img src="{{ bio.avatar_url }}" class="avatar pull-right" alt="{{ bio.name }}, {{ bio.role }}">
     {% else %}
-    <img src="http://www.wunderroot.co.uk/sites/default/files/styles/panopoly_image_half/public/default_images/nobody.jpg" class="avatar" alt="{{ bio.name }}, {{ bio.role }}">
+    <img src="/public/images/nobody_sml.jpg" class="avatar pull-right" alt="{{ bio.name }}, {{ bio.role }}">
     {% endif %}
-    <h3>{{ bio.name }}</h3>
+    <h3>{{ bio.name }} <span class="social">{% if bio.twitter %} <a href="https://twitter.com/{{ bio.twitter }}" class="icon-social"><i class="fa fa-twitter"></i></a>{% endif %}{% if bio.github %} <a href="https://github.com/{{ bio.github}}" class="icon-social"><i class="fa fa-github-alt"></i></a>{% endif %}</span></h3>
+
+    <div class="bio">{{ bio.content }}</div>
+
   </div>
 {% endfor %}
