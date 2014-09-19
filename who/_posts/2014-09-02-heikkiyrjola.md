@@ -1,6 +1,6 @@
 ---
 name: Heikki Yrjola
-role: Ninja
+role: 
 avatar_url: /public/images/bios/heikki-yrjola.jpg
 github: heikkiyrjola
 twitter: heikkiyrjola

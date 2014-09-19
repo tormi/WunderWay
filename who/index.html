@@ -13,9 +13,13 @@ title: Who
     {% if bio.avatar_url %}
     <img src="{{ bio.avatar_url }}" class="avatar pull-right" alt="{{ bio.name }}, {{ bio.role }}">
     {% else %}
-    <img src="/public/images/nobody_sml.jpg" class="avatar pull-right" alt="{{ bio.name }}, {{ bio.role }}">
+    <img src="/public/images/bios/nobody.jpg" class="avatar pull-right" alt="{{ bio.name }}, {{ bio.role }}">
     {% endif %}
     <h3>{{ bio.name }} <span class="social">{% if bio.twitter %} <a href="https://twitter.com/{{ bio.twitter }}" class="icon-social"><i class="fa fa-twitter"></i></a>{% endif %}{% if bio.github %} <a href="https://github.com/{{ bio.github}}" class="icon-social"><i class="fa fa-github-alt"></i></a>{% endif %}</span></h3>
+
+    {% if bio.role %}
+    <strong>{{ bio.role }}</strong>
+    {% endif %}
 
     <div class="bio">{{ bio.content }}</div>
 
