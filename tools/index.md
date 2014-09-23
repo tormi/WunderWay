@@ -1,6 +1,6 @@
 ---
 layout: section
-title: How
+title: Tools
 ---
 
 This section sets out the tools that we use to deliver our work successfully.
