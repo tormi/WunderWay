@@ -37,8 +37,8 @@ Ext: 1009
 020 3588 0187<br/>
 Ext: 1010
 
-###Alex Lemon
-**Copywriter**<br/>
+###Heikki Yrjölä 
+**Consultant**<br/>
 020 3588 0185<br/>
 Ext: 1008
 
