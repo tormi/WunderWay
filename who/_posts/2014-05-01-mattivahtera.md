@@ -1,7 +1,7 @@
 ---
 name: Matti Vahtera
 role: User Experience Designer
-avatar_url: 
+avatar_url: /public/images/bios/matti-vahtera.jpg
 github: mattivahtera
 twitter: mattivahtera
 testimonial:
