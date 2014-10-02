@@ -47,6 +47,11 @@ Ext: 1008
 020 3588 0296<br/>
 Ext: 1011
 
+###Alice Richmond
+**Delivery Manager**<br/>
+020 3588 0769<br/>
+Ext: 1014
+
 ###Mikael Kundert
 **Senior Developer (Finland)**<br/>
 020 3588 0183<br/>
