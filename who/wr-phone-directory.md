@@ -62,21 +62,6 @@ Ext: 1004
 020 3588 0184<br/>
 Ext: 1005
 
-###Webex
-https://meetings.webex.com/collabs/#/home<br/>
-Username: steve.hunton@wunderroot.com<br/>
-Password: thehub2013
-
-###Conference Room
-020 3588 0189<br/>
-Ext: 5000<br/>
-PIN: 1000
-
-###Hunt Group
-(SteveH, SteveP)<br/>
-020 3588 0188<br/>
-Ext: 1007
-
 ###Helsinki Emergency Support Mobile
 +358207291620
 
