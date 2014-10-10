@@ -16,7 +16,7 @@ To claim an expense, simply send a photo of the VAT receipt to uk.finance@wunder
 
 [Ed](/who), our chief head of finance, usually works every Wednesday. If you want your expenses to be processed quickly make sure to submit them before the Wednesday of the week. 
 
-If in exceptional circumstances you need to be reembursed as early as possible then email [Steve P](/who) and he will reemburse you as soon as possible.
+If in exceptional circumstances you need to be reembursed as early as possible then email [Steve P](/who) and he will reimburse you as soon as possible.
 
 ## Business Credit Cards
 Some team members have company credit cards. We're working on getting these for all staff who have to travel regularly.
