@@ -56,3 +56,6 @@ a.icon-social:hover,
 a.icon-social:active {
   color: #268bd2;
 }
+.avatar {
+  max-width: 200px;
+}
