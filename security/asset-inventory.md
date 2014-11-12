@@ -7,7 +7,9 @@ title: Asset Inventory
 ---
 
 The Information Asset owner is
+
 Name: Steve Hunton
+
 Position: Operations Manager
 
 Our information assets are described as:
