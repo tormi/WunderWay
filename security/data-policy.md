@@ -9,49 +9,47 @@ This policy supports the Wunderroot I.T. Security Policy. The purpose of this po
 
 This document forms part of Wunderroot’s ISO 27001 Information Security Management System.
 
-<h3>Location</h3>
+### Location
 This policy is applicable to all staff and contractors using Wunderroot systems.
-<h3>Responsibility</h3>
-Managing Director, Operations Manager
+### Responsibility
+** Managing Director, Operations Manager **
 It is the responsibility of the Managing director and Operations manager to accept and implement this policy and to ensure that the security controls are implemented.
-All staff
+** All staff **
 It is the responsibility of all staff to comply with this policy.
 Failure to comply with this policy may endanger the information services of Wunderroot and may result in disciplinary action.
 
 
-<h3>Purpose</h3>
+### Purpose
 The purpose of this policy is to prevent unauthorised disclosure, modification, removal or destruction of Wunderroot’s information assets, and disruption to any business activities.
 
 Except when specifically authorised after a risk assessment of the necessary business case: corporate records/data shall not be stored on local computers, mobile devices including laptops, USB memory sticks, PDA’s, external hard drives or any other mobile device or media such as smart phones, CD or DVD except for agreed backups.
 
 In some cases storing sensitive information on a mobile device may be unavoidable for the completion of work duties and the provision of care. Such cases shall be subject to:
-appropriate technical risk assessment by the management;
-meet the security requirements of this policy; and
-agreed backup;
+* appropriate technical risk assessment by the management;
+* meet the security requirements of this policy; and
+* agreed backup;
 
-<h3>Data Encryption Procedure</h3>
+### Data Encryption Procedure
 
 All sensitive data stored on local drives of laptops are covered by this procedure.
 
 All removable media for use on information systems owned or operated by Wunderroot are covered by this procedure.
 
 Removable media includes:
-<ul>
-	<li>Tapes</li>
-	<li>Floppy discs</li>
-	<li>Removable or external hard disc drives</li>
-	<li>Optical discs DVD and CD-rom</li>
-	<li>Solid state memory devices including memory cards</li>
-	<li>Pen drives</li>
-</ul>
+* Tapes
+* Floppy discs
+* Removable or external hard disc drives
+* Optical discs DVD and CD-rom
+* Solid state memory devices including memory cards
+* Pen drives
 
 Currently approved cryptographic algorithms are for encryption - 3DES, AES (FIPS 140-2), and should be used at recommended 256bit strength. These algorithms and bit strength are readily available within a range of commercially available off the shelf security products and services.
 
 The use of freeware or shareware that does not benefit from independent security evaluation or that fails to comply with these standards is not permitted and must be avoided.
 
-<h3>Security Procedures</h3>
+### Security Procedures
 
-The loss or theft of data that is being processed on a piece of removable media should be evaluated for its sensitivity and any potential impact that this would have due to this or any other compromise. 
+The loss or theft of data that is being processed on a piece of removable media should be evaluated for its sensitivity and any potential impact that this would have due to this or any other compromise.
 
 No real time data should be used for testing purposes, the use of annonymised information should be used outside of live environments. Unless specifically required by the client and the project, the use of anonymised data should be used for testing in staging and live environments.
 
@@ -73,13 +71,12 @@ Personal Computers including Laptops, Tablet and Handheld Computers Whole Disk E
 Laptop encryption
 Mac: default in Lion or later: FileVault 2 uses full disk, XTS-AES 128 encryption to help keep your data secure. Using FileVault 2, you can encrypt the contents of your entire drive.
 
-<h3>Phone encryption</h3>
+### Phone encryption
 iPhone: Data protection is available for devices that offer hardware encryption, including iPhone 3GS and later, all iPad models, and iPod touch (3rd generation and later). Data protection enhances the built-in hardware encryption by protecting the hardware encryption keys with your passcode. This provides an additional layer of protection for your email messages attachments, and third-party applications.
 
 Samsung: Samsung offers Device Encryption and On Device Encryption solutions as well as FIPS 140-2 certification for your devices to make sure that your corporate security needs are properly addressed.
 
-
-<h3>Procurement of Encrypted Memory Sticks</h3>
+### Procurement of Encrypted Memory Sticks
 
 Only approved encrypted USB memory sticks must be purchased.
 
@@ -87,17 +84,17 @@ Encrypted jump drive options: <a href=http://www.pcworld.com/article/254753/king
 
 The decryption pass-phrase or key must never be sent with encrypted removable media.
 
-<h3>Removable Media</h3>
+### Removable Media
 
 Export of unencrypted identifiable information onto removable media such as CD, SD cards DVD or ZIP drives MUST be avoided unless for approved backup purposes and then they must be stored securely.
 
 Any requests to do otherwise must be authorised as per the management.
 
-<h3>External Hard Drives</h3>
+### External Hard Drives
 
 Users must show a business reason for the use of external hard drives and they must be of an approved type. They MUST be pre-encrypted and match the currently approved cryptographic algorithms.
 
-<h3>Project management information</h3>
+### Project management information
 
 Wunderroot use Rally to manage projects, Rally Software utilizes some of the most advanced technology for Internet security available today. When Rally is accessed Secure Socket Layer (SSL) technology protects your information using both server authentication and data encryption, ensuring that your data is safe, secure, and available only to registered Users in your organization. Data will be completely inaccessible to unauthorized users.
 
@@ -116,11 +113,11 @@ that makes it nearly impossible to retrieve through publicly available
 data retrieval methods.
 
 Rally have undergone the following 3rd party inspections/certifications:
-ISO 270001
-NIST 800-53
-FISMA Moderate
-Safe Harbor
-SSAE 16, type 2 (datacenter provider)
+* ISO 270001
+* NIST 800-53
+* FISMA Moderate
+* Safe Harbor
+* SSAE 16, type 2 (datacenter provider)
 
 Rally performs bi-weekly vulnerability scans of our Internet facing environment and scans of their internal environment twice a year. They perform at least semi-annual penetration tests. In addition, Rally contracts with a 3rd party penetration/vulnerability testing firm to perform annual audits. This same firm performs audits on any component of the application that has undergone a major change or anytime we incorporate a new software technology in our datacenter.
 

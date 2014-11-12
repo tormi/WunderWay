@@ -8,7 +8,8 @@ title: Acceptable use policy
 
 The purpose of this summary is to outline the acceptable use of computer equipment and software at Wunderroot, provide an overview and cross reference to policies relating to acceptable use of specific systems. These rules are in place to protect the employee and Wunderroot. Overlooking these points exposes Wunderroot to risks including loss of confidentiality, virus attacks, compromise of network systems and services, and legal issues.
 This document forms part of Wunderroot’s ISO 27001 Information Security Management System.
-Scope and Objectives of Process
+
+## Scope and Objectives of Process
 
 All Wunderroot employees are responsible for exercising good judgement for reasonableness of personal use of company assets. All Information Technology (I.T.) equipment, software and associated services are provided to staff for business use though an amount of personal use is expected and accepted.
 
