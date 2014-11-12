@@ -24,7 +24,7 @@ Confidential emails must only be sent via authorised routes.
 
 All breaches (including suspected or otherwise) of Information Security must be reported to the management.
  
-<h3>Unacceptable Use of I.T. Infrastructure</h3>
+### Unacceptable Use of I.T. Infrastructure
 
 Account details should not be divulged to others including usernames or passwords, this includes members of family when work is being undertaken from home.
 
@@ -35,32 +35,33 @@ There should be no unauthorised copying of copyrighted materials
 Staff should be aware of effecting security breaches including, but not limited to, accessing data of which the employee is not the intended recipient or logging into a server or account that you are not expressly authorised access to unless these duties are within the scope of regular duties.
 
 Users should not send unsolicited email messages, these include
-“junk mail” or other advertising material to individuals who did not specifically request such material (email spam).
-Any form of harassment via email.
-Email for any other email address, other than the poster’s account, with the intent to harass or to collect replies.
-Creating or forwarding of “chain letters”
+* “junk mail” or other advertising material to individuals who did not specifically request such material (email spam)
+* Any form of harassment via email
+* Email for any other email address, other than the poster’s account, with the intent to harass or to collect replies
+* Creating or forwarding of “chain letters”
 
 No member of staff is permitted to access, display or download from Internet sites that hold offensive material
 
 Due to the insecure nature of Internet mail, users must consider Internet email to be public information. Unencrypted customer identifiable Information, confidential material or government classified information must not be transmitted over the Internet.
 
  
-<h3>Network User Agreement - Restrictions</h3>
+### Network User Agreement - Restrictions
 
 Wunderroot users must not attempt or by their actions or deliberate inaction assist others to attempt:
-Unauthorised access to hardware platforms;
-Unauthorised introduction of software or hardware components to the network;
-Unauthorised modification of network components;
-Unauthorised attempts to access networks from other networks;
-Unauthorised attempts to access other networks from within networks;
-Unauthorised circumvention of security features such as firewalls, passwords, etc.;
-Unauthorised copying or distribution of software, documentation or media associated with trust systems;
-Unauthorised removal of hardware, software, documentation or media associated with trust systems;
-Data Protection Act and Computer Misuse Act
+* Unauthorised access to hardware platforms;
+* Unauthorised introduction of software or hardware components to the network;
+* Unauthorised modification of network components;
+* Unauthorised attempts to access networks from other networks;
+* Unauthorised attempts to access other networks from within networks;
+* Unauthorised circumvention of security features such as firewalls, passwords, etc.;
+* Unauthorised copying or distribution of software, documentation or media associated with trust systems;
+* Unauthorised removal of hardware, software, documentation or media associated with trust systems;
+
+### Data Protection Act and Computer Misuse Act
 
 All Users are subject to the provisions of the Data Protection Act and the Computer Misuse Act. Copies of these Acts are available upon request from the Management.
  
-<h3>Risk Management</h3>
+### Risk Management
 
 Wunderroot Staff shall respect the confidentiality and privacy of individuals whose records they access; to observe any restrictions that apply to sensitive data; and to abide by legislation, policies, procedures, and guidelines with respect to access, use or disclosure of information.
 
