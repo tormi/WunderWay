@@ -18,9 +18,9 @@ This document is for staff, contractors and customers of wunderoot.
 Wunderroot project documents are collaborative between different members of the company and are shared on google drive.
 This includes:
 
-*Project information
-*Briefs
-*Scopes
+*	Project information
+*	Briefs
+*	Scopes
 
 
 This information is stored across many data centres owned by google, these are across Europe and the US which prevents any undue loss of data and is protected against fire and server failure. Google documents however cannot be backed up automatically and require manual download at intervals to make sure that all company information remains backed up.
@@ -35,9 +35,10 @@ Personnel HR information however is not available internally along with any othe
 
 All of Wunderroot’s documents should carry a classification clearly marked on every page defining to whom it can be distributed to.
 The classification options are
-*Public
-*Internal
-*Confidential
+
+*	Public
+*	Internal
+*	Confidential
 
 
 ###Confidential documents
