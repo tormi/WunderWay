@@ -9,7 +9,7 @@ The purpose of this policy is to guide Wunderroot staff in the purchasing of Har
 
 This policy is applicable to all staff
 
-<h3>Hardware</h3>
+### Hardware
 
 All staff at wunderroot have the ability to choose suitable hardware to be purchased specifically for their own use within the company. This is done by the process of peer review, entailing another team member to review the purchase and the reason for it to confirm that it is suitable. 
 

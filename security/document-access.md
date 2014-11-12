@@ -22,8 +22,7 @@ This includes:
 *	Briefs
 *	Scopes
 
-
-This information is stored across many data centres owned by google, these are across Europe and the US which prevents any undue loss of data and is protected against fire and server failure. Google documents however cannot be backed up automatically and require manual download at intervals to make sure that all company information remains backed up.
+This information is stored across many data centres owned by Google, these are across Europe and the US which prevents any undue loss of data and is protected against fire and server failure. Google documents however cannot be backed up automatically and require manual download at intervals to make sure that all company information remains backed up.
 
 Information stored on google is protected by their ISO 27001 accreditation. Google Drive includes dozens of critical security features specifically designed to keep data safe and secure. These include encryption in transit as data moves from mobile devices to Google, as it moves between Google's data centers and when it is stored on any mobile device. 
 
@@ -86,5 +85,3 @@ If you intend to delete the original owner of the transferred files, make sure t
 All code created by Wunderroot is held within Git hub where it is accessible to those added to the Wunderroot repositories by a Wunderroot administrator. Access to Github is password controlled with users passwords being no less than 16 alphanumeric and punctuation characters.
 
 When added to the respositoroes the used can edit, clone, branch code with every change being version controlled and trackable. This prevents any loss of code or irreversible errors.
-
-
