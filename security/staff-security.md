@@ -20,6 +20,6 @@ All staff employed by Wunderroot are processed through the relevant checks requi
 
 A form similar to [this](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/136041/baseline-personnel-security.pdf) will be provided to all new starters to glean any information that may give us insight into any personal history that may pose a security threat. 
 
-This form stands as a way of collecting information regarding an individuals past employment, ideally from the last 3 years. Their status for workig within the UK
+This form stands as a way of collecting information regarding an individuals past employment, ideally from the last 3 years. Their status for working within the UK is also checked in the case of a none UK national.
 
 Wunderroot also require the presentation of 2 pieces of ID, one of these should be photographic ID which will be copied and stored by Wunderroot.
