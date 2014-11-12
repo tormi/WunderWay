@@ -10,33 +10,32 @@ Most of Wunderroot’s work is performed online, an environment that is vulnerab
 
 This section contains all of Wunderroots policy documents regarding security.
 
-[Security Policy](/security/security-policy/)
-
-[Roles](/security/roles/)
-
 [Acceptable use policy](/security/acceptable-use-policy)
 
-[Data protection policy](/security/data-policy)
-
-[Email policy](/security/email-policy)
-
-[Telephone policy](/security/telephone-policy)
-
-[Laptop, notebook and mobile policy](/security/laptop-notebook-policy)
-
-[Incident reporting](/security/incident-reporting)
+[Business continuity police](/security/business-continuity-policy)
 
 [Clear desk, clear screen policy](/security/clear-desk-clear-screen)
 
-[Homeworking policy](/security/homeworking-policy)
+[Combating cyber crime](/security/cyber-crime)
 
-[None Wunderroot equipment](/security/none-wunderroot-equipment)
+[Data protection policy](/security/data-policy)
 
 [Document access](/security/document-access)
 
+[Email policy](/security/email-policy)
+
+[Homeworking policy](/security/homeworking-policy)
+
+[Incident reporting](/security/incident-reporting)
+
+[Laptop, notebook and mobile policy](/security/laptop-notebook-policy)
+
+[None Wunderroot equipment](/security/none-wunderroot-equipment)
+
 [Purchasing hardware](/security/hardware-policy)
 
-[Combating cyber crime](/security/cyber-crime)
+[Roles](/security/roles/)
 
+[Security Policy](/security/security-policy/)
 
-
+[Telephone policy](/security/telephone-policy)
