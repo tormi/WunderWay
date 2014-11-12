@@ -14,8 +14,9 @@ This document forms part of Wunderroot’s ISO 27001 Information Security Manage
 <h3>Senior Information Risk Owner (SIRO) and Deputy Senior Information Risk Owner (DSIRO)</h3>
 
 The nomination of a Senior Information Risk Owner (SIRO) is a Mandatory Requirement of the Security Policy Framework intended to strengthen controls around information security outlined in the Cabinet Office review and report on Data Handling. Mandatory Requirement 35a describes the role of a SIRO as:
-“a Board level individual responsible for managing departmental in
+> “a Board level individual responsible for managing departmental in
 formation risks, including maintaining and reviewing an information risk register (the SIRO role may be combined with other security or information management board level roles)”.
+
 The SIRO is the representative at board level who understands the strategic
 business goals of the organisation and how these may be impacted by failure of information assets. The SIRO is responsible for ensuring that management of information risks are weighed alongside the management of other risks facing the organisation such as financial, legal and operational. The SIRO is a strategic role responsible to the AO.
 
@@ -55,12 +56,11 @@ The SIRO ensures that Agency's information assets are appropriately managed in a
 The SIRO is responsible for leading and directing the IAO network and for ensuring the necessary support function. This includes the need to chair a strategic information management forum (IMSG).
 The focus for this group is issues of strategic importance; ensuring cohesion for IRM reporting and to share good practice under the lead of the SIRO. IAOs will take ownership of their responsibilities (set out in IAO ToRs) and execute these tasks on behalf of the information assets they are responsible for. IAOs are able to delegate elements of their tasks within their area of responsibility but must retain accountability and responsibility to the CEO and SIRO. The SIRO will deliver information management consistency through a range of support
 including:
-<ul>
-	<li>Information Assurance Team (IATeam) led by AEO(PD)</li>
-	<li>Business Support Team led by the Business Support Manager</li>
-	<li>Security & Estates – led by Facilities Management</li>
-	<li>Knowledge Information Systems – shared between the HQ ICT and Support Teams</li>
-</ul>
+
+* Information Assurance Team (IATeam) led by AEO(PD)
+* Business Support Team led by the Business Support Manager
+* Security & Estates – led by Facilities Management
+* Knowledge Information Systems – shared between the HQ ICT and Support Teams
 
 <h2>Information Asset Owners (IAO)</h2>
 The nomination of an Information Asset Owner (IAO) is a Mandatory Requirement of the
@@ -85,6 +85,6 @@ assessed.
 <h2>IT Security Officer</h2>
 The nomination of an IT Security Officer (ITSO) is a Mandatory Requirement of the Security Policy Framework.
 Mandatory Requirement 35c describes the role of an ITSO as:
--“responsible for the security of information in electronic form”.
+> “responsible for the security of information in electronic form”.
 
 The ITSO is responsible for the security of information held in an electronic form.
