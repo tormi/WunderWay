@@ -6,9 +6,13 @@ tags: security, iso270001, ISMS
 title: Clear desk clear screen
 ---
 
-To improve the security and protect confidentiality of information, Wunderroot employees should adopt a clear desk policy for papers and removable storage media and clear screen policy for information processing facilities. This is to reduce the risk of unauthorised access, loss of, and damage to information during and outside normal working hours or when areas are left unattended.
+To improve the security and protect confidentiality of information, Wunderroot employees should adopt a clear desk policy for papers and removable storage media and clear screen policy for information processing facilities. 
+
+This is to reduce the risk of unauthorised access, loss of, and damage to information during and outside normal working hours or when areas are left unattended.
+
 This document forms part of Wunderroot’s ISO 27001 Information Security Management System.
-Responsibility
+
+## Responsibility
 All staff must take personal responsibility for the security of the data in their care.
 Management are responsible for ensuring that their staff clearly understand and adhere to this policy.
 
