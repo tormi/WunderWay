@@ -12,6 +12,8 @@ This section contains all of Wunderroots policy documents regarding security.
 
 [Acceptable use policy](/security/acceptable-use-policy)
 
+[Asset Inventory](/security/asset-inventory)
+
 [Business continuity management policy](/security/business-continuity-management)
 
 [Clear desk, clear screen policy](/security/clear-desk-clear-screen)
