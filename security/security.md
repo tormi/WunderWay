@@ -12,7 +12,7 @@ This section contains all of Wunderroots policy documents regarding security.
 
 [Acceptable use policy](/security/acceptable-use-policy)
 
-[Business continuity police](/security/business-continuity-policy)
+[Business continuity management policy](/security/business-continuity-management)
 
 [Clear desk, clear screen policy](/security/clear-desk-clear-screen)
 
