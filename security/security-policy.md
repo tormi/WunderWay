@@ -51,22 +51,28 @@ Wunderroot’s structure provides an excellent leadership structure to allow the
 * Other specialists relevant and specific to the organisation’s needs.
 
 The non hierarchical structure of Wunderroot means that all members of the company including the managing director are actively involved in the quest to maintain digital security and observe any findings that can move Wunderroots security strategy forward. 
-Culture and Awareness
+
+###Culture and Awareness
+
 Wunderroot’s open and involved company culture enthuses a security forward ethos supported by all users and employees of the company. With all users to a certain extent being accountable for the security of the company. A broad spectrum of technical knowledge across the team provides a wide source of security knowledge and threat avoidance techniques. Wunderroot has a “one team” ideal whereby everyone is responsible for the company as a whole and work in coordination to maintain its environment.
 
 ###Risk Management
 
 Wunderroot works directly with digital services which inherently attracts risk which need to be assessed by the team to make information and business enhancing decisions.
-Wunderroot will have:
-A forward and informed understanding of the risks presented to the company.
-An accessible and clear collection of policies and procedures are implemented to support good risk management techniques.
-Well informed technical staff are involved in the analysis of threats, vulnerabilities and potential impacts associated with Wunderroot’s activities.
+
+####Wunderroot will have:
+
+* A forward and informed understanding of the risks presented to the company.
+* An accessible and clear collection of policies and procedures are implemented to support good risk management techniques.
+* Well informed technical staff are involved in the analysis of threats, vulnerabilities and potential impacts associated with Wunderroot’s activities.
 
 ###Technology and Services
 
 To comply with data protection laws and to remain resilient to cyber threats Wunderroot will use the following implementations to make sure that security is integral to the development and deployment of Wunderroot services as part of usual working practises.
-Wunderroot will:
-Observe advances in technology and identify any vulnerabilities or issues that may be applicable to customers development environments and undertake any necessary steps to reduce possible risk.
+
+####Wunderroot will:
+
+* Observe advances in technology and identify any vulnerabilities or issues that may be applicable to customers development environments and undertake any necessary steps to reduce possible risk.
 
 make it their aim to:
 
@@ -78,7 +84,7 @@ make it their aim to:
 ###Personnel Security
 Wunderroot’s employees are central to the maintenance of a good security structure and therefore the employment of these individuals is key to the safety of the company and its customers. To mitigate the issue of vulnerabilities caused by staff
 
-Wunderroot will:
+####Wunderroot will:
 
 * Employ individuals using the Baseline Personnel Security Standard for anyone who has access to any government assets.
 * Processes in place to evaluate levels of risk presented by an individual with appropriate levels of checks.
