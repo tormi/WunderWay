@@ -43,3 +43,7 @@ This section contains all of Wunderroots policy documents regarding security.
 [Telephone policy](/security/telephone-policy)
 
 [Staff security](/security/staff-security)
+
+[Key principles of the Data protection act](/security/data-protection-act-key-principles)
+
+[Key principles of the Freedom of information act](/security/freedom-of-information-key-principles)

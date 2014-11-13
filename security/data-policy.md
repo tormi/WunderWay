@@ -80,7 +80,7 @@ Samsung: Samsung offers Device Encryption and On Device Encryption solutions as 
 
 Only approved encrypted USB memory sticks must be purchased.
 
-Encrypted jump drive options: <a href=http://www.pcworld.com/article/254753/kingston_datatraveler_4000_managed_review_a_fast_affordable_secure_flash_drive.html> Data Traveler 4000 </a>
+Encrypted jump drive options: [Data Traveler 4000](http://www.pcworld.com/article/254753/kingston_datatraveler_4000_managed_review_a_fast_affordable_secure_flash_drive.html) 
 
 The decryption pass-phrase or key must never be sent with encrypted removable media.
 

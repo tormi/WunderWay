@@ -61,7 +61,7 @@ Each Email account, whether a personal or group account, is protected by access 
 
 Individual users must take personal precautions to ensure the security of their email account including logging off from their laptop before leaving it unattended and implementing 2-step authentication on Gmail accounts. This will prevent others reading your email or sending a potentially embarrassing hoax message in your name.
   
-Archiving: The storing of personal data (within the meaning afforded to it with the Data Protection Act 1998) is subject to the same controls as any other personal data, and is therefore subject to Freedom of Information requests. <a href=https://www.gov.uk/data-protection/the-data-protection-act> Data protection act</a>
+Archiving: The storing of personal data (within the meaning afforded to it with the Data Protection Act 1998) is subject to the same controls as any other personal data, and is therefore subject to Freedom of Information requests. Here is a link to the [data protection act] (https://www.gov.uk/data-protection/the-data-protection-act)
 
 Virus Protection: The most common way of receiving a computer virus is through email. Software has been installed on the Email servers which scans each email attachment for embedded viruses as soon as it enters the Network.
  
