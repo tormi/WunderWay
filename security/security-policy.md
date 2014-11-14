@@ -89,3 +89,29 @@ Wunderroot’s employees are central to the maintenance of a good security struc
 * Employ individuals using the Baseline Personnel Security Standard for anyone who has access to any government assets.
 * Processes in place to evaluate levels of risk presented by an individual with appropriate levels of checks.
 * Provide regular security appraisals and nurture a security conscious working environment
+
+###Physical Security
+Physical security measures will also be used to provide a secure and unhindered working environment for staff that protects against a range of threats.
+
+Preparing for and Responding to Security Incidents
+Wunderroot have in place a structure that encourages the observation of any possible security vulnerabilities and also any incoming attacks. By way of reporting, evaluating and learning from any threats Wunderroot can work towards preventing any future issues.
+
+####Wunderroot implement:
+
+* Business continuity policies are in place that aim to maintain services and provide a resilient security arrangement to allow for a quick and effective recovery from any security breaches.
+* Regular risk assessments and reviews are in place to make sure that critical assets are protected.
+* All staff are made aware of the company policies for finding, reporting and responding to any incidents that may occur, all documentation is hosted online and all staff are required to be well versed with these.This includes any disciplinary measures that may be involved on failure to comply with these procedures.
+* Reporting to the required government associations in light of any incidents if there is a serious loss of data or breach of security.
+
+##Policy Priorities
+Wunderroot’s security policies work in a preventative way to protect information and all areas should be observed. However below is an outline of the priorities of these policies:
+
+###Information Security
+
+Wunderroot handle a wide variety of information for a number of companies. Data may be generated, collected, processed, stored and exchanged. The above processes are done in a way that will;
+maintain security and confidentiality for any citizens whom information is included in this 
+
+* provide a fast and effective delivery of service
+* protection according to national security guidelines
+
+All documents are controlled using the terms, Confidential, Internal and public to maintain the security of Wunderroot information.
