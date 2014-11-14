@@ -109,8 +109,8 @@ Wunderroot’s security policies work in a preventative way to protect informati
 ###Information Security
 
 Wunderroot handle a wide variety of information for a number of companies. Data may be generated, collected, processed, stored and exchanged. The above processes are done in a way that will;
-maintain security and confidentiality for any citizens whom information is included in this 
 
+* maintain security and confidentiality for any citizens whom information is included in this 
 * provide a fast and effective delivery of service
 * protection according to national security guidelines
 
