@@ -32,7 +32,7 @@ This section contains all of Wunderroots policy documents regarding security.
 
 [Laptop, notebook and mobile policy](/security/laptop-notebook-policy)
 
-[None Wunderroot equipment](/security/none-wunderroot-equipment)
+[Non-Wunderroot equipment](/security/none-wunderroot-equipment)
 
 [Purchasing hardware](/security/hardware-policy)
 
