@@ -3,7 +3,7 @@ layout: page
 section: security
 categories: security
 tags: security, iso270001, ISMS
-title: None Wunderroot equipment policy
+title: Non-Wunderroot equipment policy
 ---
 The purpose of this policy is to set out the conditions relating to the use of non-Wunderroot owned equipment for the processing and/or storage of Wunderroot Data and the Installation of software on non Wunderroot owned hardware. 
 This document forms part of Wunderroot’s ISO 27001 Information Security Management System.
