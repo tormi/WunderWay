@@ -8,6 +8,10 @@ title: Security
 
 Most of Wunderroot’s work is performed online, an environment that is vulnerable to attacks. Many of our clients insist on our implementation and proper management of information security policies and procedures. We operate in environments that require us to handle, store and transmit personal and sensitive data.
 
+** Security Policy Scope **
+
+Security policy scope goes here...
+
 This section contains all of Wunderroots policy documents regarding security.
 
 [Acceptable use policy](/security/acceptable-use-policy)
