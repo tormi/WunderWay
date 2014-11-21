@@ -10,7 +10,7 @@ Most of Wunderroot’s work is performed online, an environment that is vulnerab
 
 ** Security Policy Scope **
 
-Security policy scope goes here...
+This policy is applicable to, and will be communicated to, all staff within the Wunderroot/Wunderkraut group who work on UK managed projects and who have access to and interact with company and client data in all its forms. This includes systems and data attached to our internal network, public and private networks.
 
 This section contains all of Wunderroots policy documents regarding security.
 
