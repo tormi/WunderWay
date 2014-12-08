@@ -35,17 +35,17 @@ We deliver in iterations called *sprints*. Each sprint is usually two weeks long
 
 There is a daily standup meeting where each member of the team discusses their progress from the previous day, what they plan to do today and they raise any issues (blockers) that are preventing them from  continuing with a particular story. 
 
-View a simple <a href="daily-standup-checklist">Daily Standup Checklist</a>.
+View a simple <a href="../daily-standup-checklist">Daily Standup Checklist</a>.
 
 **Sprint Demo and Retrospective**
 
 At the end of the sprint the team demonstrates the result of the sprint to the client. The team then carries out a retrospective to discuss what went well in the sprint, what wasn't so good and what they want to improve in future sprints. This is an opportunity to continually improve the way in which the project is delivered.
 
-For a more detailed look at how projects are delivered, see <a href="delivering-a-project">Delivering a Project</a>.
+For a more detailed look at how projects are delivered, see <a href="../backlogs-and-planning">Delivering a Project</a>.
 
 **Quality Objectives**
 
-As a business we set ourselves quality objectives. The objectives were put in place to challenge us to provide a high level of service. These objectives cover our staff (skills, training, well being) and the quality of the services and products we provide. In order to monitor our progress we capture data at key points in each project. See <a href="qms">Quality Management System (QMS)</a> for more information.
+As a business we set ourselves quality objectives. The objectives were put in place to challenge us to provide a high level of service. These objectives cover our staff (skills, training, well being) and the quality of the services and products we provide. In order to monitor our progress we capture data at key points in each project. See <a href="../qms">Quality Management System (QMS)</a> for more information.
 
 **Scrum Roles**
 
