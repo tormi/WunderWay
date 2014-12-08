@@ -18,7 +18,7 @@ This section sets out how we deliver projects.
 - User Research
 - Stakeholder Research
 - Other Research
-- [Backlog Development](/projects/delivering-a-project)
+- [Backlog Development](/projects/backlogs-and-planning)
 - [Risk Management](/projects/issue-and-risk-management)
 - [Quality Management](/projects/qualty-testing-non-conformities)
 
@@ -30,8 +30,7 @@ This section sets out how we deliver projects.
 - Sprints
 	- [Backlogs & Planning](/projects/backlogs-and-planning)
 	- [Daily Standup](/projects/daily-standup)
-	- [Sprint Review](/projects/sprint-review)
-	- [Sprint Retrospective]()
+	- [Sprint Review and Retrospective](/projects/review-retro-steering)
 - Stakeholder communciation
 - User Testing
 - [Quality Management](/projects/qualty-testing-non-conformities)
@@ -64,7 +63,7 @@ SteveH's suggested menu:<br/><br/>
 
 <a href="qms-controlling-documents-and-records">Project Documents, Templates and Controlling Documents</a> - where we keep and manage them
 
-<a href="delivering-a-project">Backlogs</a> - Managing product and sprint backlogs
+<a href="backlogs-and-planning">Backlogs</a> - Managing product and sprint backlogs
 
 <a href="daily-standup">The Daily Standup</a> - what this is and how to join in
 
