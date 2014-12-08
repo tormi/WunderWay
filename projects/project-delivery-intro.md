@@ -5,7 +5,7 @@ categories: Admin
 tags:
 title: Introduction to Project Delivery
 ---
-We use an Agile framework (Scrum) to deliver our projects. While Scrum allows flexibility in order to handle multiple changes throughout the life of the project, our general project processes are rigid. The processes are not overwhelming but are necessary to control the delivery and to achieve our <a href="../qms">quality objectives</a>.
+We use an Agile framework (Scrum) to deliver our projects. While Scrum allows flexibility in order to handle multiple changes throughout the life of the project, our general project processes are rigid. The processes are not overwhelming but are necessary to control the delivery and to achieve our <a href="/company/qms">quality objectives</a>.
 
 **What is Scrum?**
 
@@ -35,17 +35,17 @@ We deliver in iterations called *sprints*. Each sprint is usually two weeks long
 
 There is a daily standup meeting where each member of the team discusses their progress from the previous day, what they plan to do today and they raise any issues (blockers) that are preventing them from  continuing with a particular story. 
 
-View a simple <a href="../daily-standup-checklist">Daily Standup Checklist</a>.
+View a simple <a href="/projects/daily-standup">Daily Standup Checklist</a>.
 
 **Sprint Demo and Retrospective**
 
 At the end of the sprint the team demonstrates the result of the sprint to the client. The team then carries out a retrospective to discuss what went well in the sprint, what wasn't so good and what they want to improve in future sprints. This is an opportunity to continually improve the way in which the project is delivered.
 
-For a more detailed look at how projects are delivered, see <a href="../backlogs-and-planning">Delivering a Project</a>.
+For a more detailed look at how projects are delivered, see <a href="/projects/backlogs-and-planning">Delivering a Project</a>.
 
 **Quality Objectives**
 
-As a business we set ourselves quality objectives. The objectives were put in place to challenge us to provide a high level of service. These objectives cover our staff (skills, training, well being) and the quality of the services and products we provide. In order to monitor our progress we capture data at key points in each project. See <a href="../qms">Quality Management System (QMS)</a> for more information.
+As a business we set ourselves quality objectives. The objectives were put in place to challenge us to provide a high level of service. These objectives cover our staff (skills, training, well being) and the quality of the services and products we provide. In order to monitor our progress we capture data at key points in each project. See <a href="/company/qms">Quality Management System (QMS)</a> for more information.
 
 **Scrum Roles**
 
@@ -77,7 +77,7 @@ Within each step of the project process we need to consider the following elemen
 	<li>Output - the documentation that we produce</li>
 </ul>
 
-Each of these elements plays a role in us achieving our <a href="../qms">quality objectives</a>.
+Each of these elements plays a role in us achieving our <a href="/company/qms">quality objectives</a>.
 
 ![image](http://way.wunder.co.uk/public/images/project-workflow.png)
 
