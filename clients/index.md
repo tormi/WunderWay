@@ -15,12 +15,12 @@ This section explains how we work with clients - from identifying who we'd like 
 	- [Prepare and Prove](/clients/winning-clients-prepare-prove)
 	- [Proposal](/clients/winning-clients-proposal)
 	- [Presentation](/clients/winning-clients-presentation)
-	- [Agreement](/clients/winning-clients-agreement)
+	- [Agreement](/clients/winning-new-clients-agreement)
 	- [Retrospective](/clients/winning-clients-retrospective)
 	- [Set Up for Delivery](/clients/winning-clients-setup)
 
 - [Looking after clients](/clients/looking-after-clients)
 
-- [Handling complaints](/clients/complaints)
+- [Handling complaints](/clients/customer-complaints)
 
 - [Building long-term partnerships](/clients/building-partnerships)
