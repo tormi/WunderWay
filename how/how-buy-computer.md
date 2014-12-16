@@ -7,7 +7,7 @@ title: How To Buy A Computer
 ---
 
 Everyone in the company gets an equipment budget every two years. You can spend this as you like, saving it up to get cooler, more expensive devices less frequently, or replacing cheaper devices on a regular basis.
-It can be used for home office equipment, laptops, mobile phones, tablets or any other equipment which 
+It can be used for home office equipment, laptops, mobile phones, tablets or any other equipment which
 
 If in doubt about whether something you want to buy fits within your budget, ask any colleague for a peer review.
 
@@ -25,3 +25,13 @@ The main store contacts we use are:
 - Tel: 0207 447 1420
 
 More details at [the Apple Business website](https://www.apple.com/uk/retail/business/).
+
+## Suggested setups
+
+### Developer machines
+
+#### MacBook Pro 13/15-inch with Retina Display
+
+* 2.8GHz Dual-core Intel Core i7, Turbo Boost up to 3.3GHz
+* 16GB 1600MHz DDR3L SDRAM
+* 512GB PCIe-based Flash Storage
