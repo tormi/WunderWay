@@ -59,12 +59,13 @@ Google Docs works on a document sharing system, if documents are deleted from an
 
 ###When an employee leaves Wunderroot
 
-Access to the following must be removed
-1. Google account
-2. GitHub
-3. Rally
-4. GitHub
-5. Hipchat
+Access to the following must be removed:
+
+* Google account
+* GitHub
+* Rally
+* GitHub
+* Hipchat
 
 Before the user account is removed from Google, the contents of the Google Drive for that individual must be transferred to another current user to remain accessible within the system
 to do this :
