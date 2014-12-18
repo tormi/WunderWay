@@ -86,3 +86,21 @@ The following actions will be taken to protect our vital assets:
 
 In the event of an incident and this plan being initiated, the BCM team should be contacted. Other people within the team or within the client base may also be contacted depending on the details of the incident.
 
+Contact details are available via the [Wunderroot phone directory](/who/wr-phone-directory)
+
+# Incident Management
+
+Following are a list of possible incident scenarios that could risk business continuity and the key steps to be taken in order to manage the risks.
+
+## Loss or Theft of Mobile Device
+
+* The member of staff reports details of the loss or theft to uk.team@wunderroot.com or calls the main phone number 020 3588 0180
+* The incident is reported to the UK support team
+* Details are recorded in the [Incident Management Report](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1xbTkDvrQ3t_m5pQpa16fmkx4ZPXaDPBjq588rXNq2PQ/edit#gid=0)
+* GitHub account is suspended
+* Google account is suspended
+* Xero account is suspended
+* HipChat account is suspended
+* VPN account is suspended
+* A location trace is attempted using Apple's Find My Phone
+
