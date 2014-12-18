@@ -57,9 +57,16 @@ Customer information is not shared on Wunderway.
 
 Google Docs works on a document sharing system, if documents are deleted from any one account that are being shared with others, the document will be deleted from all accounts. This means that files should only be deleted when it is clear that the document is not being used or is required by other collaborators. 
 
-###When an employee with a google account leaves Wunderroot
+###When an employee leaves Wunderroot
 
-Before the user account is removed from google, the contents of the google docs for that individual must be transferred to another current user to remain accessible within the system
+Access to the following must be removed
+1. Google account
+2. GitHub
+3. Rally
+4. GitHub
+5. Hipchat
+
+Before the user account is removed from Google, the contents of the Google Drive for that individual must be transferred to another current user to remain accessible within the system
 to do this :
 Sign in to the Google Admin console.
  
