@@ -52,7 +52,7 @@ The plan will be activated in response to an incident causing significant disrup
 
 ## Responsibility for Activation
 
-A member of the Business Continuity Team for Wunderroot will normally activate and initiate this plan:
+A member of the Business Continuity Team (BCT) for Wunderroot will normally activate and initiate this plan:
 
 * Steve Parks, Managing Director (UK)
 * Steve Hunton, Operations Manager (UK)
@@ -77,4 +77,12 @@ Contact details are available via the [Wunderroot phone directory](/who/wr-phone
 
 The following actions will be taken to protect our vital assets:
 
-1.Step 1
+1. Whoever identifies the incident should record and report details of the incident. If possible, email these to uk.team@wunderroot.com
+2. Inform members of the Business Continuity Team (see above)
+3. The BCT assess the impact of the incident to agree response and next steps
+4. The BCT team communicates the incident to other members of the Wunderroot team and customer as agreed in their next steps
+
+## Communication Actions
+
+In the event of an incident and this plan being initiated, the BCM team should be contacted. Other people within the team or within the client base may also be contacted depending on the details of the incident.
+
