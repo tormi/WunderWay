@@ -105,6 +105,7 @@ Following are a list of possible incident scenarios that could risk business con
 * HipChat account is suspended
 * VPN account is suspended
 * A location trace is attempted using Apple's Find My Phone
+* Details are reported to the Police
 
 ## Loss of Critical Systems
 
@@ -124,10 +125,22 @@ Key systems are provided by trusted suppliers. Data is backed up. The risk is th
 
 ## Loss of Key Staff or Skills
 
-##
-
-Blah
+* The incident details are logged in the [Incident Management Report](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1xbTkDvrQ3t_m5pQpa16fmkx4ZPXaDPBjq588rXNq2PQ/edit#gid=0)
+* The incident is reported to the BCM team
+* The impact of the loss on projects and support is assessed and a contingency plan identified
+* Communication to staff and clients on affected projects
 
 ## Loss or Theft of Data
 
-Blah
+* The incident details are logged in the [Incident Management Report](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1xbTkDvrQ3t_m5pQpa16fmkx4ZPXaDPBjq588rXNq2PQ/edit#gid=0)
+* Details communicated to the BCM team
+* Details communicated to project team if necessary
+* Impact and severity of incident is assessed
+* Access to servers, applications is revoked where necessary
+* Details of incident are reported to the client and the client support teams if necessary
+* Specific details of the loss are investigated, recorded and communicated
+* Details identified to resolve the cause of the loss
+* Resolution details agreed with client support team if necessary
+* Details of loss communicated to Police if necessary
+* A resolution is implemented once agreed
+* An investigation into the loss and plans to mitigate the risk discussed, agreed and recorded
