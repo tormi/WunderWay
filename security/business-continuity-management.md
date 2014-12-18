@@ -90,7 +90,7 @@ In the event of an incident and this plan being initiated, the BCM team should b
 
 Contact details are available via the [Wunderroot phone directory](/who/wr-phone-directory)
 
-# Incident Management
+# Incident Scenarios
 
 Following are a list of possible incident scenarios that could risk business continuity and the key steps to be taken in order to manage the risks.
 
@@ -128,6 +128,7 @@ Key systems are provided by trusted suppliers. Data is backed up. The risk is th
 * The incident details are logged in the [Incident Management Report](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1xbTkDvrQ3t_m5pQpa16fmkx4ZPXaDPBjq588rXNq2PQ/edit#gid=0)
 * The incident is reported to the BCM team
 * The impact of the loss on projects and support is assessed and a contingency plan identified
+* Availability of replacement in UK and around the group is assessed
 * Communication to staff and clients on affected projects
 
 ## Loss or Theft of Data
