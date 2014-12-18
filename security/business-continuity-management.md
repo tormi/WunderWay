@@ -49,6 +49,8 @@ The plan will be activated in response to an incident causing significant disrup
 
 * Loss of critical systems
 * Loss of key staff or skills (e.g. illness)
+* Loss or theft of mobile devices (e.g. laptop, phone)
+* Loss, including suspected loss, of data
 
 ## Responsibility for Activation
 
@@ -104,3 +106,28 @@ Following are a list of possible incident scenarios that could risk business con
 * VPN account is suspended
 * A location trace is attempted using Apple's Find My Phone
 
+## Loss of Critical Systems
+
+Critical systems include any that affect our ability to do our jobs. These would include Google Drive, Rally, HipChat and GitHub
+
+* Initial details are communicated to the BCM team
+* The incident details are logged in the [Incident Management Report](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1xbTkDvrQ3t_m5pQpa16fmkx4ZPXaDPBjq588rXNq2PQ/edit#gid=0)
+* Communication to all staff to advise of the incident
+* Communication to the client if they're affected
+* Assess key priorities for the remainder of the working day and take relevant action
+* Publicise the interim arrangements for the delivery of critical activities
+* Communicate resolution ETA when known
+* Communicate resolution when systems returned
+* Document details in the [Incident Management Report](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1xbTkDvrQ3t_m5pQpa16fmkx4ZPXaDPBjq588rXNq2PQ/edit#gid=0)
+
+Key systems are provided by trusted suppliers. Data is backed up. The risk is that the functionality and communication within the tools is lost. Communication is key to business continuity and recovery.
+
+## Loss of Key Staff or Skills
+
+##
+
+Blah
+
+## Loss or Theft of Data
+
+Blah
