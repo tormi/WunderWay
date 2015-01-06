@@ -3,7 +3,7 @@ layout: page
 section: skills
 categories: Skills
 tags: Presentation, Communication
-title: Giving PresentationS
+title: Giving Presentations
 ---
 
 A key part of our job is presenting our thoughts, experiences, ideas and work to our clients and community.
@@ -197,8 +197,8 @@ Sources for this post:
 
 * Wunder team members
 * The videos embedded here
-* http://markboulton.co.uk/journal/speakingtips
-* http://unstoppablerobotninja.com/entry/speaking-pack-a-plan/
-* https://the-pastry-box-project.net/karen-mcgrane/2013-july-8
-* http://www.forbes.com/sites/carminegallo/2014/03/04/9-public-speaking-lessons-from-the-worlds-greatest-ted-talks/
+* [](http://markboulton.co.uk/journal/speakingtips)
+* [](http://unstoppablerobotninja.com/entry/speaking-pack-a-plan/)
+* [](https://the-pastry-box-project.net/karen-mcgrane/2013-july-8)
+* [](http://www.forbes.com/sites/carminegallo/2014/03/04/9-public-speaking-lessons-from-the-worlds-greatest-ted-talks/)
 
