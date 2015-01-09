@@ -38,6 +38,12 @@ At the start of the day, in your office's team chatroom, let others know what yo
 
 Friday work doesn't have to be a solitary activity, get together a team to work on a particular initiative, whether that's just for an hour, or the whole day.
 
+### Logging your work
+
+You can log ideas of things you want to work on or things you have worked on in [this spreadsheet.](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/18Ln3moeBNly9ZR6HzWl2FPnh14pHk6cXEcy3hNCpecI/edit#gid=0)
+
+It's not very organised or strict, but it's useful information to track.
+
 ## Client Work
 When we sign up a new client we explain how Fridays work, and that we will be unavailable on those days. Most respect this, and in fact they appreciate that it means we're not secretly doing this on their time, as many other agencies do. It's part of our approach to fairness and transparency.
 
