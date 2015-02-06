@@ -10,4 +10,4 @@ Holidays, we all need them occasionally. If you want to book a holiday just drop
 
 Your holiday allowance will be listed in your contract.
 
-If you ever need a note of your holidays, the dates taken or the days you have remaining just ask one of the Steve's or Nic.
+If you ever need a note of your holidays, the dates taken or the days you have remaining, check this (Google Doc)[https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdDVsd2dhdnBDbV96dDRkYVNFYUNac1E#gid=3] or just ask one of the Steve H or Nic.
