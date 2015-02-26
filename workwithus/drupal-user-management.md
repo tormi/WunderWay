@@ -13,3 +13,4 @@ The administrators will also be able to create very specific access for individu
 Roles and individual access rules can be applied and removed quickly and easily through the CMS. This allows you to react quickly to changing requirements, such as adding temporary staff at Christmas, dealing with staff leaving the organisation, and reassigning roles to cover sickness or other absence. 
 
 User management can be coupled to workflow to give you full control over how content is created, checked, approved and published. See the Workflow Management section for more information on this.
+
