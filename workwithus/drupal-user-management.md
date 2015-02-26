@@ -3,7 +3,7 @@ layout: page
 section: workwithus
 categories: workwithus
 tags: work with us
-title: Drupal : User Management
+title: Drupal - User Management
 ---
 
 It’s important to put in place the appropriate controls to manage your users. Managing users is about creating roles, then creating users who can be assigned to those roles. This approach helps you manage a lot of users on a wide scale. Your authorised users (usually the website administrators) can create and manage user accounts through the CMS.
