@@ -12,7 +12,7 @@ You’ll be able to **upload files** to the CMS to display on the site or be lin
 
 You’ll be able to view everything in the CMS and **filter content** according to which changes you need to make. It’s simple to **search content** by type, name, tags and author, whether it was created within the CMS or uploaded.
 
-We can create **different user roles** for your CMS users, and **restrict and allow functionality, depending on the requirements of each role. This will be combined with your **workflow** to ensure that only certain roles can perform certain tasks.
+We can create **different user roles** for your CMS users, and **restrict and allow functionality**, depending on the requirements of each role. This will be combined with your **workflow** to ensure that only certain roles can perform certain tasks.
 
 Your current need to hand-code HTML to create bespoke layouts will be replaced with functionality, including drag-and-drop, to achieve your design goals.
 
