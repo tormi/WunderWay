@@ -14,17 +14,22 @@ You can see our staff on our website (http://wunderroot.com/people) or on Drupal
 
 We offer a full range of services to support your organisation including:
 
-*	Consulting
+*	**Consulting**
 We’ll work with you to understand your organisation, its competitors, goals and objectives and together with you will identify the best solution.
+
 *	Design and User Experience
 Our design and UX team will work with you to develop a replacement site for the lovethegarden.com that’s attractive, simple and intuitive to use.
-*	Development
+
+*	**Development**
 Our build process delivers in regular iterations. You’ll have lots of opportunities to check, test and play with the functionality as it’s developed. We can easily feed any changes in requirements into the process, so you get the right finished product.
-*	Hosting
+
+*	**Hosting**
 We’ll provide a robust and secure hosting service for lovethegarden.com.
-*	Support & Maintenance
+
+*	**Support & Maintenance**
 Our support and maintenance team works closely with our projects teams to smooth the transition from development to live. They’ll take time to understand the site we develop, so they can continue a high level of support.
-*	Training & Coaching
+
+*	**Training & Coaching**
 Our project teams include many certified professionals who can provide training and coaching to you and your team. We cover a number of competencies including Agile frameworks, management and Drupal.
 
 Our teams have particular expertise in providing consulting for the public sector, finance and media. Our teams are all highly experienced and highly professional. We’re great in our business and technical roles, and we pride ourselves on being good communicators too.
