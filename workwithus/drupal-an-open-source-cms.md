@@ -3,7 +3,7 @@ layout: page
 section: workwithus
 categories: workwithus
 tags: work with us
-title: Drupal : An Open Source CMS
+title: Drupal - An Open Source CMS
 ---
 
 The Drupal content management system (CMS) has a modular design which allows projects to develop over time in a very flexible, future-proof way. It’s also known for its performance and security, including fine-grained and customisable permissions and workflows within the application.

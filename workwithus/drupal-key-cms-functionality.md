@@ -3,7 +3,7 @@ layout: page
 section: workwithus
 categories: workwithus
 tags: work with us
-title: Drupal : Key CMS Functionality
+title: Drupal - Key CMS Functionality
 ---
 
 **Template layouts** create consistency in layout across your site, and our designers will work with you to define these layouts. Drupal provides **views** which give you the functionality to control the layout of multiple or individual pages, or elements of pages, so you can present content to the user in the most effective way, while responding to the requirements of the brands you sell.

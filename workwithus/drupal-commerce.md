@@ -3,7 +3,7 @@ layout: page
 section: workwithus
 categories: workwithus
 tags: work with us
-title: Drupal Commerce
+title: Drupal - Drupal Commerce
 ---
 
 Drupal has expanded way beyond its early incarnation as a simple CMS. As developers began to fully understand its potential a community of developers began to grow to support and develop it, as is the nature of open source.
