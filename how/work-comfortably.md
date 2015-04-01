@@ -14,7 +14,7 @@ Many people find it's great to have a standing desk (or ultimately one that can 
 
 Vesa has this [adjustable height standing desk](http://www.ajproducts.co.uk/tables-desks-workstations/adjustable-standing-desks/flexus-electrically-height-adjustable-wave-desk/5138569-61474.wf) and is very pleased.
 
-Heikki has this fixed height standing desk
+Heikki has this [fixed height standing desk](http://complete-office.co.uk/ProductDetails/Furniture/Desks/3511464/Gresham-Stand-Height-Rectangular-600Mm-Deep-1200-X-600--TS612RHZ/Master.aspx) (bought from [Whiteleys](http://www.whiteleys-office.co.uk/)). It is compact and has neutral styling but suits his needs perfectly.
 
 # Good chairs
 
