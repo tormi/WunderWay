@@ -19,6 +19,7 @@ The purpose of this plan to to provide a flexible response so that Wunderroot ca
 The following services and functions are covered by this plan:
 
 * Project management and delivery
+* Service management to provide support for live projects
 
 ## Plan Owner
 
@@ -48,7 +49,7 @@ The plan is due to be tested before the next review in November 2015.
 The plan will be activated in response to an incident causing significant disruption to normal service deliver, particularly in the delivery of projects. Examples of circumstances triggering activation of this plan include:
 
 * Loss of critical systems
-* Loss of key staff or skills (e.g. illness)
+* Sudden loss of key staff or skills
 * Loss or theft of mobile devices (e.g. laptop, phone)
 * Loss, including suspected loss, of data
 
@@ -123,7 +124,7 @@ Critical systems include any that affect our ability to do our jobs. These would
 
 Key systems are provided by trusted suppliers. Data is backed up. The risk is that the functionality and communication within the tools is lost. Communication is key to business continuity and recovery.
 
-## Loss of Key Staff or Skills
+## Sudden Loss of Key Staff or Skills
 
 * The incident details are logged in the [Incident Management Report](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1xbTkDvrQ3t_m5pQpa16fmkx4ZPXaDPBjq588rXNq2PQ/edit#gid=0)
 * The incident is reported to the BCM team
