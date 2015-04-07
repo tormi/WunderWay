@@ -8,11 +8,11 @@ title: A Reference for Newbies and WunderVeterans
 
 Whether you're new to Wunder or a seasoned veteran it's unlikely that you'll know or remember everything. Here's a quick reference to point you in the right direction.
 
-If there is anything missing from this list that would help others, please add it yourself or send a brief email to SteveH.
+If there is anything missing from this list that would help others, please add it yourself or send a brief email to SteveH. See [How to edit WunderWay](http://way.wunder.co.uk/how/how-edit-wunderway/)
 
 ## Your first day
 
-We’ll arrange for you to meet with your buddy for at least your first day. You’ll most likely work from The Hub, get yourself setup with equipment and access to whatever you need and get introduced to the rest of the WunderTeam.
+We’ll arrange for you to meet with your buddy for at least your first day. You’ll most likely work from The Hub, get yourself setup with equipment and access to whatever you need and get introduced to the rest of the [WunderTeam](http://way.wunder.co.uk/who/).
 
 ### Your buddy
 
@@ -20,16 +20,16 @@ You’ll be assigned a buddy and he/she will introduce themselves shortly after 
 
 ### Your buddy checklist
 
-Hipchat installed and explained
-Google Account setup
-Email setup
-Google Drive explained
-Google Hangouts, remote meetings
-Rally account setup and explained
-Harvest account setup and explained
-WunderWay explained
-Profile setup on website
-Website account setup (for blogging)
+* Hipchat installed and explained
+* Google Account setup
+* Email setup
+* Google Drive explained
+* Google Hangouts, remote meetings
+* Rally account setup and explained
+* Harvest account setup and explained
+* WunderWay explained
+* Profile setup on website
+* Website account setup (for blogging)
 
 ### Your mentor
 
@@ -47,17 +47,21 @@ Shortly after starting our accountant, Ed, will be in touch to get you onto the 
 
 ## Expenses
 
-All reasonable expenses incurred as part of your job will be reimbursed each week. All you have to do is send a copy of each receipt (scanned, photographed) to uk.finance@ together with a note about which project the expense relates to and Ed will do the rest. If you need your expenses paid sooner then give one of the Steves a nudge and they’ll help you with that.
+All reasonable expenses incurred as part of your job will be reimbursed each week. All you have to do is send a copy of each receipt (scanned, photographed) to **uk.finance@** together with a note about which project the expense relates to and Ed will do the rest. If you need your expenses paid sooner then give one of the Steve's a nudge and they’ll help you with that.
 
 Reasonable expenses include travel to client sites, hotels, lunch and evening meals while you’re working away.
 
+Note: fast cars are not a company expense! <i>(Damn. SP)</i>
+
 ## Laptops and other equipment
 
-We’ll arrange the order of your standard mobile office equipment. This includes a laptop, an external speaker and a 4G dongle. We’ll also order you a SIP phone for your home office. If you have your own laptop that you’d prefer to use then that’s fine with us. If you’d like us to order you a laptop then we can organise that and have it ready for you joining us.
+We’ll arrange the order of your standard mobile office equipment. This includes a laptop, an external speaker and a 4G dongle. We’ll also order you a SIP phone for your home office. If you have your own laptop that you’d prefer to use then that’s fine with us. If you’d like us to order you a laptop then we can organise that and have it ready for you joining us. 
 
 Whenever you require any hardware or home office equipment we have a simple process for this. In HipChat or on email explain to the team the details of what you want and the cost and it’ll get peer reviewed. We’re all sensible adults here and all have the company’s best interests at heart so we only order those things we need. Once you have a peer review then email the details to SteveH and Nicola who will place the order for you. 
 
-<i>Note: fast cars are not a company expense! (Damn. SP)</i>
+See [How to buy a computer](http://way.wunder.co.uk/how/how-buy-computer/) for more information
+
+Setting up the SIP phone needs a little more explanation. See [Gigaphone Setup] (http://way.wunder.co.uk/how/sip-phone-setup/)
 
 ## Holidays
 
@@ -71,7 +75,7 @@ If you wake up with the lurgy please inform SteveH and someone on your project a
 
 If you have a sick note from the doctor please send a copy to: Wunder, The Hub, 34b York Way, London, N1 9AB and drop The Steve's an email to let us know you've done that.
 
-If you're off for or more days in a row you'll need to complete a self certification form [LINK].
+If you're off sick for 4 more days in a row you'll need to complete a [self certification form](https://www.gov.uk/government/publications/statutory-sick-pay-employees-statement-of-sickness-sc2). For longer term sickness of 7 or more consecutive days (including non-working days) then we'll need you to provide us with a doctor's note to say you're returning to work fit and healthy or a doctor's note to say you'll be off for longer.
 
 Similarly, if you require time off for personal reasons (childcare, compassionate leave, long term sickness) them please speak to either of the Steve’s in confidence.
 
@@ -90,6 +94,8 @@ If you need to travel you can either book it yourself and claim back the cost th
 It’s important that we all have a proper home office setup at home. We expect you to know what a sensible setup is. We all have different setups so it’s worth speaking to the team if you want any advice. A number of us have standing desks at home, others have stuck with the traditional desk and chair arrangement. We’re at work for long periods of the day so it’s worth being comfortable. If you need home office equipment then get it peer reviewed.
 
 There’s also no reason why you can’t make the most of remote working and move around a little. You can work from the garden, from a coffee shop or take yourself off to a Hub for the day. Sometimes, a change is as good as a rest.
+
+We like to share ideas for our home offices here [Comfortable Working](http://way.wunder.co.uk/how/work-comfortably/)
 
 ## Personal development
 
