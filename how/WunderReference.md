@@ -103,6 +103,19 @@ Personal development is good for us all. Most people are pretty ambitious and we
 
 SteveH will speak with you once you’re through your probationary period to speak with you about your wants, needs and objectives and how we can put in place a plan that fits with your work
 
+## Events and Training
+
+Similar to buying hardware, we've implemented a simple peer review so if there's an event you think you should go to, just ask a colleague for their approval. Additionally, if an event happens mid week and might affect the project you're on at the time, is good to check with your teammates so it can be planned and doesn't cause too much disruption.
+
+### Log attendance
+
+Attendance at any event needs to be tracked in the [Staff Training & Conference Log](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1A8WHrOFKOOa_Ig0GGnf5Wt1p8YE3wlWuJid0HO_UkfI/edit#gid=2)
+
+### Reviewing attended events
+
+So that we can evaluate similar events and training in future, we write a short review and recommendation on the [Events Review](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/18M5tBUaQEBJfinSvM8oYtBPfDOSeHxE0mVsNxXWzN0c/edit#gid=252936002) document. This way, if an event is excellent, we know and remember that we'll want to attend the next edition.
+
+
 ## Fridays
 
 Fridays are special days. Each Friday we have a company Hangout, to catch up with other staff that we haven't worked with during the week, to hear what people have been working on and what their 'give back' Friday plans are. Your first Friday Hangout will be a chance to introduce yourself and meet anyone you haven't said hello to yet.
