@@ -10,15 +10,16 @@ Whether you're new to Wunder or a seasoned veteran it's unlikely that you'll kno
 
 If there is anything missing from this list that would help others, please add it yourself or send a brief email to SteveH. See [How to edit WunderWay](http://way.wunder.co.uk/how/how-edit-wunderway/)
 
+
 ## Your first day
 
 We’ll arrange for you to meet with your buddy for at least your first day. You’ll most likely work from The Hub, get yourself setup with equipment and access to whatever you need and get introduced to the rest of the [WunderTeam](http://way.wunder.co.uk/who/).
 
-### Your buddy
+*Your buddy*
 
 You’ll be assigned a buddy and he/she will introduce themselves shortly after we confirm your position. Your buddy is there to help you settle in, to answer your questions, to put you in touch with the rest of the team. Make sure you pay attention - you’ll be assigned as a buddy shortly!
 
-### Your buddy checklist
+*Your buddy checklist*
 
 * Hipchat installed and explained
 * Google Account setup
@@ -31,9 +32,10 @@ You’ll be assigned a buddy and he/she will introduce themselves shortly after 
 * Profile setup on website
 * Website account setup (for blogging)
 
-### Your mentor
+*Your mentor*
 
 We all have a mentor too. Sometimes your buddy is not someone you work closely with. A mentor is someone more closely related to the work you do. Your mentor is there to help you develop yourself, to help unpick technical problems or to help steer you in the right direction with new processes or approaches to work.
+
 
 ## Head office
 
@@ -41,9 +43,11 @@ Although we’re all based at our home offices we do have an office. It’s a sh
 
 It’s just round the corner from Kings Cross. Easy to reach by tube, train, plane and car.
 
+
 ## Payroll and payday
 
 Shortly after starting our accountant, Ed, will be in touch to get you onto the payroll. We all get paid on 15th of each month.
+
 
 ## Expenses
 
@@ -52,6 +56,7 @@ All reasonable expenses incurred as part of your job will be reimbursed each wee
 Reasonable expenses include travel to client sites, hotels, lunch and evening meals while you’re working away.
 
 Note: fast cars are not a company expense! <i>(Damn. SP)</i>
+
 
 ## Laptops and other equipment
 
@@ -63,11 +68,13 @@ See [How to buy a computer](http://way.wunder.co.uk/how/how-buy-computer/) for m
 
 Setting up the SIP phone needs a little more explanation. See [Gigaphone Setup] (http://way.wunder.co.uk/how/sip-phone-setup/)
 
+
 ## Holidays
 
 We all need a break from time to time. When you start you’ll be allocated 25 days annual leave. Our holiday period runs from 1st January. We close the office between Christmas and New Year so you’ll need to save a few days for that. 
 
 To request holiday, get the dates peer reviewed then send an email to Nic who’ll record the days in your company calendar and our holiday log.
+
 
 ## Sickness and unplanned leave
 
@@ -79,15 +86,26 @@ If you're off sick for 4 more days in a row you'll need to complete a [self cert
 
 Similarly, if you require time off for personal reasons (childcare, compassionate leave, long term sickness) them please speak to either of the Steve’s in confidence.
 
+
 ## Training and events
 
 Training and conferences help you in your personal development and they help the company too by increasing the knowledge and professionalism of our team. If there are any events you’d like to attend then get them peer reviewed. If they directly relate to your job they’ll be expensable. If it’s not a direct benefit but something for your personal development we’ll be likely to still make a contribution.
 
+*Keeping a log of our training and events*
+
+Attendance at any event needs to be tracked in the [Staff Training & Conference Log](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1A8WHrOFKOOa_Ig0GGnf5Wt1p8YE3wlWuJid0HO_UkfI/edit#gid=2)
+
+*Reviewing attended events*
+
+So that we can evaluate similar events and training in future, we write a short review and recommendation on the [Events Review](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/18M5tBUaQEBJfinSvM8oYtBPfDOSeHxE0mVsNxXWzN0c/edit#gid=252936002) document. This way, if an event is excellent, we know and remember that we'll want to attend the next edition.
+
 After getting it peer reviewed, send the details to SteveH and Nicola to book on the company card, or book it yourself and claim the cost back through expenses.
+
 
 ## Booking travel and accommodation
 
 If you need to travel you can either book it yourself and claim back the cost through expenses or you can email Nic the details and she’ll organise the booking and the payment for you. 
+
 
 ## Are you sitting comfortably?
 
@@ -97,32 +115,23 @@ There’s also no reason why you can’t make the most of remote working and mov
 
 We like to share ideas for our home offices here [Comfortable Working](http://way.wunder.co.uk/how/work-comfortably/)
 
+
 ## Personal development
 
 Personal development is good for us all. Most people are pretty ambitious and we’re keen to help you achieve those ambitions. Whether you’re looking to build on existing skills, develop new skills or become the next chief executive we’ll put in place a plan to help you achieve that. It is also okay that one day your career may take you away from our company. That’s not a taboo subject. We’d be immensely proud if you ended up launching your own business, and still quite pleased if you just became the new Google CEO. The key is that your time at Wunder should be a time to really develop yourself and your professional skills, and a time that you and the company both view as having been a really worthwhile collaboration.
 
 SteveH will speak with you once you’re through your probationary period to speak with you about your wants, needs and objectives and how we can put in place a plan that fits with your work
 
-## Events and Training
-
-Similar to buying hardware, we've implemented a simple peer review so if there's an event you think you should go to, just ask a colleague for their approval. Additionally, if an event happens mid week and might affect the project you're on at the time, is good to check with your teammates so it can be planned and doesn't cause too much disruption.
-
-### Log attendance
-
-Attendance at any event needs to be tracked in the [Staff Training & Conference Log](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1A8WHrOFKOOa_Ig0GGnf5Wt1p8YE3wlWuJid0HO_UkfI/edit#gid=2)
-
-### Reviewing attended events
-
-So that we can evaluate similar events and training in future, we write a short review and recommendation on the [Events Review](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/18M5tBUaQEBJfinSvM8oYtBPfDOSeHxE0mVsNxXWzN0c/edit#gid=252936002) document. This way, if an event is excellent, we know and remember that we'll want to attend the next edition.
-
 
 ## Fridays
 
 Fridays are special days. Each Friday we have a company Hangout, to catch up with other staff that we haven't worked with during the week, to hear what people have been working on and what their 'give back' Friday plans are. Your first Friday Hangout will be a chance to introduce yourself and meet anyone you haven't said hello to yet.
 
+
 ## Grievance
 
 We’re all pretty collaborative and most things can be worked out with a frank and open conversation. In the event that you have a grievance that you cannot resolve yourself please speak with one of the Steves. We’ll work this out with you.
+
 
 ## Home bills and broadband
 
