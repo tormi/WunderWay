@@ -1,0 +1,23 @@
+{
+  "name": "WunderWay",
+  "version": "1.0.0",
+  "description": "The Wunderkraut intranet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wunderkraut/WunderWay.git"
+  },
+  "author": "Lewis NYman",
+  "license": "CC BY-SA",
+  "bugs": {
+    "url": "https://github.com/Wunderkraut/WunderWay/issues"
+  },
+  "homepage": "https://github.com/Wunderkraut/WunderWay",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jsbeautify": "^0.1.1",
+    "gulp-replace": "^0.5.3",
+    "gulp-streamify": "0.0.5",
+    "request": "^2.55.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
