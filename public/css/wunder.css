@@ -58,6 +58,10 @@ a.icon-social:active {
 }
 .biography {
   margin-top: 2em;
+  overflow: hidden;
+}
+.biography__name {
+  margin-top: 0;
 }
 .avatar {
   max-width: 200px;

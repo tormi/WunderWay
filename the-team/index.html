@@ -1,0 +1,21 @@
+---
+layout: section
+title: The Team
+---
+
+{% assign team = site.data.team | sort: 'office' %}
+{% for team_member in team %}
+  <div class="biography section center-on-mobiles">
+    {% if team_member.picture_medium %}
+    <img src="{{ team_member.picture_medium }}" class="avatar pull-right" alt="{{ team_member.firstName }} {{ team_member.lastName}}, {{ team_member.jobTitle }}">
+    {% endif %}
+    <h3 class="biography__name">{{ team_member.firstName }} {{ team_member.lastName }}</h3>
+
+    {% if team_member.jobTitle %}
+    <strong>{{ team_member.jobTitle }}</strong>
+    {% endif %}
+
+    <div class="biography__text">{{ team_member.office }}, {{ team_member.country }}</div>
+
+  </div>
+{% endfor %}
