@@ -11,18 +11,6 @@
     "country": "Belgium",
     "company": "Wunderkraut Benelux"
 }, {
-    "uid": "154",
-    "firstName": "David",
-    "lastName": "Corbacho",
-    "picture": "https://hub.wunder.io/sites/default/files/pictures/david-corbacho.png",
-    "picture_thumb": "https://hub.wunder.io/sites/default/files/styles/thumbnail/public/pictures/david-corbacho.png?itok=sYBZwZYN",
-    "picture_medium": "https://hub.wunder.io/sites/default/files/styles/medium/public/pictures/david-corbacho.png?itok=msmG1Kw0",
-    "picture_large": "https://hub.wunder.io/sites/default/files/styles/large/public/pictures/david-corbacho.png?itok=1Icd67s2",
-    "jobTitle": "Senior Developer",
-    "office": "Helsinki",
-    "country": "Finland",
-    "company": "Wunderkraut FI"
-}, {
     "uid": "157",
     "firstName": "Steve",
     "lastName": "Parks",
@@ -955,7 +943,7 @@
     "picture_medium": "https://hub.wunder.io/sites/default/files/styles/medium/public/pictures/agnese-stelce.jpg.png?itok=CtltdL99",
     "picture_large": "https://hub.wunder.io/sites/default/files/styles/large/public/pictures/agnese-stelce.jpg.png?itok=y1dgjYaR",
     "jobTitle": "Developer",
-    "office": "Valmeira",
+    "office": "Valmiera",
     "country": "Latvia",
     "company": "Wunderkraut LV"
 }, {
@@ -967,7 +955,7 @@
     "picture_medium": "https://hub.wunder.io/sites/default/files/styles/medium/public/pictures/artis-bajars.jpg.png?itok=tNJ67Pby",
     "picture_large": "https://hub.wunder.io/sites/default/files/styles/large/public/pictures/artis-bajars.jpg.png?itok=ndbMKNm7",
     "jobTitle": "Developer",
-    "office": "Valmeira",
+    "office": "Valmiera",
     "country": "Latvia",
     "company": "Wunderkraut LV"
 }, {
@@ -979,7 +967,7 @@
     "picture_medium": "https://hub.wunder.io/sites/default/files/styles/medium/public/pictures/didzis-avotins.jpg.png?itok=txleOEUT",
     "picture_large": "https://hub.wunder.io/sites/default/files/styles/large/public/pictures/didzis-avotins.jpg.png?itok=6NblRzqG",
     "jobTitle": "Developer",
-    "office": "Valmeira",
+    "office": "Valmiera",
     "country": "Latvia",
     "company": "Wunderkraut LV"
 }, {
@@ -991,7 +979,7 @@
     "picture_medium": "https://hub.wunder.io/sites/default/files/styles/medium/public/default_images/nobody.jpg.png?itok=-EZJVGRV",
     "picture_large": "https://hub.wunder.io/sites/default/files/styles/large/public/default_images/nobody.jpg.png?itok=HBPIFvqo",
     "jobTitle": "Developer",
-    "office": "Valmeira",
+    "office": "Valmiera",
     "country": "Latvia",
     "company": "Wunderkraut LV"
 }, {
@@ -1003,7 +991,7 @@
     "picture_medium": "https://hub.wunder.io/sites/default/files/styles/medium/public/pictures/ilze-zarina.jpg.png?itok=QulxrGAu",
     "picture_large": "https://hub.wunder.io/sites/default/files/styles/large/public/pictures/ilze-zarina.jpg.png?itok=-DtwCsou",
     "jobTitle": "",
-    "office": "Valmeira",
+    "office": "Valmiera",
     "country": "Latvia",
     "company": "Wunderkraut LV"
 }, {
@@ -1015,7 +1003,7 @@
     "picture_medium": "https://hub.wunder.io/sites/default/files/styles/medium/public/pictures/janis-bebritis.jpg.png?itok=3w47xjJa",
     "picture_large": "https://hub.wunder.io/sites/default/files/styles/large/public/pictures/janis-bebritis.jpg.png?itok=bN9jj6p8",
     "jobTitle": "Developer",
-    "office": "Valmeira",
+    "office": "Valmiera",
     "country": "Latvia",
     "company": "Wunderkraut LV"
 }, {
@@ -1027,7 +1015,7 @@
     "picture_medium": "https://hub.wunder.io/sites/default/files/styles/medium/public/pictures/maris-abols.png?itok=7idc3kxy",
     "picture_large": "https://hub.wunder.io/sites/default/files/styles/large/public/pictures/maris-abols.png?itok=rdNCTh5I",
     "jobTitle": "Developer",
-    "office": "Valmeira",
+    "office": "Valmiera",
     "country": "Latvia",
     "company": "Wunderkraut LV"
 }, {
@@ -1039,7 +1027,7 @@
     "picture_medium": "https://hub.wunder.io/sites/default/files/styles/medium/public/pictures/martins-bertins.jpg.png?itok=DenRKLa1",
     "picture_large": "https://hub.wunder.io/sites/default/files/styles/large/public/pictures/martins-bertins.jpg.png?itok=g0BaJrn7",
     "jobTitle": "Developer",
-    "office": "Valmeira",
+    "office": "Valmiera",
     "country": "Latvia",
     "company": "Wunderkraut LV"
 }, {
@@ -1051,7 +1039,7 @@
     "picture_medium": "https://hub.wunder.io/sites/default/files/styles/medium/public/pictures/sanita-locmele.jpg.png?itok=SY92VAgY",
     "picture_large": "https://hub.wunder.io/sites/default/files/styles/large/public/pictures/sanita-locmele.jpg.png?itok=pk7Q4U7Q",
     "jobTitle": "Designer",
-    "office": "Valmeira",
+    "office": "Valmiera",
     "country": "Latvia",
     "company": "Wunderkraut LV"
 }, {
