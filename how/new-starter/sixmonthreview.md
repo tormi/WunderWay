@@ -7,9 +7,9 @@ tags:
 title: What happens at my six-month review?
 ---
 
-After you've been at WunderRoot for your first six months, you'll have a progress review.
+After you've been at Wunderkraut for your first six months, you'll have a progress review.
 
-This is a pretty straightforward thing. You'll meet with either Steve Parks or Steve Hunton, probably, and have a chance to talk about various aspects of your first six months:
+This is a pretty straightforward thing. You'll meet with either your managing director, probably, and have a chance to talk about various aspects of your first six months:
 
 - your successes;
 - your challenges;

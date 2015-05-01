@@ -10,9 +10,9 @@ Project requirements are documented in **backlogs**. There is the overall **prod
 
 Requirements are written as **user stories** using the format:
 
-As a [ *user* ], 
+As a [ *user* ],
 
-I want [ *requirement* ], 
+I want [ *requirement* ],
 
 so that [ *value gained* ]
 
@@ -22,13 +22,13 @@ We use this format to fully describe who wants what and to understand the value 
 
 The product backlog lists all of the requirements that the client has specified. The product backlog is owned by them (the Product Owner) and it’s their responsibility (supported by the Scrum Master and the Project Director) to order the backlog in priority order, with those items delivering the most value first.
 
-We use <a href="https://rally1.rallydev.com">Rally</a> to manage our backlogs. Each project is provided with it's own Rally instance and members of the project team (Wunderroot and the client) are provided with access.
+We use <a href="https://rally1.rallydev.com">Rally</a> to manage our backlogs. Each project is provided with it's own Rally instance and members of the project team (Wunderkraut and the client) are provided with access.
 
 When the project first reaches this stage the Scrummaster will prepare the Rally account for the team.
 
 ## Sprint Planning, Sprint Backlog & Estimation Accuracy
 
-The project is delivered in iterations, referred to as sprints. The length of each sprint is agreed during the project initiation but is generally between 2-4 weeks. 
+The project is delivered in iterations, referred to as sprints. The length of each sprint is agreed during the project initiation but is generally between 2-4 weeks.
 
 Each sprint selects stories from the backlog, those with the highest priority and adds them to the sprint backlog.
 
@@ -42,7 +42,7 @@ Before the next (or first) sprint can begin, a senior developer will scout the p
 
 ###Sprint Planning
 
-Sprint planning is all about selecting stories from the backlog and discussing them with the team to make sure they're able to deliver them within a sprint. 
+Sprint planning is all about selecting stories from the backlog and discussing them with the team to make sure they're able to deliver them within a sprint.
 
 Sprint planning takes place in two halves. The first half (limited to 4 hours) is where the Product Owner selects and describes the stories and the objectives for the sprint. The objectives help the team understand why certain stories have been selected and helps them understand what they'll demonstrate at the end of the sprint. In the first session the team do high level estimates on the stories.
 
@@ -52,18 +52,18 @@ When the planning is complete and the team are happy with the stories for the sp
 
 ###Story sizing
 
-We estimate stories relative to other stories. When placing a story next to another it becomes quite obvious which is the bigger story. We use this method to understand whether a story is worth 1 point, 2, 3 or 5. 
+We estimate stories relative to other stories. When placing a story next to another it becomes quite obvious which is the bigger story. We use this method to understand whether a story is worth 1 point, 2, 3 or 5.
 
 ###When is a sprint full?
 
-We estimate stories using points on the Fibonacci scale (1, 2, 3, 5, 8 etc). The number selected represents the amount of effort a story is likely to require. 
+We estimate stories using points on the Fibonacci scale (1, 2, 3, 5, 8 etc). The number selected represents the amount of effort a story is likely to require.
 
-We continually monitor the number of points that a team can deliver and use our own history to understand the amount of effort we're likely to deliver in a sprint. 
+We continually monitor the number of points that a team can deliver and use our own history to understand the amount of effort we're likely to deliver in a sprint.
 
 
 ###Estimate Accuracy
 
-The accuracy of estimates is very important to quality as this sets the expectations with the client. We record our estimates for each sprint and compare these with the actual effort at the end of the sprint. Where there are discrepancies we try to understand the reasons behind this so we can look to improve in the next sprint. 
+The accuracy of estimates is very important to quality as this sets the expectations with the client. We record our estimates for each sprint and compare these with the actual effort at the end of the sprint. Where there are discrepancies we try to understand the reasons behind this so we can look to improve in the next sprint.
 
 **Templates:**
 

@@ -6,11 +6,11 @@ tags: security, iso270001, ISMS
 title: Clear desk clear screen
 ---
 
-To improve the security and protect confidentiality of information, Wunderroot employees should adopt a clear desk policy for papers and removable storage media and clear screen policy for information processing facilities. 
+To improve the security and protect confidentiality of information, Wunderkraut employees should adopt a clear desk policy for papers and removable storage media and clear screen policy for information processing facilities.
 
 This is to reduce the risk of unauthorised access, loss of, and damage to information during and outside normal working hours or when areas are left unattended.
 
-This document forms part of Wunderroot’s ISO 27001 Information Security Management System.
+This document forms part of Wunderkraut’s ISO 27001 Information Security Management System.
 
 ## Responsibility
 All staff must take personal responsibility for the security of the data in their care.
@@ -18,7 +18,7 @@ Management are responsible for ensuring that their staff clearly understand and 
 
 ### Clear Desk Policy
 
-Wunderroot recognises that any documents or material left out (e.g. on a desk, printer or cupboard to) is more susceptible to damage, disclosure or theft, particularly outside of office hours.
+Wunderkraut recognises that any documents or material left out (e.g. on a desk, printer or cupboard to) is more susceptible to damage, disclosure or theft, particularly outside of office hours.
 
 Where appropriate, paper and computer media must be stored out of sight in cabinets and/or furniture when not in use, especially outside working hours.
 
@@ -28,9 +28,9 @@ All removable data storage and computing devices (e.g. USB sticks, diskettes, ha
 
 ### Clear Screen Policy
 
-Wunderroot recognises there is a risk to unauthorised access to systems should computers remain unlocked. There is also a potential for sensitive data to be viewed if left on screen.
+Wunderkraut recognises there is a risk to unauthorised access to systems should computers remain unlocked. There is also a potential for sensitive data to be viewed if left on screen.
 
-A clear screen policy is in effect on Wunderroot computer screens (PCs, terminals and laptops).
+A clear screen policy is in effect on Wunderkraut computer screens (PCs, terminals and laptops).
 
 All laptops should be configured with a password-protected screen-saver. This is activated automatically after a period without user activity of at most 15 minutes.
 

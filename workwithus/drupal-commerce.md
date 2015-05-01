@@ -14,5 +14,5 @@ One of the major developments within Drupal has been Drupal Commerce. This has p
 
 While ecommerce is not part of this first phase of the project it’s important for you to understand the potential that Drupal Commerce has to the overall project and how this can enhance the viability of Drupal as the chosen CMS.
 
-Commerce Guys, the company behind Drupal Commerce, a company that Wunderroot partner with on key projects, have prepared a paper to help you understand the capability and scale of the commerce side of Drupal so that you can give this consideration when making your decision.
+Commerce Guys, the company behind Drupal Commerce, a company that Wunderkraut partner with on key projects, have prepared a paper to help you understand the capability and scale of the commerce side of Drupal so that you can give this consideration when making your decision.
 

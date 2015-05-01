@@ -6,12 +6,12 @@ tags: security, iso270001, ISMS
 title: Laptop/Notebook Policy
 ---
 
-It is the responsibility of Wunderroot, to implement procedures to effectively manage and provide necessary access to Wunderroot data, while at the same time ensuring the confidentiality, integrity, availability, accountability and auditability of the information. 
+It is the responsibility of Wunderkraut, to implement procedures to effectively manage and provide necessary access to Wunderkraut data, while at the same time ensuring the confidentiality, integrity, availability, accountability and auditability of the information.
 
 The use of laptop/notebook computers increases the risks associated with the secure storage of data. The purpose of this policy is to set out the criteria for the provision of laptop/notebook computers and the conditions relating to their use.
-This document forms part of Wunderroot’s ISO 27001 Information Security Management System.
+This document forms part of Wunderkraut’s ISO 27001 Information Security Management System.
 Location
-This policy is applicable to all staff, contractors and volunteers working within Wunderroot.
+This policy is applicable to all staff, contractors and volunteers working within Wunderkraut.
 
 ## Responsibility
 
@@ -21,27 +21,27 @@ Laptops/notebooks and media must be handled and stored securely. In cars they mu
 When users are travelling, laptops/notebooks (and media) should not be left unattended in public places and should always be carried as hand luggage when travelling by public transport.
 Unofficial, unauthorised or unlicensed software must not be loaded on laptops/notebooks.
 
-### Wunderroot
+### Wunderkraut
 
-Wunderroot should ensure the correct configuration of the laptop/notebooks i.e. hard drives are encrypted to 256 bit, Data Loss Protection (DLP) software is installed and all relevant group policies are enforced. All laptops must be password protected with a password over 16 characters long containing both Alphanumeric characters and punctuation.
+Wunderkraut should ensure the correct configuration of the laptop/notebooks i.e. hard drives are encrypted to 256 bit, Data Loss Protection (DLP) software is installed and all relevant group policies are enforced. All laptops must be password protected with a password over 16 characters long containing both Alphanumeric characters and punctuation.
 
-Wunderroot must approve and recommend a member of staff to be given remote access, having regard to the role and remit of the member of staff.
+Wunderkraut must approve and recommend a member of staff to be given remote access, having regard to the role and remit of the member of staff.
 
-Wunderroot must ensure that when an employee leaves their remote access rights are removed and the laptop returned to Wunderroot.
- 
+Wunderkraut must ensure that when an employee leaves their remote access rights are removed and the laptop returned to Wunderkraut.
+
 ### Operational system
 
-Wunderroot will consider the provision of a laptop/notebook computer if the following criteria are met:
+Wunderkraut will consider the provision of a laptop/notebook computer if the following criteria are met:
 * a member of staff is required to work from more than one location and convenient access to a desktop PC is not available in all the locations;
-*a member of staff regularly undertakes work at home on behalf of Wunderroot, provided that such work does not breach the Working Times Directive;
+*a member of staff regularly undertakes work at home on behalf of Wunderkraut, provided that such work does not breach the Working Times Directive;
 
-Requests for laptop/notebook computers must be peer reviewed, with the management completing the purchase. 
+Requests for laptop/notebook computers must be peer reviewed, with the management completing the purchase.
 
-This policy must be read in conjunction with Wunderroot’s Home Working Policy.
- 
+This policy must be read in conjunction with Wunderkraut’s Home Working Policy.
+
 ### Provision of Laptop/Notebook Computers
 
-The provision of Wunderroot laptop/notebook computers shall be subject to the following conditions:
+The provision of Wunderkraut laptop/notebook computers shall be subject to the following conditions:
 
 ### Person Identifiable Information
 
@@ -58,38 +58,38 @@ encryption must be applied to the hard drive;
 * Only the minimum amount of person identifiable information, necessary for the current purpose, shall be stored;
 * The person’s name shall be stored only when absolutely necessary;
 * Measures shall be taken to maximise the physical security of the laptop/notebook computer;
-* For work involving person identifiable information from locations within Wunderroot, users will be required, wherever possible, to use the Wunderroot’s network to store data.
-* Public wifi should not be used to transfer sensitive data, if public wifi is unavoidable, the Wunderroot VPN should be used.
+* For work involving person identifiable information from locations within Wunderkraut, users will be required, wherever possible, to use the Wunderkraut’s network to store data.
+* Public wifi should not be used to transfer sensitive data, if public wifi is unavoidable, the Wunderkraut VPN should be used.
 
-Wunderroot laptops/notebooks are provided for business use only.
- 
+Wunderkraut laptops/notebooks are provided for business use only.
+
 ### Backups
 
-It is not permissible for Wunderroot data to be stored solely on the hard disk of a laptop or notebook. Users of Wunderroot laptops/notebooks are responsible for ensuring that all Wunderroot data used on the laptops/notebooks is backed up. Common practice is for data to be stored on network or shared drives as these are backed centrally.
- 
-### Wunderroot’s Right to Inspect Data
+It is not permissible for Wunderkraut data to be stored solely on the hard disk of a laptop or notebook. Users of Wunderkraut laptops/notebooks are responsible for ensuring that all Wunderkraut data used on the laptops/notebooks is backed up. Common practice is for data to be stored on network or shared drives as these are backed centrally.
 
-All data and software held on Wunderroot laptops/notebooks may be inspected by authorised staff at any time and without warning.  Users may be required to remove software and/or data which are deemed to be inappropriate.
+### Wunderkraut’s Right to Inspect Data
+
+All data and software held on Wunderkraut laptops/notebooks may be inspected by authorised staff at any time and without warning.  Users may be required to remove software and/or data which are deemed to be inappropriate.
 
 ### Software maintenance
 
-As Wunderroot predominantly use Apple Mac computers it is priority to outline maintaining security on OSX. Periodically, Apple releases free updates for OSX software. Updates should be set to run automatically. These include important security updates that protect Apple computers from potential threats.
+As Wunderkraut predominantly use Apple Mac computers it is priority to outline maintaining security on OSX. Periodically, Apple releases free updates for OSX software. Updates should be set to run automatically. These include important security updates that protect Apple computers from potential threats.
 
-Any patches that are released for threats should be implemented immediately. It is the responsibility of Wunderroot employees to observe changes in technology and maintain their computers to prevent risk.
+Any patches that are released for threats should be implemented immediately. It is the responsibility of Wunderkraut employees to observe changes in technology and maintain their computers to prevent risk.
 
-Updates suggested by other software vendors used for products used by Wunderroot should also be implemented. 
+Updates suggested by other software vendors used for products used by Wunderkraut should also be implemented.
 
 ### Hardware faults
 
-Any hardware faults are to be monitored by the Wunderroot user and reported to the Wunderroot management. All Apple products are covered by Applecare and can be fixed under the policies outlined by Apple.  Replacement items can be requested using the peer review outlined in the Wunderroot hardware and software purchasing documents.
+Any hardware faults are to be monitored by the Wunderkraut user and reported to the Wunderkraut management. All Apple products are covered by Applecare and can be fixed under the policies outlined by Apple.  Replacement items can be requested using the peer review outlined in the Wunderkraut hardware and software purchasing documents.
 
 ### Laptop Insurance
 
-All wunderroot hardware is insured both within the UK and abroad. 
+All Wunderkraut hardware is insured both within the UK and abroad.
 
 ### Disposal of Wunderoot Hardware
 
-After 2 years of use any Wunderroot hardware will become the property of the user who requested its original purchase.
-This is supported by the Wunderroot ISMS data policy whereby no company information is kept on laptops and computers but is stored in a central location, this prevents the need to destroy company laptops.
+After 2 years of use any Wunderkraut hardware will become the property of the user who requested its original purchase.
+This is supported by the Wunderkraut ISMS data policy whereby no company information is kept on laptops and computers but is stored in a central location, this prevents the need to destroy company laptops.
 
-If a user leaves the company before 2 years any hardware can be purchased from Wunderroot for a cost that represents its current value.
+If a user leaves the company before 2 years any hardware can be purchased from Wunderkraut for a cost that represents its current value.

@@ -6,7 +6,7 @@ tags:
 title: Sprint Reviews, Retrospectives and Steering Groups
 ---
 
-We carry out a number of reviews during the course of projects. Regular reviews and demonstrations provides the opportunities to identify improvements to products, processes and relationships. 
+We carry out a number of reviews during the course of projects. Regular reviews and demonstrations provides the opportunities to identify improvements to products, processes and relationships.
 
 ##Sprint Review
 
@@ -32,6 +32,6 @@ Steering group meetings are held on an ad-hoc basis. The steering group is made 
 
 Steering group meetings are used to discuss the progress of the project and the direction it's planning to take. We use these meetings to discuss budgets, spend and forecast, risks and how we're managing them. These meetings are a good opportunity to get decisions made and to unblock and issues that are slowing progress.
 
-The meetings are chaired by the client with Wunderroot presenting a summary of the project's key points. 
+The meetings are chaired by the client with Wunderkraut presenting a summary of the project's key points.
 
 We maintain copies of the steering group presentations in the project's <a href="https://drive.google.com/a/wunderkraut.com/#folders/0Bxb4YZjQwNDgb1Z3WFNqMU1ncVk">Meetings > Steering Group</a> folder. See this folder for an example of the steering group presentation.

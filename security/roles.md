@@ -6,8 +6,8 @@ tags: security, iso270001, ISMS, Roles
 title: ISMS Roles
 ---
 
-This document outlines the individuals roles and responsibilities within the Wunderroot Information management team to control and prevent unacceptable risks arising to the organisation, other Wunderroot information assets and those belonging to the customers of Wunderroot.
-This document forms part of Wunderroot’s ISO 27001 Information Security Management System. 
+This document outlines the individuals roles and responsibilities within the Wunderkraut Information management team to control and prevent unacceptable risks arising to the organisation, other Wunderkraut information assets and those belonging to the customers of Wunderkraut.
+This document forms part of Wunderkraut’s ISO 27001 Information Security Management System.
 
 ## ISMS Roles
 
@@ -33,20 +33,20 @@ The SIRO ensures that SCE implements and maintains effective information managem
 ## Key strategic elements of the role include:
 
 ### Leadership
-The SIRO is to ensure, on behalf of Wunderroot, that appropriate IM responsibilities are managed effectively across the organisation to assure that information as a business asset is appropriately placed.
+The SIRO is to ensure, on behalf of Wunderkraut, that appropriate IM responsibilities are managed effectively across the organisation to assure that information as a business asset is appropriately placed.
 
 ### Accountability & Assurance
 The SIRO is accountable to the Executive Board that Agency
 for effective assurance on IM compliance activities. ensures the Executive Board is adequately briefed on information risk issues
 
 ### Information Risk Management (IRM)
-Having knowledge about Wunderroot information risks responsibility for internal risk policy agree an action plan in respect of identified information risks. Controlling information handling and risk management monitoring and assessing compliance Through - Life Measures (TLM). The SIRO ensures that an effective range of information assurance control measures are applied and maintained in order to reduce the risk and vulnerabilities of information systems to compromise.
+Having knowledge about Wunderkraut information risks responsibility for internal risk policy agree an action plan in respect of identified information risks. Controlling information handling and risk management monitoring and assessing compliance Through - Life Measures (TLM). The SIRO ensures that an effective range of information assurance control measures are applied and maintained in order to reduce the risk and vulnerabilities of information systems to compromise.
 
 ### Compliance
-The SIRO is to act as the focal point in order to assure the AO that Wunderroot is compliant with current and future national legislation, directives and policies in relation to the management of information
+The SIRO is to act as the focal point in order to assure the AO that Wunderkraut is compliant with current and future national legislation, directives and policies in relation to the management of information
 
 ### Training, Education & Awareness
-The SIRO is responsible for leading on Data Handling/ Information Assurance and supporting mandated training activity to ensure that all staff value Wunderroot information as a key business asset have a responsible attitude to information and have the appropriate awareness to undertake their responsibilities appropriately
+The SIRO is responsible for leading on Data Handling/ Information Assurance and supporting mandated training activity to ensure that all staff value Wunderkraut information as a key business asset have a responsible attitude to information and have the appropriate awareness to undertake their responsibilities appropriately
 
 ### Assured Information Sharing & Exploitation
 The SIRO ensures that Agency's information assets are appropriately managed in a way that maximises information sharing, exploitation, research capability and control, and makes best use of the Agency's information assets in the delivery of its aims and objectives.

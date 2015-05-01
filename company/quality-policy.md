@@ -6,17 +6,17 @@ tags:
 title: Our Quality Policy & Scope
 ---
 
-Effective from: 
+Effective from:
 October 2012
 
 ##Quality Scope
 
-“WunderRoot is a professional services agency for the Web providing consulting, design, development, hosting, training and support on Drupal”
+“Wunderkraut is a professional services agency for the Web providing consulting, design, development, hosting, training and support on Drupal”
 
 
 ##Quality Policy
 
-**WunderRoot is committed to:**
+**Wunderkraut is committed to:**
 
 - Providing customers with the most professional services possible
 - The development of quality products

@@ -7,17 +7,17 @@ permalink:        pretty
 
 # Setup
 title:            WunderWay
-tagline:          The WunderRoot Intranet
+tagline:          The Wunderkraut Intranet
 description:      How we run our company and deliver projects
-url:              http://wunderroot.co.uk
+url:              http://wunderkraut.com
 
 author:
-  name:           WunderRoot
-  url:            https://twitter.com/wunderroot
+  name:           Wunderkraut
+  url:            https://twitter.com/Wunderkraut
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/wunderroot/wunderway
-  branch:         https://github.com/wunderroot/wunderway/tree/gh-pages
+  repo:           https://github.com/Wunderkraut/wunderway
+  branch:         https://github.com/Wunderkraut/wunderway/tree/gh-pages

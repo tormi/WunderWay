@@ -13,7 +13,7 @@ If there is anything missing from this list that would help others, please add i
 
 ## Your first day
 
-We’ll arrange for you to meet with your buddy for at least your first day. You’ll most likely work from The Hub, get yourself setup with equipment and access to whatever you need and get introduced to the rest of the [WunderTeam](http://way.wunder.co.uk/who/).
+We’ll arrange for you to meet with your buddy for at least your first day. You’ll most likely work from The Hub, get yourself setup with equipment and access to whatever you need and get introduced to the rest of the [WunderTeam](http://way.wunder.co.uk/the-team/).
 
 *Your buddy*
 
@@ -60,9 +60,9 @@ Note: fast cars are not a company expense! <i>(Damn. SP)</i>
 
 ## Laptops and other equipment
 
-We’ll arrange the order of your standard mobile office equipment. This includes a laptop, an external speaker and a 4G dongle. We’ll also order you a SIP phone for your home office. If you have your own laptop that you’d prefer to use then that’s fine with us. If you’d like us to order you a laptop then we can organise that and have it ready for you joining us. 
+We’ll arrange the order of your standard mobile office equipment. This includes a laptop, an external speaker and a 4G dongle. We’ll also order you a SIP phone for your home office. If you have your own laptop that you’d prefer to use then that’s fine with us. If you’d like us to order you a laptop then we can organise that and have it ready for you joining us.
 
-Whenever you require any hardware or home office equipment we have a simple process for this. In HipChat or on email explain to the team the details of what you want and the cost and it’ll get peer reviewed. We’re all sensible adults here and all have the company’s best interests at heart so we only order those things we need. Once you have a peer review then email the details to SteveH and Nicola who will place the order for you. 
+Whenever you require any hardware or home office equipment we have a simple process for this. In HipChat or on email explain to the team the details of what you want and the cost and it’ll get peer reviewed. We’re all sensible adults here and all have the company’s best interests at heart so we only order those things we need. Once you have a peer review then email the details to SteveH and Nicola who will place the order for you.
 
 See [How to buy a computer](http://way.wunder.co.uk/how/how-buy-computer/) for more information
 
@@ -71,14 +71,14 @@ Setting up the SIP phone needs a little more explanation. See [Gigaphone Setup] 
 
 ## Holidays
 
-We all need a break from time to time. When you start you’ll be allocated 25 days annual leave. Our holiday period runs from 1st January. We close the office between Christmas and New Year so you’ll need to save a few days for that. 
+We all need a break from time to time. When you start you’ll be allocated 25 days annual leave. Our holiday period runs from 1st January. We close the office between Christmas and New Year so you’ll need to save a few days for that.
 
 To request holiday, get the dates peer reviewed then send an email to Nic who’ll record the days in your company calendar and our holiday log.
 
 
 ## Sickness and unplanned leave
 
-If you wake up with the lurgy please inform SteveH and someone on your project as soon as possible. 
+If you wake up with the lurgy please inform SteveH and someone on your project as soon as possible.
 
 If you have a sick note from the doctor please send a copy to: Wunder, The Hub, 34b York Way, London, N1 9AB and drop The Steve's an email to let us know you've done that.
 
@@ -104,7 +104,7 @@ After getting it peer reviewed, send the details to SteveH and Nicola to book on
 
 ## Booking travel and accommodation
 
-If you need to travel you can either book it yourself and claim back the cost through expenses or you can email Nic the details and she’ll organise the booking and the payment for you. 
+If you need to travel you can either book it yourself and claim back the cost through expenses or you can email Nic the details and she’ll organise the booking and the payment for you.
 
 
 ## Are you sitting comfortably?

@@ -8,7 +8,7 @@ title: Business Continuity Management
 
 # Purpose
 
-The purpose of this plan to to provide a flexible response so that Wunderroot can:
+The purpose of this plan to to provide a flexible response so that Wunderkraut can:
 
 * Respond to a disruptive incident (incident management)
 * Maintain delivery of critical activities during an incident (business continuity)
@@ -55,13 +55,13 @@ The plan will be activated in response to an incident causing significant disrup
 
 ## Responsibility for Activation
 
-A member of the Business Continuity Team (BCT) for Wunderroot will normally activate and initiate this plan:
+A member of the Business Continuity Team (BCT) for Wunderkraut will normally activate and initiate this plan:
 
 * Steve Parks, Managing Director (UK)
 * Steve Hunton, Operations Manager (UK)
 * Joe Baker, Lead Developer
 
-Contact details are available via the [Wunderroot phone directory](/who/wr-phone-directory)
+Contact details are available via the [Wunderkraut phone directory](/the-team/wr-phone-directory)
 
 ## Process for Activation
 
@@ -80,16 +80,16 @@ Contact details are available via the [Wunderroot phone directory](/who/wr-phone
 
 The following actions will be taken to protect our vital assets:
 
-1. Whoever identifies the incident should record and report details of the incident. If possible, email these to uk.team@wunderroot.com
+1. Whoever identifies the incident should record and report details of the incident. If possible, email these to uk.team@Wunderkraut.com
 2. Inform members of the Business Continuity Team (see above)
 3. The BCT assess the impact of the incident to agree response and next steps
-4. The BCT team communicates the incident to other members of the Wunderroot team and customer as agreed in their next steps
+4. The BCT team communicates the incident to other members of the Wunderkraut team and customer as agreed in their next steps
 
 ## Communication Actions
 
 In the event of an incident and this plan being initiated, the BCM team should be contacted. Other people within the team or within the client base may also be contacted depending on the details of the incident.
 
-Contact details are available via the [Wunderroot phone directory](/who/wr-phone-directory)
+Contact details are available via the [Wunderkraut phone directory](/the-team/wr-phone-directory)
 
 # Incident Scenarios
 
@@ -97,7 +97,7 @@ Following are a list of possible incident scenarios that could risk business con
 
 ## Loss or Theft of Mobile Device
 
-* The member of staff reports details of the loss or theft to uk.team@wunderroot.com or calls the main phone number 020 3588 0180
+* The member of staff reports details of the loss or theft to uk.team@Wunderkraut.com or calls the main phone number 020 3588 0180
 * The incident is reported to the UK support team
 * Details are recorded in the [Incident Management Report](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1xbTkDvrQ3t_m5pQpa16fmkx4ZPXaDPBjq588rXNq2PQ/edit#gid=0)
 * GitHub account is suspended
