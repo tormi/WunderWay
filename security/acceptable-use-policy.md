@@ -6,16 +6,16 @@ tags: security, iso270001, ISMS
 title: Acceptable use policy
 ---
 
-The purpose of this summary is to outline the acceptable use of computer equipment and software at Wunderroot, provide an overview and cross reference to policies relating to acceptable use of specific systems. These rules are in place to protect the employee and Wunderroot. Overlooking these points exposes Wunderroot to risks including loss of confidentiality, virus attacks, compromise of network systems and services, and legal issues.
-This document forms part of Wunderroot’s ISO 27001 Information Security Management System.
+The purpose of this summary is to outline the acceptable use of computer equipment and software at Wunderkraut, provide an overview and cross reference to policies relating to acceptable use of specific systems. These rules are in place to protect the employee and Wunderkraut. Overlooking these points exposes Wunderkraut to risks including loss of confidentiality, virus attacks, compromise of network systems and services, and legal issues.
+This document forms part of Wunderkraut’s ISO 27001 Information Security Management System.
 
 ## Scope and Objectives of Process
 
-All Wunderroot employees are responsible for exercising good judgement for reasonableness of personal use of company assets. All Information Technology (I.T.) equipment, software and associated services are provided to staff for business use though an amount of personal use is expected and accepted.
+All Wunderkraut employees are responsible for exercising good judgement for reasonableness of personal use of company assets. All Information Technology (I.T.) equipment, software and associated services are provided to staff for business use though an amount of personal use is expected and accepted.
 
 Passwords should be kept secure and accounts not shared. Users are responsible for the security of their passwords and accounts.
 
-Laptops, tablets, handheld devices and workstations must be secured by a password protected screensaver with automatic activation of 15 minutes or less. 
+Laptops, tablets, handheld devices and workstations must be secured by a password protected screensaver with automatic activation of 15 minutes or less.
 
 Because information contained on portable computers and handheld devices is especially vulnerable, special care should be exercised in protecting it.
 
@@ -24,12 +24,12 @@ Employ extreme caution when opening e-mail attachments received from unknown sen
 Confidential emails must only be sent via authorised routes.
 
 All breaches (including suspected or otherwise) of Information Security must be reported to the management.
- 
+
 ### Unacceptable Use of I.T. Infrastructure
 
 Account details should not be divulged to others including usernames or passwords, this includes members of family when work is being undertaken from home.
 
-Users shall not install or use unlicensed software or introduce malicious programs deliberately or carelessly to any Wunderroot servers (e.g. viruses, worms, etc.)
+Users shall not install or use unlicensed software or introduce malicious programs deliberately or carelessly to any Wunderkraut servers (e.g. viruses, worms, etc.)
 
 There should be no unauthorised copying of copyrighted materials
 
@@ -45,10 +45,10 @@ No member of staff is permitted to access, display or download from Internet sit
 
 Due to the insecure nature of Internet mail, users must consider Internet email to be public information. Unencrypted customer identifiable Information, confidential material or government classified information must not be transmitted over the Internet.
 
- 
+
 ### Network User Agreement - Restrictions
 
-Wunderroot users must not attempt or by their actions or deliberate inaction assist others to attempt:
+Wunderkraut users must not attempt or by their actions or deliberate inaction assist others to attempt:
 * Unauthorised access to hardware platforms;
 * Unauthorised introduction of software or hardware components to the network;
 * Unauthorised modification of network components;
@@ -61,10 +61,10 @@ Wunderroot users must not attempt or by their actions or deliberate inaction ass
 ### Data Protection Act and Computer Misuse Act
 
 All Users are subject to the provisions of the Data Protection Act and the Computer Misuse Act. Copies of these Acts are available upon request from the Management.
- 
+
 ### Risk Management
 
-Wunderroot Staff shall respect the confidentiality and privacy of individuals whose records they access; to observe any restrictions that apply to sensitive data; and to abide by legislation, policies, procedures, and guidelines with respect to access, use or disclosure of information.
+Wunderkraut Staff shall respect the confidentiality and privacy of individuals whose records they access; to observe any restrictions that apply to sensitive data; and to abide by legislation, policies, procedures, and guidelines with respect to access, use or disclosure of information.
 
 The unauthorised disclosure of customer data in any medium, except as required by an employee’s job responsibilities is expressly forbidden, as is the access or use of any customer data for one’s own personal gain, or profit, or to satisfy one’s personal curiosity or that of others.
 

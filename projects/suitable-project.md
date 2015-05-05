@@ -10,7 +10,7 @@ We don't want to pursue a client or project unless it's the right fit for us. Ea
 
 If the project looks like a good fit then we create a project repository in Google Drive:
 
-- Go to the WunderRoot Client Projects folder
+- Go to the Wunderkraut Client Projects folder
 - Check the ! Repository TEMPLATE folder
 - Click the More option at the top of the menu and select Download from the options
 - Now, click to create a new folder and use the client name as the title

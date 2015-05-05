@@ -6,7 +6,7 @@ tags:
 title: How to Book Holidays
 ---
 
-Holidays, we all need them occasionally. If you want to book a holiday just drop an email to uk.team@wunderroot.com or to an individual of your choice with the dates you want to take. If there are no problems they'll confirm this and the dates will magically appear in your Google Calendar (thanks to Nic).
+Holidays, we all need them occasionally. If you want to book a holiday just drop an email to uk.team@wunder.uk or to an individual of your choice with the dates you want to take. If there are no problems they'll confirm this and the dates will magically appear in your Google Calendar.
 
 Your holiday allowance will be listed in your contract.
 

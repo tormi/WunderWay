@@ -6,13 +6,13 @@ tags: security, iso270001, ISMS
 title: Security
 ---
 
-Most of Wunderroot’s work is performed online, an environment that is vulnerable to attacks. Many of our clients insist on our implementation and proper management of information security policies and procedures. We operate in environments that require us to handle, store and transmit personal and sensitive data.
+Most of Wunderkraut’s work is performed online, an environment that is vulnerable to attacks. Many of our clients insist on our implementation and proper management of information security policies and procedures. We operate in environments that require us to handle, store and transmit personal and sensitive data.
 
 ** Security Policy Scope **
 
-This policy is applicable to, and will be communicated to, all staff within the Wunderroot/Wunderkraut group who work on UK managed projects and who have access to and interact with company and client data in all its forms. This includes systems and data attached to our internal network, public and private networks.
+This policy is applicable to, and will be communicated to, all staff within the Wunderkraut/Wunderkraut group who work on UK managed projects and who have access to and interact with company and client data in all its forms. This includes systems and data attached to our internal network, public and private networks.
 
-This section contains all of Wunderroots policy documents regarding security.
+This section contains all of Wunderkrauts policy documents regarding security.
 
 [Acceptable use policy](/security/acceptable-use-policy)
 
@@ -36,7 +36,7 @@ This section contains all of Wunderroots policy documents regarding security.
 
 [Laptop, notebook and mobile policy](/security/laptop-notebook-policy)
 
-[Non-Wunderroot equipment](/security/none-wunderroot-equipment)
+[Non-Wunderkraut equipment](/security/none-Wunderkraut-equipment)
 
 [Purchasing hardware](/security/hardware-policy)
 

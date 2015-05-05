@@ -3,16 +3,16 @@ layout: page
 section: security
 categories: security
 tags: security, iso270001, ISMS, Telephone
-title: None Wunderroot equipment policy
+title: Wunderkraut equipment policy
 ---
 
-To manage and prevent unacceptable risks arising to the organisation and other Wunderroot information assets through the use of telephones.
-This document forms part of Wunderroot’s ISO 27001 Information Security Management System.
+To manage and prevent unacceptable risks arising to the organisation and other Wunderkraut information assets through the use of telephones.
+This document forms part of Wunderkraut’s ISO 27001 Information Security Management System.
 Location
-This policy is applicable to all staff, contractors and volunteers working for Wunderroot.
- 
+This policy is applicable to all staff, contractors and volunteers working for Wunderkraut.
+
 <h3>Phone Directory</h3>
-The phone directory listing direct external and internal numbers can be found in the <a href=http://way.wunder.co.uk/who/wr-phone-directory/> Wunderroot telephone directory</a>
+The phone directory listing direct external and internal numbers can be found in the <a href=/the-team/wr-phone-directory/> Wunderkraut telephone directory</a>
 
 <h3>Phone Calls</h3>
 Each member of staff is provided with a SIP phone. The MD and Operations Manager are part of a hunt group that is responsible for taking external calls. Calls are filtered, messages taken and passed on if necessary. Traditional phone calls rarely take place on the phone with Google Hangouts being the preferred method.

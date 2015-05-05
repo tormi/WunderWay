@@ -17,8 +17,8 @@ To help with this, it's in a version control system. This allows us to keep all 
 ## Editing The WunderWay On Github
 You can simply work on the Github website, without needing to set up anything on your own computer:
 
-1. Go to the [WunderWay repository](https://github.com/WunderRoot/WunderWay)
-2. Navigate to the page you want to edit, clicking on the folders until you find the filename you want. Click on that. For example, this page can be edited at https://github.com/WunderRoot/WunderWay/blob/gh-pages/how/how-edit-wunderway.md
+1. Go to the [WunderWay repository](https://github.com/Wunderkraut/WunderWay)
+2. Navigate to the page you want to edit, clicking on the folders until you find the filename you want. Click on that. For example, this page can be edited at https://github.com/Wunderkraut/WunderWay/blob/gh-pages/how/how-edit-wunderway.md
 3. Click Edit. Make the changes you want.
 4. At the bottom of the screen, in the 'Commit Changes' section, add a description of the changes you've made.
 5. Click the 'Commit Changes' button.
@@ -27,8 +27,8 @@ You can simply work on the Github website, without needing to set up anything on
 ## Editing The WunderWay On Your Local Computer
 1. Download and install the [Github for Mac](https://mac.github.com/) software.
 2. Download and install the [Sublime Text](http://www.sublimetext.com/) text editor.
-3. Open Github for Mac and, on the repositories screen, select 'WunderRoot' repositories.
-4. On the 'WunderRoot/WunderWay' repository select 'Clone to Computer'
+3. Open Github for Mac and, on the repositories screen, select 'Wunderkraut' repositories.
+4. On the 'Wunderkraut/WunderWay' repository select 'Clone to Computer'
 5. Select a suitable folder to save the files in.
 6. Open Sublime Text. From the File menu choose 'Open...'. Select the folder where you cloned the WunderWay repository.
 7. You'll see the folder structure of the WunderWay on the left hand side. Find the file you want to edit, and make the changes. Select File>Save when you are done.

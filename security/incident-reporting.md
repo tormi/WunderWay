@@ -16,7 +16,7 @@ The primary objective of this Security Incident Reporting and Management is to d
 respond to, and any learning obtained from loss of information and information systems e.g. laptops, USBs and hard copy files / documents.
 
 ## 2. Scope
-2.1. This process can be applied to all aspects of Wunderroot’s operations whether electronic, non-electronic, personnel, premises or infrastructure
+2.1. This process can be applied to all aspects of Wunderkraut’s operations whether electronic, non-electronic, personnel, premises or infrastructure
 
 ## 3. Overview
 3.1. Formal incident recording and escalation will be implemented for all systems and activities.
@@ -27,8 +27,8 @@ respond to, and any learning obtained from loss of information and information s
 action that will avoid, or reduce the impact or probability of a further similar recurrence.
 
 3.4. An incident is anything that is considered to have the potential to cause:
-    loss of system or information availability 
-           disclosure of confidential information, whether electronic or paper, or any  
+    loss of system or information availability
+           disclosure of confidential information, whether electronic or paper, or any
 other form including conversation
     corruption of information
     disruption of activity
@@ -89,7 +89,7 @@ The crime number if the incident has been reported to the RMP/Police.
 Complete a Security Incident Report Form and report any incidents promptly to the Chief information officer to provide further information or evidence when requested.
 
 4.2. Information Asset Officer (IAO)
-On request the Information Asset officer should disseminate blank Security Incident Report Forms and log and allocate reference for those forms that have been completed. 
+On request the Information Asset officer should disseminate blank Security Incident Report Forms and log and allocate reference for those forms that have been completed.
 
 4.3. Senior information risk owner (SIRO)
 Allocate severity and priority to any incidents that have arisen and agree to a resolution action plan and maintain both Incident Report Progress Record (spreadsheets) and a library of completed records

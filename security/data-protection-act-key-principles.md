@@ -5,12 +5,12 @@ categories: security
 tags: security, iso270001, ISMS, Document, Access
 title: Data protection act key principles
 ---
-All Wunderroot staff have legal right to access information that Wunderroot hold on them.
+All Wunderkraut staff have legal right to access information that Wunderkraut hold on them.
 The Data Protection Act contains 8 principles that everyone responsible for using data has to follow.
-All staff at Wunderroot have a responsibility to comply with these principles.
-Any Wunderroot employee that feels their information has been misused or has not been kept secure has the right to contact the Information Commissioner's Office.
+All staff at Wunderkraut have a responsibility to comply with these principles.
+Any Wunderkraut employee that feels their information has been misused or has not been kept secure has the right to contact the Information Commissioner's Office.
 
-The Data Protection Act has been implemented with the focus of respecting the rights of individuals when processing their personal information. This is achieved using an open and honest work ethos that Wunderroot uses to educate staff about the use of their personal information and following data handling best practises. 
+The Data Protection Act has been implemented with the focus of respecting the rights of individuals when processing their personal information. This is achieved using an open and honest work ethos that Wunderkraut uses to educate staff about the use of their personal information and following data handling best practises.
 
 The act is mandatory and all organisations that hold or process personal data must comply.
 The Data Protection Act contains 8 key facts:
@@ -24,7 +24,7 @@ The Data Protection Act contains 8 key facts:
 *	data should be kept secure
 *	personal data should not be transferred outside the European Economic Areas unless the country offers adequate data protection.
 
-Wunderroot staff also have a responsibility under the Act to ensure that their activities comply with the Data Protection Principles. Line managers have responsibility for the type of personal data they collect and how they use it. 
+Wunderkraut staff also have a responsibility under the Act to ensure that their activities comply with the Data Protection Principles. Line managers have responsibility for the type of personal data they collect and how they use it.
 
 Staff should not disclose personal data outside the organisation's procedures, or use personal data held on others for their own purposes.
 

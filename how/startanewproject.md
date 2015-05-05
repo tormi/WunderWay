@@ -16,7 +16,7 @@ There's a number of ducks to get in a row when you start a new project, for a cl
 
 Every project needs a remote Git repo.
 
-We use [GitHub](https://github.com/) at WunderRoot, and our GitHub organisation is at [github.com/WunderRoot](https://github.com/WunderRoot/).
+We use [GitHub](https://github.com/) at Wunderkraut, and our GitHub organisation is at [github.com/wunderkraut](https://github.com/Wunderkraut/).
 
 Create a new repository.
 

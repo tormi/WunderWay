@@ -6,19 +6,19 @@ tags: security, iso270001, ISMS
 title: IT Homeworking policy
 ---
 
-To manage and prevent unacceptable risks arising to the organisation and other Wunderroot information assets through the use of unapproved or unsafe home working facilities.
-All staff who are permitted to use equipment of the organisation at home or who may use their personal computing resources (please refer to Non Wunderroot Equipment Policy) to connect to networked services of the organisation are subject to the requirements of this Wunderroot policy and procedure.
+To manage and prevent unacceptable risks arising to the organisation and other Wunderkraut information assets through the use of unapproved or unsafe home working facilities.
+All staff who are permitted to use equipment of the organisation at home or who may use their personal computing resources (please refer to Non Wunderkraut Equipment Policy) to connect to networked services of the organisation are subject to the requirements of this Wunderkraut policy and procedure.
 
-This document forms part of Wunderroot’s ISO 27001 Information Security Management System.
+This document forms part of Wunderkraut’s ISO 27001 Information Security Management System.
 Location
 
-This policy is applicable to all staff, contractors and volunteers working for Wunderroot.
- 
-### Responsibility of Wunderroot staff
+This policy is applicable to all staff, contractors and volunteers working for Wunderkraut.
+
+### Responsibility of Wunderkraut staff
 
 ### Information Service Department
 
-Wunderroot is responsible for the provision of adequate training for home workers to ensure that they are aware of their responsibilities regarding the Data Protection Act while working with personal or confidential data.
+Wunderkraut is responsible for the provision of adequate training for home workers to ensure that they are aware of their responsibilities regarding the Data Protection Act while working with personal or confidential data.
 
 Home working staff should also be trained in:
 * the use of for any additional or special tools or functions that underpin the security of their home working, including provided access or log-on tokens.
@@ -34,14 +34,14 @@ Where the proposed home working arrangements involve the use of personal or shar
 * create a hacking opportunity through an unauthorised internet access point;
 * misuse data through uncontrolled use of removable media such as digital memory sticks and other media;
 * cause other operational or reputational damage;
- 
+
 It is the responsibility of the home worker to maintain their home working environment in conformance with the organisation policies and agreement permitting their home working. Where a home worker requires clarification or guidance they should consult the eHealth Security Manager or Head of eHealth.
- 
-### Wunderroot staff working at home
+
+### Wunderkraut staff working at home
 
 It is the home worker responsibility to ensure that they have received the necessary training from the Information Services department so that they are fully aware of their information governance responsibilities to the organisation.
 
-Once all necessary steps have been satisfied the home working arrangements agreed may be made operational. 
+Once all necessary steps have been satisfied the home working arrangements agreed may be made operational.
 
 Audit spot checks may be considered by the organisation to ensure this home working policy is complied with and the agreement with the home worker should clearly specify that this may occur. Any compliance issues will be reported to the line managers concerned and may be handled through staff disciplinary processes or contractual arrangements.
- 
+

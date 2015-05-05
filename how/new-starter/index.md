@@ -5,7 +5,7 @@ categories: Admin
 tags:
 title: Help! I'm new. How do I get started?
 ---
-So you made the decision to join us at Wunderroot.
+So you made the decision to join us at Wunderkraut.
 
 The early days in a new organisation can be daunting and can leave you feeling lost. We've put together a reference guide to help you get started on your journey.
 
@@ -21,7 +21,7 @@ Find out [more about buddies](/how/new-starter/buddies/).
 
 ##Hardware & Budget
 
-You'll need a laptop as a minimum to get you started. If you've not already got one of these then speak to Steve Parks or Steve Hunton.
+You'll need a laptop as a minimum to get you started. If you've not already got one of these then speak to your managing director.
 
 All members of staff receive a hardware budget every 2 years. You decide how to spend this money provided it's for work. The budget will cover a high-spec laptop or perhaps, a number of different mobile devices for testing or perhaps furniture for your home office.
 
@@ -51,11 +51,11 @@ You'll be allocated a holiday allowance each year. See <a href="/how/how-to-book
 
 With distributed teams communication is really important. With the right tools we can beam numerous people into the same room for meetings or general catchup-ups.
 
-The phone is always a good place to start. Take a look at the <a href="/who/wr-phone-directory/">UK Phone Directory</a>.
+The phone is always a good place to start. Take a look at the <a href="/the-team/wr-phone-directory/">UK Phone Directory</a>.
 
 We use a combination of <a href="http://www.skype.com/en/">Skype</a> and <a href="https://www.hipchat.com">HipChat</a> for online text chats. It's a good idea to install both of these.
 
-We use Google Hangouts for video calls. Whenever there's to be a hangout we'll announce it and provide a link in HipChat. As a minimum there's a weekly Wunderroot Hangout on a Friday when we discuss our weeks and have a general chin wag. We use hangouts for quick project calls.
+We use Google Hangouts for video calls. Whenever there's to be a hangout we'll announce it and provide a link in HipChat. As a minimum there's a weekly Wunderkraut Hangout on a Friday when we discuss our weeks and have a general chin wag. We use hangouts for quick project calls.
 
 We use a company Gmail account for all email correspondence.
 
@@ -67,7 +67,7 @@ When you begin working with the organisation we'll have already asked you about 
 
 Travel is a necessity for some of usto perform our jobs. The company does not operate or deal with customers in potentially risky countries. We only travel and operate in destinations approved by the UK Foreign Office.
 
-If you have any issues or questions related to Health and Safety these must be discussed with Steve Parks or Steve Hunton.
+If you have any issues or questions related to Health and Safety these must be discussed with your managing director.
 
 Here's our <a href="/company/health-and-safety/">Health & Safety policy</a> in full.
 
@@ -79,7 +79,7 @@ Well, that's our plan and we've made big steps to achieve that. We've implemente
 <a href="/company/ambition/">Our Ambition</a><br/>
 <a href="/company/qms/">Quality Management System</a> < that's the official *how we do stuff* document<br/>
 <a href="/company/">Our Company</a><br/>
-<a href="/who/">Who we are</a>
+<a href="/the-team/">Who we are</a>
 
 ##Everything Else
 

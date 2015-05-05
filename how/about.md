@@ -3,14 +3,14 @@ layout: page
 section: workwithus
 categories: workwithus
 tags: work with us
-title: About Wunderroot
+title: About Wunderkraut
 ---
 
-WunderRoot is the UK division of the European company Wunderkraut, which was formed following the merger of four of Europe’s best-known Drupal companies. The company employs more than 150 professional staff, including some of the very best Drupal developers.
+Wunderkraut is the UK division of the European company Wunderkraut, which was formed following the merger of four of Europe’s best-known Drupal companies. The company employs more than 150 professional staff, including some of the very best Drupal developers.
 
-WunderRoot is an approved UK government supplier on G-Cloud and approved supplier to other governments around Europe.
+Wunderkraut is an approved UK government supplier on G-Cloud and approved supplier to other governments around Europe.
 
-You can see our staff on our website (http://wunderroot.com/people) or on Drupal.org (http://drupal.org/marketplace/wunderkraut) which shows the experience and skills of the whole team.
+You can see our staff on our website (http://Wunderkraut.com/people) or on Drupal.org (http://drupal.org/marketplace/wunderkraut) which shows the experience and skills of the whole team.
 
 We offer a full range of services to support your organisation including:
 

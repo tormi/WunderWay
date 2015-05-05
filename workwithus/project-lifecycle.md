@@ -6,7 +6,7 @@ tags: work with us
 title: Project Lifecycle
 ---
 
-We run all of WunderRoot’s projects using the Agile project management methodology, specifically the Scrum framework. We’ll train your project staff in Agile and coach them on implementing it throughout the website project. We’ll also boost Agile’s effectiveness in generating continuous improvement by applying WunderRoot’s ISO9001-certified quality management system to the project.
+We run all of Wunderkraut’s projects using the Agile project management methodology, specifically the Scrum framework. We’ll train your project staff in Agile and coach them on implementing it throughout the website project. We’ll also boost Agile’s effectiveness in generating continuous improvement by applying Wunderkraut’s ISO9001-certified quality management system to the project.
 
 ###Implementing the Solution
 

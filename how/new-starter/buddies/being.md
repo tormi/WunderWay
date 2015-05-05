@@ -10,7 +10,7 @@ Being a buddy is an important role, but you're not alone. You're responsible in 
 
 ##Before your new starter arrives
 
-In the week or two running up to the new person arriving, a few things need to be prepared. The first week at a new workplace is obviously very significant for setting the mood of life at WunderRoot, and it's important to have a good plan for the first week or two.
+In the week or two running up to the new person arriving, a few things need to be prepared. The first week at a new workplace is obviously very significant for setting the mood of life at Wunderkraut, and it's important to have a good plan for the first week or two.
 
 Make sure you clear time in your own project diary so that you can be free and available to spend as much time as is necessary to help the new starter feel at home.
 
@@ -20,20 +20,20 @@ The new starter will be assigned a mentor for their new role. You'll want to arr
 
 In particular, you need to schedule in time for:
 
-- basic welcomes and introductions to WunderRoot, and the wider WunderKraut organisation;
+- basic welcomes and introductions to Wunderkraut, and the wider Wunderkraut organisation;
 - getting set up on communication systems, especially email, phone and chat tools;
 - introductions to projects that the new starter will be working on, and the colleagues they'll be working most closely with;
 - access to projects and documentation that they'll need for their work;
 - an overview of the week-to-week rhythm of work;
 - Fridays!
 
-###'Welcome to WunderRoot!' email
+###'Welcome to Wunderkraut!' email
 
-Before the first day, it's important to send the new starter a 'Welcome to WunderRoot!' email.
+Before the first day, it's important to send the new starter a 'Welcome to Wunderkraut!' email.
 
 We have a [template for the email](https://docs.google.com/a/wunderkraut.com/document/d/12XhM_C_U5hXfCP_UjhxJQCv8v-LhR0pOMPEQJIXQHCA/edit?usp=sharing) that you can use, but you should tailor it to the particular circumstances of the new starter. You should know all about this from your discussions with the mentor and any teammates of the new person.
 
-Remember to send the email to their personal account, not their WunderRoot account, as they will need to read this before their first day.
+Remember to send the email to their personal account, not their Wunderkraut account, as they will need to read this before their first day.
 
 ##The first day
 
@@ -44,11 +44,11 @@ You can meet up wherever you'd like to, but a good option is our office space in
 
 ###Who are we?
 
-The first day should include time to meet with either the newbie's mentor, or with Steve Parks, or both, to find out essentials of WunderRoot and WunderKraut - who we are, what we do, how we do it and why we do it this way.
+The first day should include time to meet with either the newbie's mentor, or with Steve Parks, or both, to find out essentials of Wunderkraut and WunderKraut - who we are, what we do, how we do it and why we do it this way.
 
 This might be in person, or virtually in a hangout. If Steve P's involved, it'll include a beer. Or two.
 
-Do spend some time talking about the week-to-week rhythm of work at WunderRoot, with things like daily stand-ups, making the most of our chat tools, working in a distributed business, and especially talking about Fridays.
+Do spend some time talking about the week-to-week rhythm of work at Wunderkraut, with things like daily stand-ups, making the most of our chat tools, working in a distributed business, and especially talking about Fridays.
 
 It's also important to spend time on the first day to get the new starter set up with our communication tools:
 
@@ -56,38 +56,16 @@ It's also important to spend time on the first day to get the new starter set up
   - including getting set up on their favoured email client
 - **phone**;
   - (the [SIP phones](/how/sip-phone-setup/) can sometimes be tricky to set up)
-  - intro to the [phone directory](/who/wr-phone-directory/)
+  - intro to the [phone directory](/the-team/wr-phone-directory/)
 - **chat tools**;
-  - key channels are the WunderCafe, WunderRoot, and the Questions
+  - key channels are the WunderCafe, your local office channel, and  WunderQuestions
   - include an introduction to Cato, our robot butler
 - **Google Drive**;
   - give an overview of how to find your way around, if you've managed to fathom it out!
 
 ###Who are you?
 
-In order to get to know each other you should aim to write a short biography of the new person within their first week. This should be added to the [Staff Directory page of WunderWay](/who/). To add it there, you just need to create a new markdown file in the [/who/_posts/](https://github.com/WunderRoot/WunderWay/tree/gh-pages/who/_posts) directory of this site's codebase. The file needs to be named correctly as a Jekyll post, meaning that the file name needs to include the date in reverse order, e.g.:
-
-  **2014-09-12-person-name-here.md**
-
-And make sure in the [frontmatter of the .md file](http://jekyllrb.com/docs/frontmatter/) that you include:
-
-{% highlight yaml %}
----
-name: Person Name
-role: Person Role
-avatar_url: URL to a photo of the person
-github: Github username
-twitter: Twitter username
----
-{% endhighlight %}
-
-The biography doesn't need to be long; 200 ± 25% words is a good target. Do try to cover some important things, though:
-
-- significant project the newbie has worked on
-- any relevant professional qualifications (e.g. Scrum Master)
-- some personal hobbies or interests
-
-Try to use simple, conversational language, in whole sentences. Simple stuff, really.
+In order to get to know each other you should aim to write a short biography of the new person within their first week. This should be added to the [Staff Directory page of WunderWay](/the-team/). To add your own face there, you need an employee account on the WunderHub.
 
 ###What's gonna be happening this week?
 
@@ -130,11 +108,11 @@ title: Your question title here
 ---
 {% endhighlight %}
 
-Check out some of the existing questions in the [New Starter directory of the codebase for this site](https://github.com/WunderRoot/WunderWay/tree/gh-pages/how/new-starter) for further inspiration.
+Check out some of the existing questions in the [New Starter directory of the codebase for this site](https://github.com/Wunderkraut/WunderWay/tree/gh-pages/how/new-starter) for further inspiration.
 
 ###The first Friday
 
-Make sure you introduce the new starter on their first Friday company Hangout, and get them to talk about what they've been doing this week, and what they're going to be working on at WunderRoot.
+Make sure you introduce the new starter on their first Friday company Hangout, and get them to talk about what they've been doing this week, and what they're going to be working on at Wunderkraut.
 
 ##The next few weeks
 
