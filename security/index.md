@@ -36,7 +36,7 @@ This section contains all of Wunderkrauts policy documents regarding security.
 
 [Laptop, notebook and mobile policy](/security/laptop-notebook-policy)
 
-[Non-Wunderkraut equipment](/security/none-Wunderkraut-equipment)
+[Non-Wunderkraut equipment](/security/non-Wunderkraut-equipment)
 
 [Purchasing hardware](/security/hardware-policy)
 
