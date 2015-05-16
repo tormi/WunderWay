@@ -9,7 +9,7 @@ title: Examples of Drupal on the Web
 Known for being very versatile, dynamic, robust, mature and secure, Drupal has been selected as the platform for some of the biggest brands and highest traffic-volume sites, and for those to which security is vital.
 
 ## Cartier
-![image](http://way.wunder.co.uk/public/images/cartier.png)
+![image](/public/images/cartier.png)
 
 **Luxury Goods, Online Retail, Renowned Brand**
 
