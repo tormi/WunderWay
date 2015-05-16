@@ -15,7 +15,7 @@ This section explains how we work with clients - from identifying who we'd like 
 	- [Prepare and Prove](/clients/winning-clients-prepare-prove)
 	- [Proposal](/clients/winning-clients-proposal)
 	- [Presentation](/clients/winning-clients-presentation)
-	- [Agreement](/clients/winning-new-clients-agreement)
+	- [Agreement](/clients/winning-clients-agreement)
 	- [Retrospective](/clients/winning-clients-retrospective)
 	- [Set Up for Delivery](/clients/winning-clients-setup)
 
