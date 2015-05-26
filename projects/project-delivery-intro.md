@@ -25,7 +25,7 @@ This method ensures that we always know who the user is, what they're expecting 
 
 The Product Owner (a client role) is responsible for prioritising the backlog but are supported by the Scrum Master.
 
-Backlogs for all our projects are managed in <a href="">Rally</a>.
+Backlogs for all our projects are managed in <a href="https://rally1.rallydev.com/#/18084711157d/backlog">Rally</a>.
 
 **Sprints**
 
