@@ -40,6 +40,6 @@ The QMS has an owner and is sponsored and supported by senior management. The ro
 **Role:** Support the QMS - management and implementation
 
 
-## Verion History
+## Version History
 
 Old versions of the QMS can be found in [QMS History](https://drive.google.com/drive/#folders/0Bxb4YZjQwNDgQmh6UkRnNC16ekE/0Bxb4YZjQwNDgd1Q5aHpWS0hQRFU/0Bxb4YZjQwNDgUWFYWHc1Y2V4Rzg). The WunderWay version of the QMS is now maintained via GitHub which includes a log of all changes made. This wiki version of the QMS is always the most recent version. A change history log can be viewed in the <a href="https://github.com/Wunderkraut/WunderWay">WunderWay repository in GitHub</a>.
