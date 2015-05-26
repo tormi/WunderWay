@@ -39,7 +39,7 @@ In the left nav, select “Telephony”.
 
 Select “Edit” to the right of IP1.
 
-![image](http://way.wunder.co.uk/public/images/sip-screen-1.jpg)
+![image](/public/images/sip-screen-1.jpg)
 
 **Image**: <i>A view of the settings</i>
 
@@ -66,7 +66,7 @@ In the following fields enter the IP address **193.104.131.17**
 
 Finally, select “Set” to save the settings.
 
-![image](http://way.wunder.co.uk/public/images/sip-screen-2.jpg)
+![image](/public/images/sip-screen-2.jpg)
 
 See above. If the settings have been entered correctly you should see **Registered** in the **Status** column beside IP1. If not, try **Edit** and enter your details again.
 
@@ -84,7 +84,7 @@ Select “Set” to save the changes.
 
 ##Voicemail
 
-If you’re left a voicemail the voicemail symbol will appear on the handset. To access your voicemail dial *123 on your handset. You’ll be prompted to enter your PIN number. A list of PIN numbers can be found/managed in the OrbTalk Self Care Portal. 
+If you’re left a voicemail the voicemail symbol will appear on the handset. To access your voicemail dial *123 on your handset. You’ll be prompted to enter your PIN number. A list of PIN numbers can be found/managed in the OrbTalk Self Care Portal.
 
 ##Support
 

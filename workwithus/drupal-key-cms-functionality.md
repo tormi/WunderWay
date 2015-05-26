@@ -23,6 +23,6 @@ In order to extend the capabilities of your site further, Drupal also offers you
 
 This diagram shows a high level description of the CMS and some key elements of functionality contained within it.
 
-![image](http://way.wunder.co.uk/public/images/drupal-key-cms-features.png)
+![image](/public/images/drupal-key-cms-features.png)
 
 Diagram: Summary of Drupal CMS integration

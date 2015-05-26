@@ -8,12 +8,12 @@ title: A Reference for Newbies and WunderVeterans
 
 Whether you're new to Wunder or a seasoned veteran it's unlikely that you'll know or remember everything. Here's a quick reference to point you in the right direction.
 
-If there is anything missing from this list that would help others, please add it yourself or send a brief email to SteveH. See [How to edit WunderWay](http://way.wunder.co.uk/how/how-edit-wunderway/)
+If there is anything missing from this list that would help others, please add it yourself or send a brief email to SteveH. See [How to edit WunderWay](/how/how-edit-wunderway/)
 
 
 ## Your first day
 
-We’ll arrange for you to meet with your buddy for at least your first day. You’ll most likely work from The Hub, get yourself setup with equipment and access to whatever you need and get introduced to the rest of the [WunderTeam](http://way.wunder.co.uk/the-team/).
+We’ll arrange for you to meet with your buddy for at least your first day. You’ll most likely work from The Hub, get yourself setup with equipment and access to whatever you need and get introduced to the rest of the [WunderTeam](/the-team/).
 
 *Your buddy*
 
@@ -64,9 +64,9 @@ We’ll arrange the order of your standard mobile office equipment. This include
 
 Whenever you require any hardware or home office equipment we have a simple process for this. In HipChat or on email explain to the team the details of what you want and the cost and it’ll get peer reviewed. We’re all sensible adults here and all have the company’s best interests at heart so we only order those things we need. Once you have a peer review then email the details to SteveH and Nicola who will place the order for you.
 
-See [How to buy a computer](http://way.wunder.co.uk/how/how-buy-computer/) for more information
+See [How to buy a computer](/how/how-buy-computer/) for more information
 
-Setting up the SIP phone needs a little more explanation. See [Gigaphone Setup] (http://way.wunder.co.uk/how/sip-phone-setup/)
+Setting up the SIP phone needs a little more explanation. See [Gigaphone Setup] (/how/sip-phone-setup/)
 
 
 ## Holidays
@@ -113,7 +113,7 @@ It’s important that we all have a proper home office setup at home. We expect 
 
 There’s also no reason why you can’t make the most of remote working and move around a little. You can work from the garden, from a coffee shop or take yourself off to a Hub for the day. Sometimes, a change is as good as a rest.
 
-We like to share ideas for our home offices here [Comfortable Working](http://way.wunder.co.uk/how/work-comfortably/)
+We like to share ideas for our home offices here [Comfortable Working](/how/work-comfortably/)
 
 
 ## Personal development

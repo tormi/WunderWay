@@ -18,20 +18,20 @@ There will often be a need to relate products to one another. Products can be cr
 
 ###Editor Tools
 
-The interface for editing product and page content can differ depending on what’s being edited. Different brands may require different landing pages or approaches to displaying content and the editor for this content can flex to accommodate this. 
+The interface for editing product and page content can differ depending on what’s being edited. Different brands may require different landing pages or approaches to displaying content and the editor for this content can flex to accommodate this.
 
-The CMS is flexible enough to deal with a wide range of content, from standard page content including Checkout pages, About Us, Returns and Shipping pages to brand pages, product pages and campaign pages. 
+The CMS is flexible enough to deal with a wide range of content, from standard page content including Checkout pages, About Us, Returns and Shipping pages to brand pages, product pages and campaign pages.
 
-Content editing can be enhanced with the use of WYSIWYG and media tools to create richer content. Drupal supports a number of WYSIWYG editors. All of these are configurable and different toolbars can be presented to different users depending on their permissions. 
+Content editing can be enhanced with the use of WYSIWYG and media tools to create richer content. Drupal supports a number of WYSIWYG editors. All of these are configurable and different toolbars can be presented to different users depending on their permissions.
 
-![image](http://way.wunder.co.uk/public/images/wysiwyg.png) 
+![image](/public/images/wysiwyg.png)
 Image: example of WYSIWYG editor
 
 Content can also be opened up to customers to enable them to comment on a product or to rate it. Ratings help gain interest in products, while comments will often provide answers to questions not answered in the product description. Comments can be set to moderate, allowing you to approve this content before it’s shown on the site.
 
 ###Bespoke Layout
 
-Editors have the flexibility to create bespoke layouts for individual pages or collections. For the purpose of special promotions or due to the specific requirements of a particular brand, the layout of pages can break out of the standard templates applied to the site. 
+Editors have the flexibility to create bespoke layouts for individual pages or collections. For the purpose of special promotions or due to the specific requirements of a particular brand, the layout of pages can break out of the standard templates applied to the site.
 
 Your editors can use Drupal controls to structure pages through the CMS - there is no need for hand-coding HTML. Editors will be able to use pre-built content blocks, remove navigation, add image transitions and click-and-drag content into position.
 
@@ -39,7 +39,7 @@ Content blocks are also used for common elements, such as the header and footer,
 
 A series of templates can be pre-defined for users to choose from or they can add new templates. Templates can contain regions into which the user can drag content such as products, features and adverts.
 
-![image](http://way.wunder.co.uk/public/images/templates.png)
+![image](/public/images/templates.png)
 Image: Showing an example of pre-configured template layouts
 
 ###SEO - Search Engine Optimisation

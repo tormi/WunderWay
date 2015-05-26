@@ -20,7 +20,7 @@ There are a lot of documents that we use in the course of our work. To help you 
 Non-conformities are now recorded in the sprint backlog for the project in <a href="https://rally1.rallydev.com">Rally</a> as *defects*.
 
 **Project initialisation template**<br/>
-This has been removed from the process. The high level requirements for the project are now recorded in the contract with the customer. 
+This has been removed from the process. The high level requirements for the project are now recorded in the contract with the customer.
 
 **Dependency log template**<br/>
 Any dependencies on the client are now recorded in <a href="https://rally1.rallydev.com">Rally</a>. During the sprint scouting session we identify dependencies and record those in the notes within the user story. If a client fails to provide the required information or support then the story will be marked a *blocked* until this is resolved.
@@ -81,5 +81,5 @@ Change requests should now be recorded as user stories in <a href="https://rally
 <https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdDVsd2dhdnBDbV96dDRkYVNFYUNac1E#gid=2>
 
 **Phone Setup & Configuration**<br/>
-<http://way.wunder.co.uk/how/sip-phone-setup/>
+</how/sip-phone-setup/>
 

@@ -16,7 +16,7 @@ Apache Solr is flexible, with an extensible plugin architecture. It can be exten
 
 The keyword search facility can be extended, giving users the option to complete an advanced search.
 
-![image](http://way.wunder.co.uk/public/images/search-box.png) 
+![image](/public/images/search-box.png)
 Diagram: an illustration of the simple and advanced  search options presented to the user
 
 It can also be configured so users can save their searches. They can then be notified when new content is available in those categories, or simply use them to quickly find their way back to a section of content.

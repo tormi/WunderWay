@@ -12,7 +12,7 @@ We run all of Wunderkraut’s projects using the Agile project management method
 
 Agile-Scrum makes our development approach flexible and transparent, and puts the your team in control of the direction of your project. We will develop and deliver iteratively, so you get completed functionality every two weeks.
 
-![image](http://way.wunder.co.uk/public/images/lifecycle.png)
+![image](/public/images/lifecycle.png)
 
 In the **Discovery** phase we will review all of your existing research, ensure all user stories have been captured, and look for areas of complexity and risk. Using Agile means we won’t define everything up front but we will develop a clear plan that focuses on delivering the most value and managing the risks.
 In the **Alpha** phase we will prototype the areas of complexity and risk in the project. This generally includes any integrations. User experience (UX) is important to the project, so this stage is likely to involve prototyping elements of the user journey to give us early feedback from real users.

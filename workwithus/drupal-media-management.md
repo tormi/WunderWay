@@ -20,7 +20,7 @@ When images are uploaded, Drupal can automatically create a cache of different s
 
 Images uploaded and resized in this way reduce workload and ensure greater accuracy because automated resizing forces images to conform with templated layouts. The images are properly resized to optimise the filesize for mobile devices.
 
-![image](http://way.wunder.co.uk/public/images/media-management.png) 
+![image](/public/images/media-management.png)
 Image: Illustration of automated image cache
 
 Similarly, functionality for the image-upload process can include the option to crop images, in cases where a specific area of the image is required. For example, when close-up focus on a particular material or motif is of particular interest to your customer.
