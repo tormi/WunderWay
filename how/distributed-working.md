@@ -6,7 +6,7 @@ tags:
 title: Working In A Distributed Way
 ---
 
-At Wundercamp London in Augist 2014 we held a session to look at the way we work on projects where team members are drawn from multiple countries (most of our projects). These are some of the notes we came up with:
+At Wundercamp London in August 2014 we held a session to look at the way we work on projects where team members are drawn from multiple countries (most of our projects). These are some of the notes we came up with:
 
 
 - Frequent calls, hangouts, etc
