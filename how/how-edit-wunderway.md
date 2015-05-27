@@ -35,8 +35,9 @@ You can simply work on the Github website, without needing to set up anything on
 6. Open your text editor. From the File menu choose 'Open...'. Select the folder where you cloned the WunderWay repository.
 7. In Sublime and similar text editors, you'll see the folder structure of the WunderWay on the left hand side. Find the file you want to edit, and make the changes. Select File>Save when you are done.
 8. In the Github for Mac application, under 'changes' it will show that you have 'uncommitted changes'. Type a heading and description about the changes you made. Click Commit.
-9. You can make many edits like this offline. When you are back online and want to open a pull request for your changes.
-10. Your changes will be made automatically to the live WunderWay site within moments.
+9. You can make many edits like this offline. When you are back online and want to open a pull request for your changes you follow the instructions on [Create Pull Requests with GitHub for Mac](https://github.com/blog/1946-create-pull-requests-with-github-for-mac) ![Demonstration of a pull request](https://cloud.githubusercontent.com/assets/13760/5697198/35b8c866-999f-11e4-91c1-7af538f2ced5.gif)
+10. Your pull request will appear on the WunderWay [pull requests page.](https://github.com/wunderkraut/WunderWay/pulls)
+11. A notification of this pull request will appear in the WunderCafe Hipchat room. Reach out to specific people to ensure they see your pull request.
 
 ## Previewing your WunderWay changes on your local computer
 1. Navigate to the top WunderWay folder in your terminal
