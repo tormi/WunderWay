@@ -39,6 +39,11 @@ You can simply work on the Github website, without needing to set up anything on
 10. Your pull request will appear on the WunderWay [pull requests page.](https://github.com/wunderkraut/WunderWay/pulls)
 11. A notification of this pull request will appear in the WunderCafe Hipchat room. Reach out to specific people to ensure they see your pull request.
 
+## Reviewing and merging pull requests
+For instructions on how to review and discuss the proposed changes see [Using pull requests.](https://help.github.com/articles/using-pull-requests/#reviewing-proposed-changes)
+
+After a consensus has been agreed, and you have the permissions, you'll want to merge the pull request into the officla WunderWay. For instructions on how to merge and close a pull request see [Merging a pull request.](https://help.github.com/articles/merging-a-pull-request/)
+
 ## Previewing your WunderWay changes on your local computer
 1. Navigate to the top WunderWay folder in your terminal
 2. Install Jekyll by running ``` $ gem install jekyll ```
