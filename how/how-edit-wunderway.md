@@ -8,7 +8,7 @@ title: How To Edit The WunderWay
 
 The WunderWay is intended to be collaborative and continuously improved. Any change or addition can be suggestion by anyone, and requires peer review before being merged into the official WunderWay.
 
-To help with this, we use Github's [pull request workflow.](https://help.github.com/articles/using-pull-requests/) This allows us to keep all the different versions of the content that have ever existed, track changes, and discuss them. It also allows us easily catch and fi any mistakes, so don't worry about breaking it.
+To help with this, we use Github's [pull request workflow.](https://help.github.com/articles/using-pull-requests/) This allows us to keep all the different versions of the content that have ever existed, track changes, and discuss them. It also allows us easily catch and fi any mistakes, don't worry about breaking it.
 
 ## Preparing To Work On The WunderWay
 
