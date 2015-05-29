@@ -3,7 +3,7 @@
 {% assign next_level_down = url_parts_size | plus: 1 %}
 {% assign base_url = url_parts | last %}
 <ul>
-{% assign pages = site.pages | sort: 'price' %}
+{% assign pages = site.pages | sort: 'title' %}
 {% for page in pages %}
   {% if page.url contains base_url %}
     {% assign page_url_parts = page.url | split: '/' %}
