@@ -6,48 +6,60 @@ tags:
 title: How To Edit The WunderWay
 ---
 
-The WunderWay is designed for collaboration and continuous improvement. No one person is responsible for updating and extending it - everybody is.
+The WunderWay is intended to be collaborative and continuously improved. Any change or addition can be suggested by anyone, and requires peer review before being merged into the official WunderWay.
 
-To help with this, it's in a version control system. This allows us to keep all the different versions of the content that have ever existed, track changes, and discuss them. That makes any mistake really easy to fix, so don't worry about breaking it.
+To help with this, we use Github's [pull request workflow.](https://help.github.com/articles/using-pull-requests/) This allows us to keep all the different versions of the content that have ever existed, track changes, and discuss them. It also allows us easily catch and fix any mistakes - so don't worry about breaking it.
 
-## Getting Ready To Work On The WunderWay
-1. You'll need a user account at [Github](https://github.com), which is the service that hosts the version control system for us.
-2. Once you have a username there, give it to one of your colleagues and ask them to add you to the WunderWay project.
+## Preparing To Work On The WunderWay
 
-## Editing The WunderWay On Github
+### Editing The WunderWay On Github
 You can simply work on the Github website, without needing to set up anything on your own computer:
 
-1. Go to the [WunderWay repository](https://github.com/Wunderkraut/WunderWay)
-2. Navigate to the page you want to edit, clicking on the folders until you find the filename you want. Click on that. For example, this page can be edited at https://github.com/Wunderkraut/WunderWay/blob/gh-pages/how/how-edit-wunderway.md
-3. Click Edit. Make the changes you want.
-4. At the bottom of the screen, in the 'Commit Changes' section, add a description of the changes you've made.
-5. Click the 'Commit Changes' button.
-6. Your changes will be made automatically to the live WunderWay site within moments.
+Either:
+1. Navigate on the [WunderWay](http://way.wunder.io) to the page you want to edit
+2. Click the link at the top of the page, in light grey, that says 'Edit This Page'
 
-## Editing The WunderWay On Your Local Computer
+Or:
+1. Go to the [WunderWay repository](https://github.com/Wunderkraut/WunderWay) on Github
+2. Navigate to the page you want to edit, clicking on the folders until you find the filename you want. Click on that. For example, this page can be edited at https://github.com/Wunderkraut/WunderWay/blob/gh-pages/how/how-edit-wunderway.md
+
+You will then be viweing the source of the page on Github. To edit this:
+1. Click the Pencil icon to 'Edit this file'. Make the changes you want.
+2. At the bottom of the screen, in the 'Propose Changes' section, add a description of the changes you've made.
+3. Click the 'Propose Changes' button.
+4. Your pull request will appear on the WunderWay [pull requests page.](https://github.com/wunderkraut/WunderWay/pulls)
+5. A notification of this pull request will appear in the WunderCafe Hipchat room. Reach out to specific people to ensure they see your pull request.
+
+### Editing The WunderWay On Your Local Computer using the Github app
 1. Download and install the [Github for Mac](https://mac.github.com/) software.
-2. Download and install the [Sublime Text](http://www.sublimetext.com/) text editor.
-3. Open Github for Mac and, on the repositories screen, select 'Wunderkraut' repositories.
+2. Download and install a text editor of your choice. eg. [Sublime Text](http://www.sublimetext.com/)
+3. Open the Github app and, on the repositories screen, select 'Wunderkraut' repositories.
 4. On the 'Wunderkraut/WunderWay' repository select 'Clone to Computer'
 5. Select a suitable folder to save the files in.
-6. Open Sublime Text. From the File menu choose 'Open...'. Select the folder where you cloned the WunderWay repository.
-7. You'll see the folder structure of the WunderWay on the left hand side. Find the file you want to edit, and make the changes. Select File>Save when you are done.
+6. Open your text editor. From the File menu choose 'Open...'. Select the folder where you cloned the WunderWay repository.
+7. In Sublime and similar text editors, you'll see the folder structure of the WunderWay on the left hand side. Find the file you want to edit, and make the changes. Select File>Save when you are done.
 8. In the Github for Mac application, under 'changes' it will show that you have 'uncommitted changes'. Type a heading and description about the changes you made. Click Commit.
-9. You can make any edits like this offline. When you are back online and want to push your changes to the WunderWay site, click 'Sync Branch' in the top right of Github for Mac.
-10. Your changes will be made automatically to the live WunderWay site within moments.
+9. You can make many edits like this offline. When you are back online and want to open a pull request for your changes you follow the instructions on [Create Pull Requests with GitHub for Mac](https://github.com/blog/1946-create-pull-requests-with-github-for-mac) ![Demonstration of a pull request](https://cloud.githubusercontent.com/assets/13760/5697198/35b8c866-999f-11e4-91c1-7af538f2ced5.gif)
+10. Your pull request will appear on the WunderWay [pull requests page.](https://github.com/wunderkraut/WunderWay/pulls)
+11. A notification of this pull request will appear in the WunderCafe Hipchat room. Reach out to specific people to ensure they see your pull request.
 
-## Previewing WunderWay on you local computer
+
+#### Previewing your WunderWay changes on your local computer
 1. Navigate to the top WunderWay folder in your terminal
 2. Install Jekyll by running ``` $ gem install jekyll ```
 3. You you encounter an error, you may need to run ``` $ sudo gem install jekyll ```
-4. In the same directory, run ``` jekyll serve ```. This compile the jekyll site and serve it on http://localhost:4000
+4. In the same directory, run ``` jekyll serve ```. This compiles the jekyll site and makes it availiable on http://localhost:4000
 5. If you want Jekyll to recompile the site every time you save a file, run ``` jekyll serve --watch ``` instead
 
-## Editing responsibly
-The WunderWay is publicly viewable, so please make any changes responsibly. You don't need to ask for anyone's permission to make edits, but like in everything else we do, it's a good idea to ask for peer review of any major changes.
+
+## Reviewing and merging pull requests
+For instructions on how to review and discuss the proposed changes see [Using pull requests.](https://help.github.com/articles/using-pull-requests/#reviewing-proposed-changes)
+
+After a consensus has been agreed, and you have the permissions, you'll want to merge the pull request into the official WunderWay. For instructions on how to merge and close a pull request see [Merging a pull request.](https://help.github.com/articles/merging-a-pull-request/)
+
 
 ## Formatting
-We use a formatting syntax called 'Markdown' to write the content of the Wunderway. It's very simple to use. You can find a full briefing on the syntax at http://daringfireball.net/projects/markdown/syntax
+The WunderWay uses a formatting syntax called 'Markdown' to generate the content. It's simple to use once the basic syntax is learned. You can read Github's [Introduction to Markdown](https://guides.github.com/features/mastering-markdown/) and you can find a full description on the syntax at http://daringfireball.net/projects/markdown/syntax
 
 ## Creating New Pages
 If you need to create a completely new page, you can create a new file in the right section folder in WunderWay. Call the file 'your-file-name.md' where your-file-name can be anything you like. The '.md' file extension is important.
@@ -62,4 +74,4 @@ At the very beginning of your file you need a few lines of text called 'front-ma
     title: How To Claim Expenses
     ---
 
-  This tells the system that builds the site what type of file it is, what section it's in, the categories it's in, and the title. The Tags will help with navigation.
+This tells the system that builds the site what type of file it is, what section it's in, the categories it's in, and the title. The Tags will help with navigation.
