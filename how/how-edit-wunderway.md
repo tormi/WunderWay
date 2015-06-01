@@ -25,7 +25,7 @@ Or:
 1. Go to the [WunderWay repository](https://github.com/Wunderkraut/WunderWay) on Github
 2. Navigate to the page you want to edit, clicking on the folders until you find the filename you want. Click on that. For example, this page can be edited at https://github.com/Wunderkraut/WunderWay/blob/gh-pages/how/how-edit-wunderway.md
 
-You will then be viweing the source of the page on Github. To edit this:
+You will then be viewing the source of the page on Github. To edit this:
 
 1. Click the Pencil icon to 'Edit this file'. Make the changes you want.
 2. At the bottom of the screen, in the 'Propose Changes' section, add a description of the changes you've made.
