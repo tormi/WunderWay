@@ -16,14 +16,17 @@ To help with this, we use Github's [pull request workflow.](https://help.github.
 You can simply work on the Github website, without needing to set up anything on your own computer:
 
 Either:
+
 1. Navigate on the [WunderWay](http://way.wunder.io) to the page you want to edit
 2. Click the link at the top of the page, in light grey, that says 'Edit This Page'
 
 Or:
+
 1. Go to the [WunderWay repository](https://github.com/Wunderkraut/WunderWay) on Github
 2. Navigate to the page you want to edit, clicking on the folders until you find the filename you want. Click on that. For example, this page can be edited at https://github.com/Wunderkraut/WunderWay/blob/gh-pages/how/how-edit-wunderway.md
 
 You will then be viweing the source of the page on Github. To edit this:
+
 1. Click the Pencil icon to 'Edit this file'. Make the changes you want.
 2. At the bottom of the screen, in the 'Propose Changes' section, add a description of the changes you've made.
 3. Click the 'Propose Changes' button.
