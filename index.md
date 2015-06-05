@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Reference for Newbies and WunderVeterans
+title: Welcome to the WunderWay
 ---
 
 Whether you're new to Wunder or a seasoned veteran it's unlikely that you'll know or remember everything. Here's a quick reference to point you in the right direction.
