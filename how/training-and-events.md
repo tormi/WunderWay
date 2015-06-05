@@ -6,7 +6,7 @@ tags:
 title: Training and events budget
 ---
 
-Events and training allowance work a little different than [the equipment budget](equipmenthow-buy-computer.md). Instead of an annual/bi-annual budget, a simple peer review system is in place, if there's an event you think you should go, just ask a colleague for their approval. Additionally, if an event happens mid week and might affect the project you're on at the time, is good to check with your teammates so it can be planned and doesn't cause too much disruption.
+Events and training allowance work the same as the [equipment budget](how-buy-computer.md). We've implemented a simple peer review system so if there's an event you think you should go, just ask a colleague for their approval. Additionally, if an event happens mid week and might affect the project you're on at the time, is good to check with your teammates so it can be planned and doesn't cause too much disruption.
 
 ## Log attendance
 
