@@ -43,6 +43,12 @@ Although we’re all based at our home offices we do have an office. It’s a sh
 
 It’s just round the corner from Kings Cross. Easy to reach by tube, train, plane and car.
 
+## About Wunder
+
+If you need a reminder about who we are and what we're all about then take a look at [About Wunder](/how/about/)
+
+How we work says a lot about who we are and what we're trying to be. We've set ourselves some objectives and we've put in place a way to manage the quality of everything we do and everything we produce. You can find out lots more in [Our Company](/company/)
+
 
 ## Payroll and payday
 
@@ -66,7 +72,7 @@ Whenever you require any hardware or home office equipment we have a simple proc
 
 See [How to buy a computer](/how/how-buy-computer/) for more information
 
-Setting up the SIP phone needs a little more explanation. See [Gigaphone Setup] (/how/sip-phone-setup/)
+Setting up the SIP phone needs a little more explanation. See [Gigaphone Setup](/how/sip-phone-setup/)
 
 
 ## Holidays
@@ -126,6 +132,12 @@ SteveH will speak with you once you’re through your probationary period to spe
 ## Fridays
 
 Fridays are special days. Each Friday we have a company Hangout, to catch up with other staff that we haven't worked with during the week, to hear what people have been working on and what their 'give back' Friday plans are. Your first Friday Hangout will be a chance to introduce yourself and meet anyone you haven't said hello to yet.
+
+
+
+## Documents
+
+We use a variety of documents and tools in the course of our work and our general operations. There is a quick reference guide at [Documents and Records](/how/documents-reference/)
 
 
 ## Grievance
