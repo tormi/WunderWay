@@ -45,9 +45,9 @@ It’s just round the corner from Kings Cross. Easy to reach by tube, train, pla
 
 ## About Wunder
 
-If you need a reminder about who we are and what we're all about then take a look at [About Wunder](http://way.wunder.co.uk/how/about/)
+If you need a reminder about who we are and what we're all about then take a look at [About Wunder](/how/about/)
 
-How we work says a lot about who we are and what we're trying to be. We've set ourselves some objectives and we've put in place a way to manage the quality of everything we do and everything we produce. You can find out lots more in [Our Company](http://way.wunder.co.uk/company/)
+How we work says a lot about who we are and what we're trying to be. We've set ourselves some objectives and we've put in place a way to manage the quality of everything we do and everything we produce. You can find out lots more in [Our Company](/company/)
 
 
 ## Payroll and payday
@@ -72,7 +72,7 @@ Whenever you require any hardware or home office equipment we have a simple proc
 
 See [How to buy a computer](/how/how-buy-computer/) for more information
 
-Setting up the SIP phone needs a little more explanation. See [Gigaphone Setup] (/how/sip-phone-setup/)
+Setting up the SIP phone needs a little more explanation. See [Gigaphone Setup](/how/sip-phone-setup/)
 
 
 ## Holidays
@@ -137,7 +137,7 @@ Fridays are special days. Each Friday we have a company Hangout, to catch up wit
 
 ## Documents
 
-We use a variety of documents and tools in the course of our work and our general operations. There is a quick reference guide at [Documents and Records](http://way.wunder.co.uk/how/documents-reference/)
+We use a variety of documents and tools in the course of our work and our general operations. There is a quick reference guide at [Documents and Records](/how/documents-reference/)
 
 
 ## Grievance
