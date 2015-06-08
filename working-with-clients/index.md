@@ -7,7 +7,7 @@ This section explains how we work with clients - from identifying who we'd like 
 
 - [Our kind of client](/working-with-clients/finding-new-clients/our-kind-client)
 
-- [Finding potential clients](/working-with-clients/finding-potential-clients)
+- [Finding potential clients](/working-with-clients/finding-new-clients/finding-potential-clients)
 
 - [Winning new clients](/working-with-clients/winning-new-clients)
 	- [Stop/Go](/working-with-clients/winning-new-clients/winning-clients-stop-go)
@@ -19,8 +19,8 @@ This section explains how we work with clients - from identifying who we'd like 
 	- [Retrospective](/working-with-clients/winning-new-clients/winning-clients-retrospective)
 	- [Set Up for Delivery](/working-with-clients//winning-new-clientswinning-clients-setup)
 
-- [Looking after clients](/working-with-clients/looking-after-clients)
+- [Looking after clients](/working-with-clients/keeping-clients-happy/looking-after-clients)
 
-- [Handling complaints](/working-with-clients/customer-complaints)
+- [Handling complaints](/working-with-clients/keeping-clients-happy/customer-complaints)
 
-- [Building long-term partnerships](/working-with-clients/building-partnerships)
+- [Building long-term partnerships](/working-with-clients/keeping-clients-happy/building-partnerships)
