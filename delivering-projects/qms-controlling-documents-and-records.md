@@ -6,54 +6,43 @@ tags:
 title: Controlling Documents & Records
 ---
 
-Controlling documents and records is the way that we maintain our process documents, how and where we archive and ensuring that everyone is using the most current version.
+As the WunderWay is a living, breathing reference of what we do and how we do it, it's important that we control the way changes are dealt with. 
 
-##QMS Change Requests
+##WunderWay Change Requests
 
-The QMS Change Request log is owned by the QMS Manager and is reviewed daily. Requests that are considered a priority are reviewed by the QMS Manager and another suitably qualified person.
+Changes are raised either as pull requests or issues in GitHub. Those changes are reviewed weekly and implemented when necessary. 
 
-Changing any part of the QMS effectively changes how we operate as a business. It's important that we continue to evolve and adapt in order to improve but the changes need to be managed carefully. We manage all change requests and implementations via Rally.
+When we implement changes to the WW then we affect the whole group so be sure to consider the change you're making. If you've tried out a new process or tool locally then include the results of your test in the pull request or issue so that we can make decisions on the change requests more easily. Plus, it's good to keep a record of the reasons for change in GitHub so we can refer back later on.
 
-If you'd like to request a change (however big or small) then please create a user story and add it to the [Wunderroot > QMS backlog](https://rally1.rallydev.com/#/18084711157d/backlog). Try to be as descriptive as possible.
+If you're not sure about how to go about requesting a change then take a look at [How to edit the WunderWay] (/about-this-site/how-edit-wunderway/). Try to be as descriptive as possible.
 
-Changes raised here will be reviewed periodically. If your request is urgent please speak to one of the Steve's.
-
-The QMS change requests process:
+All changes will follow this simple process
 
 <ul>
 	<li>Review and prioritise the changes requests once per week</li>
-	<li>Review each change request with suitably experienced staff to identify:
+	<li>Changes are reviewed with designers/developers/managers/sales as appropriate to identify:
 	<ul>
-		<li>The necessity of the change (if this was the result of a non-conformity does it require a process change, a document change or training)</li>
-		<li>The priority of the change</li>
-		<li>The impact of the change (disruption, training)</li>
-		<li>The value delivered by the change</li>
-		<li>New documentation required</li>
-		<li>Changes required to the Management Reviews and Internal Audits</li>
+		<li>Do we really need a change (if this was the result of a non-conformity does it really need a change or would a document or training do the job?)</li>
+		<li>Is it urgent or can it wait?</li>
+		<li>If we make the change, how will it affect others? Will we need to provide training?</li>
+		<li>What's the value of the change</li>
+		<li>What new documentation or tools does this require?</li>
+		<li>Does this affect the management reviews or internal audits?</li>
 	</ul>
-	<li>Advise the requester of the outcome by email</li>
-	<li>Agree a plan for implementation
+	<li>Plan how we implement the change
 	<ul>
-		<li>Responsibility</li>
-		<li>Date for implementation</li>
-		<li>Notify affected staff of the changes ahead of the implementation date</li>
-		<li>Requirements for testing (if applicable)</li>
+		<li>Who is responsible?</li>
+		<li>When do we implement?</li>
+		<li>Notify affected staff of the changes before it's implemented</li>
 	</ul>
 	<li>Carry out the implementation</li>
 	<ul>
 		<li>Documents updated</li>
 		<li>Document versions updated and archived</li>
-		<li>Cross reference the change request ID with supporting documentation (where applicable)</li>
-		<li>Change request log updated to record the changes</li>
-		<li>If amending the QMS, add a summary of what is included in the latest version</li>
+		<li>Make a note about the implementation in the pull request and close it</li>
 		<li>Email to staff to advise that the changes are live</li>
 	</ul>
-	<li>During the weekly review ensure that changes that have been implemented are recorded in the log</li>
 </ul>
-
-The effectiveness and operational impact will be reviewed during the Management Reviews and Internal Audits.
-
-All notes relating to the decisions made will be recorded in the <a href="https://rally1.rallydev.com/#/18084711157d/backlog">QMS Change Request Log</a>.
 
 ## Control of Documents
 
