@@ -14,11 +14,11 @@ Holidays, expenses and security
 </ul>
 
 Some specific information about working here:
+<ul>
+<li>[Communicating] (/working-at-wunderkraut/communicating/)</li>
+<li>[The buddy system] (/working-at-wunderkraut/buddies/) - you got a friend!</li>
+<li>[Working in a distributed way] (/working-at-wunderkraut/distributed-working/) - tips for working remotely</li>
+<li>[Career development] (/working-at-wunderkraut/career-development/) - includes information on non-project Fridays</li>
+</ul>
 
-[Communicating] (/working-at-wunderkraut/communicating/)
-
-[The buddy system] (/working-at-wunderkraut/buddies/) - you got a friend!
-
-[Working in a distributed way] (/working-at-wunderkraut/distributed-working/) - tips for working remotely
-
-[Career development] (/working-at-wunderkraut/career-development/) - includes information on non-project Fridays
+---------------------------
