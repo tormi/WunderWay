@@ -8,8 +8,8 @@ WunderWay is Wunderkraut’s intranet. It sets out the ways in which we run our 
 
 [Working with clients](/working-at-wunderkraut/) explains the way Wunder goes about finding and winning work, and how to look after clients throughout a project and into the future.
 
-[Delivering projects](/http://way.wunder.io/delivering-projects/) lays out the processes we use to set up projects, keep them running well and deliver what our clients expect.
+[Delivering projects](/delivering-projects/) lays out the processes we use to set up projects, keep them running well and deliver what our clients expect.
 
-[About the company](http://way.wunder.io/about-the-company/) tells the story of how Wunderkraut began, what our driving ambition is, and the principles and standards we believe are important for getting there. You’ll also find information about our team.
+[About the company](/about-the-company/) tells the story of how Wunderkraut began, what our driving ambition is, and the principles and standards we believe are important for getting there. You’ll also find information about our team.
 
 WunderWay is principally for Wunderpeople but, in line with our open and collaborative approach, it's also public. Anyone with a Github account can propose changes. See [How to edit WunderWay](/about-this-site/how-edit-wunderway/).
