@@ -29,7 +29,7 @@ If the answer to either is ‘No’ or even 'Not Sure', our efforts are likely t
 
 ### Do we want it?
 - Is the project itself economically viable?
-- Is the client one we want to work with? See [Our Kind of Client](/clients/our-kind-client)
+- Is the client one we want to work with? See [Our Kind of Client](/working-with-clients/finding-new-clients/our-kind-client/)
 - Can we put together a good team for the timescale of the project?
 - Would we benefit as a company, as a brand, as a team of professionals?
 - Would we enjoy the work, and be proud of it?
