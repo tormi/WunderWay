@@ -10,7 +10,7 @@ Events and training allowance work the same as the [equipment budget](how-buy-co
 
 ## Log attendance
 
-Attendance during working days needs to be tracked in the [Staff Training & Conference Log](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdHBoMWx2ZFZtTXI3T1ZlZUV3ZEdZUkE#gid=1)
+Attendance during working days needs to be tracked in the [Staff Training & Conference Log](https://docs.google.com/spreadsheets/d/1A8WHrOFKOOa_Ig0GGnf5Wt1p8YE3wlWuJid0HO_UkfI/edit#gid=2)
 
 ## Reviewing attended events
 
