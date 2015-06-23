@@ -6,7 +6,7 @@ tags:
 title: Backlogs and Planning
 ---
 
-Project requirements are documented in **backlogs**. There is the overall **product backlog** that contains all requirements. We also create **sprint backlogs** that contain the requirements for each iteration.
+Project requirements are documented in **backlogs**. There is the overall **product backlog** that contains all requirements. We also create **sprint backlogs** that contain the requirements for each iteration. We use [Rally](https://rally1.rallydev.com/) to manage the backlogs.
 
 Requirements are written as **user stories** using the format:
 
@@ -60,15 +60,13 @@ We estimate stories using points on the Fibonacci scale (1, 2, 3, 5, 8 etc). The
 
 We continually monitor the number of points that a team can deliver and use our own history to understand the amount of effort we're likely to deliver in a sprint.
 
-
 ###Estimate Accuracy
 
 The accuracy of estimates is very important to quality as this sets the expectations with the client. We record our estimates for each sprint and compare these with the actual effort at the end of the sprint. Where there are discrepancies we try to understand the reasons behind this so we can look to improve in the next sprint.
 
-**Templates:**
+###Checklist
 
-[Sprint Review template](https://docs.google.com/a/wunderkraut.com/document/d/167EKxkkrc0oQeOaz-V2qJ9jOpCEAxCzr4ibatu5nCbU/edit) (stored in the project's “Reviews & Assessments” folder)
-
-[Sprint estimation analysis](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1KlAqn9m7MSii7DpfgO9iCDYoP7L547PfK4xiotDTr20/edit#gid=0)
-
-The accuracy of the sprint estimates is reviewed in the sprint retrospective.
+ - The project has been set up in [Rally] (https://rally1.rallydev.com/) and all members of the project team have been provided with access
+ - A [Sprint Review template](https://docs.google.com/a/wunderkraut.com/document/d/167EKxkkrc0oQeOaz-V2qJ9jOpCEAxCzr4ibatu5nCbU/edit) is available in the project folder and is used to capture the details of each review
+ - The [Sprint estimation analysis](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1KlAqn9m7MSii7DpfgO9iCDYoP7L547PfK4xiotDTr20/edit#gid=0) log is updated at the end of each sprint to record the sprint effort estimate, the actual effort and the number of bugs reported
+ - Sprint Retrospectives are recorded and stored in the project folder
