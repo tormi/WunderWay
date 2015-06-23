@@ -5,7 +5,7 @@ categories: Admin
 tags:
 title: Internal Audits & Management Reviews
 ---
-This is not as bad as it sounds, we're not gone all corporate!
+This is not as bad as it sounds, we've not gone all corporate!
 
 The WunderWay is all about doing thing right, about trying to achieve great results and making sure that we're operating effectively and efficiently. There are a lot of people across WunderKraut and we're based in many different locations. Each year we'll carry out internal audits and management reviews to check that we're doing things right and that the WunderWay is the right way.
 
