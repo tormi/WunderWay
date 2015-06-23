@@ -22,7 +22,7 @@ The Quality Objectives are derived from the overall [WR Business Objectives](/ab
 
 **See also:**
 
-- [Quality Policy & Scope](working-at-wunderkraut/quality-management/quality-policy/)
+- [Quality Policy & Scope](/about-this-site/quality-management-system/quality-policy/)
 
 ##Professional Services##
 
