@@ -3,52 +3,30 @@ layout: page
 section: projects
 categories: Admin
 tags:
-title: QMS Internal Audits & Management Reviews
+title: Internal Audits & Management Reviews
 ---
-We don't want to impose processes unless they're effective and efficient. If they are then we want to make sure they're implemented properly.
+This is not as bad as it sounds, we're not gone all corporate!
 
-We carry out Management Reviews which look at how effective the QMS is. We also carry out Internal Audits that look at how effectively the processes have been implemented.
+The WunderWay is all about doing thing right, about trying to achieve great results and making sure that we're operating effectively and efficiently. There are a lot of people across WunderKraut and we're based in many different locations. Each year we'll carry out internal audits and management reviews to check that we're doing things right and that the WunderWay is the right way.
+
+Management Reviews will look at the effectiveness of the QMS. They look at the outputs (sprint reviews, bug reports, metrics, skills matrix) to check that these are providing us with the information we need to assess how well we're doing against our objectives. A 
+
+Internal Audits will look at projects, onboarding and other aspects of our daily lives to make sure we're implementing the WunderWay properly. 
+
+We carry out Management Reviews which look at how effective the QMS is. We also carry out Internal Audits that look at how effectively the processes have been implemented. If the WW has not been implemented properly then we'll look at the reasons behind that and look at ways to improve the implementation in future.
 
 ### Internal Audit
 
-The Internal audit is carried out twice a year by the QMS Manager and a supporting director.
+The Internal Audits and Management Reviews are carried out each year by those responsible for the WunderWay. See [Roles and Responsibilities] (/about-this-site/quality-management-system/)
 
-Each internal audit looks at specific areas of the QMS. We maintain a schedule - [Internal Audit Schedule](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdGFaNi1EVWh1bEU3akVacUVyR3NxVHc#gid=0)
+### Links
 
-This schedule ensures that all elements of the QMS are audited during the course of the year.
+[Management Review schedule] (https://docs.google.com/spreadsheets/d/1OVygusxUKmDQwvAgIybKtkncC_f1kCIEpKYUWJHEKvw/edit#gid=0)
+[Management Review template](https://docs.google.com/a/wunderkraut.com/document/d/1DkaK7SV_6dkpSTTAukJ2CbycD1ybxnchNVLEGYjZHOo/edit)
+[Management Review repository](https://drive.google.com/a/wunderkraut.com/?tab=mo#folders/0Bxb4YZjQwNDgbWJra3pJRkZXcTg)
 
-Each audit looks at how well the processes have been implemented and if not (a *non-conformity*) we look at the reasons why and how to address this.
+[Internal Audit schedule] (https://docs.google.com/spreadsheets/d/1FG8ahjQBnSpDLc-YEVkNqKEh0zi9ZFOPJTYjG-nxCTA/edit#gid=0)
+[Internal audit template] (https://docs.google.com/a/wunderkraut.com/document/d/1R-FjoyK75SIjnsDqrNFWzWXx7KIWXfz1OsxoJPwLcxo/edit)
+[Internal Audit repository](https://drive.google.com/a/wunderkraut.com/?tab=mo#folders/0Bxb4YZjQwNDgcEdrQXhsMTVkYlk)
 
-The overall purpose of the internal audit is to make sure we're all managing projects, people and operations in the same way so that we consistently provide a great service.
-
-**Internal audit template:**
-[Link](https://docs.google.com/a/wunderkraut.com/document/d/1R-FjoyK75SIjnsDqrNFWzWXx7KIWXfz1OsxoJPwLcxo/edit)
-
-**Internal audits are stored:**
-[Link](https://drive.google.com/a/wunderkraut.com/?tab=mo#folders/0Bxb4YZjQwNDgcEdrQXhsMTVkYlk)
-
-**Internal audit naming convention:**
-“InternalAudit-AuditType-ddmmyy-ClientName”
-
-**Internal Audit Schedule:**
-[Link](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdGFaNi1EVWh1bEU3akVacUVyR3NxVHc#gid=0)
-
-If the audit identifies any issues relating to the QMS then each of these should be raised as a QMS Change Request.
-
-### Management Review
-
-The management reviews are carried out at least every 6 months (see [Management Review Schedule](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdDY1VURkSVBfejJNMlBPbVU3WVl0YVE#gid=0)). The purpose of the management review is to look at the results of Internal Audits, Corrective and Preventive actions, the quality policy, the control of non-conforming products and customer satisfaction to see whether the QMS is providing the inputs to achieve the quality objectives.
-
-**Management review template:**
-[Link](https://docs.google.com/a/wunderkraut.com/document/d/1DkaK7SV_6dkpSTTAukJ2CbycD1ybxnchNVLEGYjZHOo/edit)
-
-**Management review templates are stored:**
-[Link](https://drive.google.com/a/wunderkraut.com/?tab=mo#folders/0Bxb4YZjQwNDgbWJra3pJRkZXcTg)
-
-**Management review naming convention:**
-“ManagementReview-ddmmyy”
-
-**Management review schedule:**
-[Link](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdDY1VURkSVBfejJNMlBPbVU3WVl0YVE#gid=0)
-
-If the management review identifies any issues relating to the QMS then each of these will be raised as a change request by adding the details as a story to [Rally > Wunderroot > QMS > backlog](https://rally1.rallydev.com/#/18084711157d/backlog).
+If a management review or audit identifies any issues relating to the WunderWay then each of these should be raised as an issue in GitHub.
