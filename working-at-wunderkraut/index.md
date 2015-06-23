@@ -20,5 +20,6 @@ Some specific information about working here:
  - [Working in a distributed way] (/working-at-wunderkraut/distributed-working/) - tips for working remotely
  - [Career development] (/working-at-wunderkraut/career-development/) - includes information on non-project Fridays
  - [WunderFitness] (/working-at-wunderkraut/wunder-fitness/) - join us as we walk, run and cycle to every office
+ - [Recommended Reading] (/working-at-wunderkraut/recommended-reading/) - a list of helpful articles
 
 ---------------------------
