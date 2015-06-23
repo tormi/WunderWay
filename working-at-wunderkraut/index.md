@@ -21,6 +21,6 @@ Some specific information about working here:
  - [Career development] (/working-at-wunderkraut/career-development/) - includes information on non-project Fridays
  - [WunderFitness] (/working-at-wunderkraut/wunder-fitness/) - join us as we walk, run and cycle to every office
  - [Recommended reading] (/working-at-wunderkraut/recommended-reading/) - a list of helpful articles
- - [Recommended software and tools] (/working-at-wunderkraut/recommended-software-and-tools/)
+ - [Recommended software and tools] (/working-at-wunderkraut/recommended-software-and-tools/) - recommended and essential
 
 ---------------------------
