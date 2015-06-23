@@ -16,7 +16,7 @@ When Wunderkraut was first born we decided that we needed a focus that would set
 
 To do this properly meant a lot of effort. To make that effort worthwhile and to prove our quality credentials we decided to develop our processes in line with the quality management standard, ISO9001.
 
-Everything we do is focused on our quality objectives. See [Our Quality Objectives](/about-this-site/quality-management-system/quality-objectives/) and [Our Quality Policy](/about-this-site/quality-management-system/quality-policy/).
+Everything we do is focused on our quality objectives. See [Our Quality Objectives](/about-this-site/quality-management-system/quality-objectives/) and [Our Quality Policy and Scope](/about-this-site/quality-management-system/quality-policy/).
 
 The term Quality Management System is inherited from ISO9001 but we just need to see it as the way we do things within the business. The QMS used to be a single document (see [QMS History](https://drive.google.com/drive/folders/0Bxb4YZjQwNDgUWFYWHc1Y2V4Rzg)) but then we decided that it just didn't work in that format. That was when we moved to the WunderWay.
 
