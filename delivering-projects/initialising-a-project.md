@@ -32,7 +32,6 @@ Pre-written content is reviewed regularly by our copywriter. Requests for new co
 ## Checklist
 
  - A project folder has been created using the [Template Folder] (https://drive.google.com/drive/folders/0Bxb4YZjQwNDgVnRQUFdURFRtUFE) in the same directory
- - A [Project Evaluation](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdFpOd3o3bHBkYXQ2eGV1X2diM2ZxVGc#gid=0) has been carried out and stored in the project folder
  - A signed contract has been stored in the Contracts folder for the project
  - The [Cost of Tender] (https://docs.google.com/spreadsheets/d/1j7tpMR_FHpZ6zwbqCm_GStJrfFtEgrCqiKl4TP-DX0A/edit#gid=0) log has been updated
  - Customer details have been stored in [Pipedrive](https://app.pipedrive.com)
