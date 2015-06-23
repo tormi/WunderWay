@@ -28,4 +28,4 @@ October 2012
 
 **See also:**
 
-- [Quality Objectives](/working-at-wunderkraut/quality-management/quality-objectives/)
+- [Quality Objectives](/about-this-site/quality-management-system/quality-objectives/)
