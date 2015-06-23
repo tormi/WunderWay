@@ -14,4 +14,4 @@ A high level summary of our Scrum process:
 
 The circular icons around the diagram represent points in the process where our quality objectives are affected.
 
-See [Quality Objectives](/company/quality-objectives/) for a full description of what we (Wunderkraut) are trying to achieve together.
+See [Quality Objectives](/working-at-wunderkraut/quality-management/quality-objectives/) for a full description of what we (Wunderkraut) are trying to achieve together.
