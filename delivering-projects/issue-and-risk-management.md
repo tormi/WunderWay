@@ -20,4 +20,4 @@ Often there is a lot of value behind the risks that we face. By identifying the 
 
 ###Checklist 
 
- - A risk register (see [Template] (https://docs.google.com/spreadsheets/d/1S9M-Y5_3jIBBARlMVk3VZirv7gvOsMutdMqGm9GaADo/edit#gid=0) )has been created and stored in the Management and Steering folder
+ - A risk register (see [Template] (https://docs.google.com/spreadsheets/d/1S9M-Y5_3jIBBARlMVk3VZirv7gvOsMutdMqGm9GaADo/edit#gid=0)) has been created and stored in the Management and Steering folder
