@@ -3,7 +3,7 @@ layout: page
 section: company
 categories: Admin
 tags:
-title: Our Quality Management System (QMS)
+title: Formerly known as the "Quality Management System (QMS)"
 ---
 
 When Wunderkraut was first born we decided that we needed a focus that would set us apart from a crowded market and provide the foundations on which to build a fantastic business that really worked. Our focus was on:
