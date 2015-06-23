@@ -42,4 +42,10 @@ The WunderWay (formerly the QMS) has an owner and is sponsored and supported by 
 
 ## Version History
 
-Old versions of the QMS can be found in [QMS History](https://drive.google.com/drive/folders/0Bxb4YZjQwNDgUWFYWHc1Y2V4Rzg). The WunderWay version of the QMS is now maintained via GitHub which includes a log of all changes made. This wiki version of the QMS is always the most recent version. A change history log can be viewed in the <a href="https://github.com/Wunderkraut/WunderWay">WunderWay repository in GitHub</a>.
+Old versions of the QMS can be found in [QMS History](https://drive.google.com/drive/folders/0Bxb4YZjQwNDgUWFYWHc1Y2V4Rzg). The WunderWay version of the QMS is now maintained via GitHub which includes a log of all changes made. This wiki version of the QMS is always the most recent version. 
+
+View all [changes made to the WunderWay] (https://github.com/wunderkraut/WunderWay/commits/gh-pages)
+View all current [issues] (https://github.com/wunderkraut/WunderWay/issues)
+View all current [pull requests] (https://github.com/wunderkraut/WunderWay/pulls)
+
+To seach for more specific updates, issues or pull requests take a look at the [GitHub Search Help] (https://help.github.com/articles/searching-issues/)
