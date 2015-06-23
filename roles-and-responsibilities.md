@@ -8,21 +8,16 @@ title: WunderWay Roles & Responsibilities
 
 The QMS has an owner and is sponsored and supported by senior management. The roles and responsibilities are as follows:
 
-Title: Keeper of the Way
+###Keeper of the Way
+<ul>
+<li>Name: Steve Hunton
+<li>Role: Responsible for defining, documenting, communicating and implementing the WunderWay across the group
+<li>Email: steve.hunton@wunder.uk
+</ul>
 
-Name: Steve Hunton
-
-Role: Responsible for defining, documenting, communicating and implementing the WunderWay across the group
-
-Email: steve.hunton@wunder.uk
-
-
-Title: Managing Director
-
-Name: Steve Parks
-
-Role: Support the WunderWay - management and implementation
-
-Email: steve.parks@wunder.uk
-
-
+###Managing Director
+<ul>
+<li>Name: Steve Parks
+<li>Role: Support the WunderWay - management and implementation
+<li>Email: steve.parks@wunder.uk
+</ul>
