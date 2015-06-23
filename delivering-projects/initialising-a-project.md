@@ -37,8 +37,7 @@ Pre-written content is reviewed regularly by our copywriter. Requests for new co
  - The [Cost of Tender] (https://docs.google.com/spreadsheets/d/1j7tpMR_FHpZ6zwbqCm_GStJrfFtEgrCqiKl4TP-DX0A/edit#gid=0) log has been updated
  - Customer details have been stored in [Pipedrive](https://app.pipedrive.com)
 
-**Templates:**
-<ul>
-<li>[RFI Template](https://docs.google.com/a/wunderkraut.com/document/d/1mRlELA9rTN2zFUibhhWmObO97_3RaYfrgfBqbSyeq8A/edit#)</li>
-<li>[Cost of Tender](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdGlNeVc4djhRVUd0d0lTYjBSTDJJS3c#gid=0)</li>
-</ul>
+## Templates
+
+ - [RFI Template](https://docs.google.com/a/wunderkraut.com/document/d/1mRlELA9rTN2zFUibhhWmObO97_3RaYfrgfBqbSyeq8A/edit#)
+ - [Cost of Tender](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdGlNeVc4djhRVUd0d0lTYjBSTDJJS3c#gid=0)
