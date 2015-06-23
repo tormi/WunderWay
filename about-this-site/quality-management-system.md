@@ -18,16 +18,16 @@ To do this properly meant a lot of effort. To make that effort worthwhile and to
 
 Everything we do is focused on our quality objectives. See [Our Quality Objectives](/company/quality-objectives) and [Our Quality Policy](/company/quality-policy).
 
-The term Quality Management System is inherited from ISO9001 but we just need to see it as the way we do things within the business. The QMS used to be a single document (see [QMS History](https://drive.google.com/drive/#folders/0Bxb4YZjQwNDgQmh6UkRnNC16ekE/0Bxb4YZjQwNDgd1Q5aHpWS0hQRFU/0Bxb4YZjQwNDgUWFYWHc1Y2V4Rzg)) but then we decided that it just didn't work in that format. That was when we moved to the WunderWay.
+The term Quality Management System is inherited from ISO9001 but we just need to see it as the way we do things within the business. The QMS used to be a single document (see [QMS History](https://drive.google.com/drive/folders/0Bxb4YZjQwNDgUWFYWHc1Y2V4Rzg)) but then we decided that it just didn't work in that format. That was when we moved to the WunderWay.
 
-If you need to know how we work, how to claim expenses or anything else, details should be included in the WunderWay.
+If you need to know how we work, how to claim expenses or anything else, we now document all our processes on the WunderWay.
 
-There is still a QMS document but it's been massively trimmed and simply refers to the WunderWay. See [WR Quality Management System v1.4](https://docs.google.com/a/wunderkraut.com/document/d/1obmKg060gNVuAP9S5P2eLRwwfg8fYx3pnFcDD5bnTuU/edit)
+There is still a QMS document but it's been massively trimmed and simply refers to the WunderWay. See [WR Quality Management System v1.5](https://docs.google.com/document/d/10AHgYft2MHbD1c_FjgBQ1mx9w9CGQgDQFL5OPhdgoRA/edit)
 
 
 ## Roles & Responsibilities
 
-The QMS has an owner and is sponsored and supported by senior management. The roles and responsibilities are as follows:
+The WunderWay (formerly the QMS) has an owner and is sponsored and supported by senior management. The roles and responsibilities are as follows:
 
 ###Steve Hunton
 **Title:** QMS Manager
@@ -42,4 +42,4 @@ The QMS has an owner and is sponsored and supported by senior management. The ro
 
 ## Version History
 
-Old versions of the QMS can be found in [QMS History](https://drive.google.com/drive/#folders/0Bxb4YZjQwNDgQmh6UkRnNC16ekE/0Bxb4YZjQwNDgd1Q5aHpWS0hQRFU/0Bxb4YZjQwNDgUWFYWHc1Y2V4Rzg). The WunderWay version of the QMS is now maintained via GitHub which includes a log of all changes made. This wiki version of the QMS is always the most recent version. A change history log can be viewed in the <a href="https://github.com/Wunderkraut/WunderWay">WunderWay repository in GitHub</a>.
+Old versions of the QMS can be found in [QMS History](https://drive.google.com/drive/folders/0Bxb4YZjQwNDgUWFYWHc1Y2V4Rzg). The WunderWay version of the QMS is now maintained via GitHub which includes a log of all changes made. This wiki version of the QMS is always the most recent version. A change history log can be viewed in the <a href="https://github.com/Wunderkraut/WunderWay">WunderWay repository in GitHub</a>.
