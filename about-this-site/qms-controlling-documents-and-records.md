@@ -3,7 +3,7 @@ layout: page
 section: projects
 categories: Admin
 tags:
-title: Controlling Documents & Records
+title: Controlling Document Templates & Records
 ---
 
 As the WunderWay is a living, breathing reference of what we do and how we do it, it's important that we control the way changes are dealt with. 
