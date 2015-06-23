@@ -25,3 +25,8 @@ Being a distributed bunch it's sometimes good to see a friendly face. When peopl
 Again, we use [HipChat](https://www.hipchat.com/) and [Google Hangouts](http://www.google.com/intl/ALL_uk/+/learnmore/hangouts/). Skype is not quite so common now due to the technical problems we've had in the past.
 
 However you decide to communicate, regular communication is the key to being successful. Keep the dialogue going, don't let things go unsaid. If there's a project issue or a personal problem be sure to communicate. A problem shared...
+
+###Checklist
+
+ - The client team have been set up with HitChat accounts
+ - Regular meetings have been set up in our calendars with reminders and links to HipChat or Google Hangouts
