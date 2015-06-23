@@ -67,6 +67,7 @@ The accuracy of estimates is very important to quality as this sets the expectat
 ###Checklist
 
  - The project has been set up in [Rally] (https://rally1.rallydev.com/) and all members of the project team have been provided with access
+ - Backlogs are created in Rally
  - A [Sprint Review template](https://docs.google.com/a/wunderkraut.com/document/d/167EKxkkrc0oQeOaz-V2qJ9jOpCEAxCzr4ibatu5nCbU/edit) is available in the project folder and is used to capture the details of each review
  - The [Sprint estimation analysis](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1KlAqn9m7MSii7DpfgO9iCDYoP7L547PfK4xiotDTr20/edit#gid=0) log is updated at the end of each sprint to record the sprint effort estimate, the actual effort and the number of bugs reported
  - Sprint Retrospectives are recorded and stored in the project folder
