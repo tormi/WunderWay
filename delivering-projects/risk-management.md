@@ -3,7 +3,7 @@ layout: page
 section: projects
 categories: Admin
 tags:
-title: Issue & Risk Management
+title: Risk Management
 ---
 
 Every project includes registers to record details of risks, their owners and the mitigation.
