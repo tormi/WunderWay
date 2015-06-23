@@ -18,11 +18,11 @@ October 2012
 
 The quality objectives that we define for ourselves are what underpin our Quality Management System.
 
-The Quality Objectives are derived from the overall [WR Business Objectives](/company/business-objectives/).
+The Quality Objectives are derived from the overall [WR Business Objectives](/about-the-company/business-objectives/).
 
 **See also:**
 
-- [Quality Policy & Scope](/company/quality-policy/)
+- [Quality Policy & Scope](working-at-wunderkraut/quality-management/quality-policy/)
 
 ##Professional Services##
 
