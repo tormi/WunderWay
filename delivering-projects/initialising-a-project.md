@@ -21,18 +21,25 @@ Prior to the project initiation the contract is written and is signed by the cli
 
 Writing tender documents is a big commitment on time and resources. Choosing to pursue an unsuitable project is costly and takes resource away from other tasks.
 
-When receiving an invitation to tender (ITT) we make an initial assessment of the tender to determine whether or not we should pursue using our Project Evaluation spreadsheet.
+When receiving an invitation to tender (ITT) we make an initial assessment of the tender to determine whether or not we should pursue using our Project Evaluation spreadsheet - stored in the project folder.
 
 Unless the client dictates the form of the response we use our own proposal template with pre-written and pre-approved content to create the majority of the proposal. This enforces consistency and assures quality. It also reduces the time required to produce the proposal.
 
-When preparing the proposal or attending meetings to discuss the project we record our times in order that we can determine the effects of changes in our approach to these.
+We record the time invested in chasing new business so we can plan for the likely costs for different types of business. Time should be recorded in the [Cost of Tender] (https://docs.google.com/spreadsheets/d/1j7tpMR_FHpZ6zwbqCm_GStJrfFtEgrCqiKl4TP-DX0A/edit#gid=0) log.
 
-Pre-written content is reviewed every six months by our copywriter. Requests for new content are added to the QMS Change Request log.
+Pre-written content is reviewed regularly by our copywriter. Requests for new content should be raised as an issue in GitHub.
+
+## Checklist
+<ul>
+<li>A project folder has been created using the [Template Folder] (https://drive.google.com/drive/folders/0Bxb4YZjQwNDgVnRQUFdURFRtUFE) in the same directory</li>
+<li>A [Project Evaluation] (https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdFpOd3o3bHBkYXQ2eGV1X2diM2ZxVGc#gid=0) has been carried out and stored in the project folder</li>
+<li>A signed contract has been stored in the Contracts folder for the project</li>
+<li>The [Cost of Tender] (https://docs.google.com/spreadsheets/d/1j7tpMR_FHpZ6zwbqCm_GStJrfFtEgrCqiKl4TP-DX0A/edit#gid=0) log has been updated</li>
+<li>Customer details have been stored in [Pipedrive](https://app.pipedrive.com)</li>
+</ul>
 
 **Templates:**
-
-- [Project Evaluation](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdFpOd3o3bHBkYXQ2eGV1X2diM2ZxVGc#gid=0)
-- [RFI Template](https://docs.google.com/a/wunderkraut.com/document/d/1mRlELA9rTN2zFUibhhWmObO97_3RaYfrgfBqbSyeq8A/edit#)
-- [Pre-approved Proposal Content](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0An9zqkd7d0PYdDN2RmJ4QUdsOFVRZmZBd1Fzdk9BN1E#gid=0)
-- [Cost of Tender](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdGlNeVc4djhRVUd0d0lTYjBSTDJJS3c#gid=0)
-- [QMS Change Request backlog](https://rally1.rallydev.com/#/18084711157d/backlog)
+<ul>
+<li>[RFI Template](https://docs.google.com/a/wunderkraut.com/document/d/1mRlELA9rTN2zFUibhhWmObO97_3RaYfrgfBqbSyeq8A/edit#)</li>
+<li>[Cost of Tender](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0Ahb4YZjQwNDgdGlNeVc4djhRVUd0d0lTYjBSTDJJS3c#gid=0)</li>
+</ul>
