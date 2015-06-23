@@ -25,12 +25,14 @@ This section sets out how we deliver projects.
 
 # Delivery
 
+- [Setting up GitHub, UpCloud, Jenkins and Behat] (/delivering-projects/startanewproject/)
+- [Introduction to Project Delivery] (/delivering-projects/project-delivery-intro/)
 - [Agile delivery diagram](agile-delivery-diagram)
 - Phases: Alpha, Beta, Live
 - Sprints
 	- [Backlogs & Planning](backlogs-and-planning)
 	- [Daily Standup](daily-standup)
-	- [Sprint Review and Retrospective](review-retro-steering)
+	- [Sprint Review, Retrospective and Steering Group](review-retro-steering)
 - Stakeholder communciation
 - User Testing
 - [Quality Management](qualty-testing-non-conformities)
