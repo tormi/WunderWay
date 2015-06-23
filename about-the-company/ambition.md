@@ -26,4 +26,4 @@ Having the best teams and the best clients will in turn make us an even better c
 # How?
 Through developing the Wunderway of doing things in the company, working together to put it into action, and continuously improving.
 
-So that we're all pulling together in the same direction we've identified a number of quality objectives. You can view these in our introduction to the <a href="/company/qms/">QMS</a>.
+So that we're all pulling together in the same direction we've identified a number of quality objectives. You can find out all about these in the [About] (/about-this-site/) section.
