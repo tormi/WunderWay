@@ -10,10 +10,8 @@ Project requirements are documented in **backlogs**. There is the overall **prod
 
 Requirements are written as **user stories** using the format:
 
-As a [ *user* ],
-
-I want [ *requirement* ],
-
+As a [ *user* ], 
+I want [ *requirement* ], 
 so that [ *value gained* ]
 
 We use this format to fully describe who wants what and to understand the value that will be delivered by the story. If something will not deliver real value then it shouldn't be a priority.
@@ -46,7 +44,7 @@ Sprint planning is all about selecting stories from the backlog and discussing t
 
 Sprint planning takes place in two halves. The first half (limited to 4 hours) is where the Product Owner selects and describes the stories and the objectives for the sprint. The objectives help the team understand why certain stories have been selected and helps them understand what they'll demonstrate at the end of the sprint. In the first session the team do high level estimates on the stories.
 
-In the second session (limited to 4 hours again), the team break the stories down into tasks and estimate those to make sure the original story estimates were correct.
+In the second session (limited to 4 hours), the team break the stories down into tasks and estimate those to make sure the original story estimates were correct.
 
 When the planning is complete and the team are happy with the stories for the sprint we finish the planning phase and move to development.
 
