@@ -14,7 +14,7 @@ Not all projects are the same but we still need to maintain records of proposals
 
 This early stage, through the gathering of requirements and objectives will help us to establish a clear picture of what the client needs, the values we need to deliver and how we’ll deliver.
 
-Prior to the project initiation the contract is written and is signed by the client. The signing of contracts is done digitally using our [DocuSign](https://www.docusign.net/member/MemberLogin.aspx) account. [DocuSign](https://www.docusign.net/member/MemberLogin.aspx) delivers the contract to a specified email address, collects the signature and stores the signed document. All steps - sent, received, signed - they’re all logged so that we know the status of the contract.
+Prior to the project initiation the contract is written and is signed by the client. The signing of contracts is done digitally using our [DocuSign](https://www.docusign.net/member/MemberLogin.aspx) account. [DocuSign](https://www.docusign.net/member/MemberLogin.aspx) delivers the contract to a specified email address, collects the signature and stores the signed document. All steps - sent, received, signed - they’re all logged so that we know the status of the contract. Once signed the contract should be downloaded and stored in the Contracts folder for the project.
 
 
 ## Tenders
