@@ -18,6 +18,11 @@ Management Reviews will look at the effectiveness of the QMS. They look at the o
  - [Management Review schedule] (https://docs.google.com/spreadsheets/d/1OVygusxUKmDQwvAgIybKtkncC_f1kCIEpKYUWJHEKvw/edit#gid=0)
  - [Management Review template] (https://docs.google.com/a/wunderkraut.com/document/d/1DkaK7SV_6dkpSTTAukJ2CbycD1ybxnchNVLEGYjZHOo/edit)
  - [Management Review repository] (https://drive.google.com/a/wunderkraut.com/?tab=mo#folders/0Bxb4YZjQwNDgbWJra3pJRkZXcTg)
+ - [Skills Matrix] (https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0AvOebCzjusNEdE12M0hrMDJBWEFHQkRkcHg1NV92cWc&usp=drive_web#gid=10)
+ - [Sprint Reviews] (https://drive.google.com/drive/folders/0Bxb4YZjQwNDgTXRkV0FoYndDMWs)
+ - [Bug Reports] (https://rally1.rallydev.com/)
+ - [Cost of Tender] (https://docs.google.com/spreadsheets/d/1j7tpMR_FHpZ6zwbqCm_GStJrfFtEgrCqiKl4TP-DX0A/edit#gid=0)
+ - [Sprint Estimates] (https://docs.google.com/spreadsheets/d/1KlAqn9m7MSii7DpfgO9iCDYoP7L547PfK4xiotDTr20/edit#gid=0)
 
 Internal Audits will look at projects, onboarding and other aspects of our daily lives to make sure we're implementing the WunderWay properly. 
 
