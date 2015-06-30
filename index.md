@@ -12,4 +12,4 @@ WunderWay is Wunderkraut’s intranet. It sets out the ways in which we run our 
 
 [About the company](/about-the-company/) tells the story of how Wunderkraut began, what our driving ambition is, and the principles and standards we believe are important for getting there. You’ll also find information about our team.
 
-WunderWay is principally for Wunderpeople but, in line with our open and collaborative approach, it's also public. Anyone with a Github account can propose changes. See [How to edit WunderWay](/about-this-site/how-edit-wunderway/).
+WunderWay is principally for WunderPeople but, in line with our open and collaborative approach, it's also public. Anyone with a Github account can propose changes. See [How to edit WunderWay](/about-this-site/how-edit-wunderway/).
