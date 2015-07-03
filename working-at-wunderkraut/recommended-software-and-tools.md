@@ -5,7 +5,11 @@ title: Recommended Software and Tools
 
 To help you get started or to help you organise your new Mac we've put together a list of essential and recommended tools and software for you.
 
-###Required
+## Pre-existing automated solutions
+- SteveP uses a [custom Boxen script](https://github.com/WunderRoot/WunderMac)
+- Lewis uses a collection of [dotfiles](https://github.com/lewisnyman/dotfiles) that installs software using a [Brewfile](https://github.com/lewisnyman/dotfiles/blob/Lewis/Brewfile) and [Caskfile](https://github.com/lewisnyman/dotfiles/blob/Lewis/Caskfile)
+
+## Required
 - iWork (Numbers, Keynote, Pages - usually pre-installed)
 - 1Password / KeePass / or something where you can encrypt the password storage
 - Skype (communications)
@@ -13,7 +17,7 @@ To help you get started or to help you organise your new Mac we've put together 
 - Google Drive (place of our documentation)
 - WK VPN-connection (secure connection and access to servers)
 
-###Required for Devs
+## Required for Devs
 - Homebrew (Package Manager. Allows to install, remove and update applications.)
 - Drush (command line shell and Unix scripting interface for Drupal)
 - Platform.sh cli (command line interface to integrate with Platform.sh)
@@ -26,9 +30,11 @@ To help you get started or to help you organise your new Mac we've put together 
 - nodejs, npm, grunt (tools for theming)
 - encfs+osxfuse (only for Care members to access shared secrets)
 
-###Recommended
+## Recommended
 - Chrome (browser)
 - Firefox (browser)
+- Opera (browser)
+- [iOS Simulator](http://www.macinstruct.com/node/494)
 - Dropbox (file sharing)
 - Evernote (notes and such)
 - Libre Office (office programs)
@@ -39,7 +45,7 @@ To help you get started or to help you organise your new Mac we've put together 
 - GPG (encryption)
 - Your favorite ToDo app (examples: Wunderlist, Things, Todoist, todo.txt)
 
-###Recommended for devs
+## Recommended for devs
 - Virtualbox (virtual machine)
 - Iterm2 (alternative terminal)
 - MySQL Workbench, Sequel Pro (GUI for database connections)
