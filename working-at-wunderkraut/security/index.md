@@ -40,7 +40,7 @@ This section contains all of Wunderkrauts policy documents regarding security.
 
 [Purchasing hardware](/working-at-wunderkraut/equipment-and-expenses/security/hardware-policy/)
 
-[Security Policy](/http://way.wunder.io/working-at-wunderkraut/security/)
+[Security Policy](/working-at-wunderkraut/security/)
 
 [Key principles of the Data protection act](/working-at-wunderkraut/security/data-protection-act-key-principles/)
 
