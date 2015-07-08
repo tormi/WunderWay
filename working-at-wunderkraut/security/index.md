@@ -14,42 +14,37 @@ This policy is applicable to, and will be communicated to, all staff within the 
 
 This section contains all of Wunderkrauts policy documents regarding security.
 
-[Acceptable use policy](/security/acceptable-use-policy)
+[Acceptable use policy](/working-at-wunderkraut/equipment-and-expenses/security/acceptable-use-policy/)
 
-[Asset Inventory](/security/asset-inventory)
+[Asset Inventory](/working-at-wunderkraut/security/asset-inventory/)
 
-[Business continuity management policy](/security/business-continuity-management)
+[Business continuity management policy](/working-at-wunderkraut/security/business-continuity-management/)
 
-[Clear desk, clear screen policy](/security/clear-desk-clear-screen)
+[Clear desk, clear screen policy](/working-at-wunderkraut/equipment-and-expenses/security/clear-desk-clear-screen/)
 
-[Combating cyber crime](/security/cyber-crime)
+[Combating cyber crime](/working-at-wunderkraut/equipment-and-expenses/security/cyber-crime/)
 
-[Data protection policy](/security/data-policy)
+[Data protection policy](/working-at-wunderkraut/equipment-and-expenses/security/data-policy/)
 
-[Document access](/security/document-access)
+[Document access](/working-at-wunderkraut/security/document-access/)
 
-[Email policy](/security/email-policy)
+[Email policy](/working-at-wunderkraut/communicating/email-policy/)
 
-[Homeworking policy](/security/homeworking-policy)
+[Homeworking policy](/working-at-wunderkraut/security/homeworking-policy/)
 
-[Incident reporting](/security/incident-reporting)
+[Incident reporting](/working-at-wunderkraut/equipment-and-expenses/security/incident-reporting/)
 
-[Laptop, notebook and mobile policy](/security/laptop-notebook-policy)
+[Laptop, notebook and mobile policy](/working-at-wunderkraut/equipment-and-expenses/security/laptop-notebook-policy/)
 
-[Non-Wunderkraut equipment](/security/non-Wunderkraut-equipment)
+[Non-Wunderkraut equipment](/working-at-wunderkraut/equipment-and-expenses/security/non-wunderkraut-equipment/)
 
-[Purchasing hardware](/security/hardware-policy)
+[Purchasing hardware](/working-at-wunderkraut/equipment-and-expenses/security/hardware-policy/)
 
-[Roles](/security/roles/)
+[Security Policy](/working-at-wunderkraut/security/)
 
-[Security Policy](/security/security-policy/)
+[Key principles of the Data protection act](/working-at-wunderkraut/security/data-protection-act-key-principles/)
 
-[Telephone policy](/security/telephone-policy)
+[Key principles of the Freedom of information act](/working-at-wunderkraut/security/freedom-of-information-key-principles/)
 
-[Staff security](/security/staff-security)
+[Key principles of the Official secrects act](/working-at-wunderkraut/security/official-secrets-act-key-principles/)
 
-[Key principles of the Data protection act](/security/data-protection-act-key-principles)
-
-[Key principles of the Freedom of information act](/security/freedom-of-information-key-principles)
-
-[Key principles of the Official secrects act](/security/official-secrets-act-key-principles/)
