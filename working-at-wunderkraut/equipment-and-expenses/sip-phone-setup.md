@@ -56,7 +56,7 @@ In the **Authentication Password** field enter your **secret**. Note, copy/paste
 
 Select “Show Advanced Settings”.
 
-In the following fields enter the IP address **193.104.131.17**
+In the following fields enter **pop8.orbvoip.com**
 <ul>
 	<li>Domain
 	<li>Proxy server address
