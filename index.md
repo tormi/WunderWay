@@ -6,7 +6,7 @@ WunderWay is Wunderkraut’s intranet. It sets out the ways in which we run our 
 
 [Working at Wunderkraut](/working-at-wunderkraut/) is where you’ll find information on the nitty-gritty of working life – from getting started on your first day to taking holiday or filing expenses.
 
-[Working with clients](/working-at-wunderkraut/) explains the way Wunder goes about finding and winning work, and how to look after clients throughout a project and into the future.
+[Working with clients](/working-with-clients/) explains the way Wunder goes about finding and winning work, and how to look after clients throughout a project and into the future.
 
 [Delivering projects](/delivering-projects/) lays out the processes we use to set up projects, keep them running well and deliver what our clients expect.
 
