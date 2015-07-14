@@ -48,7 +48,8 @@ Email messages constitute a formal record and can be used as evidence in legal p
 
 Wunderkraut defines reasonable personal use as ‘transactions of personal affairs’ which cannot be avoided during working hours.
 
-Staff who have access to email for business purposes may make reasonable personal use of email facilities provided by Wunderkraut provided that it
+Staff who have access to email for business purposes may make reasonable personal use of email facilities provided by Wunderkraut provided that it:
+
 * does not interfere with the performance of your duties;
 * does not overburden the system;
 * does not create any additional expense to the organisation.
@@ -91,6 +92,7 @@ Emails must be deleted on a regular basis – this includes inbox, sent items an
 Wunderkraut is protected from ‘spamming’ by Google and Wunderkraut users can setup filters both of which can prevent unsolicited mail.
 
 “SPAM” Mail can be avoided by the following:
+
 * If you don’t know the sender delete the email
 * Never respond to spam or click on links within it
 * Never give your email address on the internet

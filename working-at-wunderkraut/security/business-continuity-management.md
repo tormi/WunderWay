@@ -61,7 +61,7 @@ A member of the Business Continuity Team (BCT) for Wunderkraut will normally act
 * Steve Hunton, Operations Manager (UK)
 * Joe Baker, Lead Developer
 
-Contact details are available via the [Wunderkraut phone directory](/the-team/wr-phone-directory)
+Contact details are available via the [Wunderkraut phone directory](/about-the-company/phone-directory/)
 
 ## Process for Activation
 

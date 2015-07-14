@@ -12,9 +12,9 @@ This document forms part of Wunderkraut’s ISO 27001 Information Security Manag
 ### Location
 This policy is applicable to all staff and contractors using Wunderkraut systems.
 ### Responsibility
-** Managing Director, Operations Manager **
+#### Managing Director, Operations Manager 
 It is the responsibility of the Managing director and Operations manager to accept and implement this policy and to ensure that the security controls are implemented.
-** All staff **
+#### All staff 
 It is the responsibility of all staff to comply with this policy.
 Failure to comply with this policy may endanger the information services of Wunderkraut and may result in disciplinary action.
 
@@ -25,9 +25,10 @@ The purpose of this policy is to prevent unauthorised disclosure, modification, 
 Except when specifically authorised after a risk assessment of the necessary business case: corporate records/data shall not be stored on local computers, mobile devices including laptops, USB memory sticks, PDA’s, external hard drives or any other mobile device or media such as smart phones, CD or DVD except for agreed backups.
 
 In some cases storing sensitive information on a mobile device may be unavoidable for the completion of work duties and the provision of care. Such cases shall be subject to:
-* appropriate technical risk assessment by the management;
-* meet the security requirements of this policy; and
-* agreed backup;
+
+  - appropriate technical risk assessment by the management;
+  - meet the security requirements of this policy; and
+  - agreed backup;
 
 ### Data Encryption Procedure
 
@@ -36,12 +37,13 @@ All sensitive data stored on local drives of laptops are covered by this procedu
 All removable media for use on information systems owned or operated by Wunderkraut are covered by this procedure.
 
 Removable media includes:
-* Tapes
-* Floppy discs
-* Removable or external hard disc drives
-* Optical discs DVD and CD-rom
-* Solid state memory devices including memory cards
-* Pen drives
+
+ - Tapes
+ - Floppy discs
+ - Removable or external hard disc drives
+ - Optical discs DVD and CD-rom
+ - Solid state memory devices including memory cards
+ - Pen drives
 
 Currently approved cryptographic algorithms are for encryption - 3DES, AES (FIPS 140-2), and should be used at recommended 256bit strength. These algorithms and bit strength are readily available within a range of commercially available off the shelf security products and services.
 
@@ -102,22 +104,24 @@ Rally Software provides each User in the organization with a unique user name an
 
 In addition, Rally Software is hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders.
 It is extremely important to Rally that customer data be handled in a way to ensure:
-It is not accessed by anyone that isn't authorized.
-It is transmitted to/from the customer environment in a secure manner.
-It is stored in a physical/logical secured environment as required by the
+
+ - It is not accessed by anyone that isn't authorized.
+ - It is transmitted to/from the customer environment in a secure manner.
+ - It is stored in a physical/logical secured environment as required by the
 classification of the data.
-It is only used for the purpose that the data was intended to be
+ - It is only used for the purpose that the data was intended to be
 accessed for.
-The data is securely destroyed when it is no longer needed in a manner
+ - The data is securely destroyed when it is no longer needed in a manner
 that makes it nearly impossible to retrieve through publicly available
 data retrieval methods.
 
 Rally have undergone the following 3rd party inspections/certifications:
-* ISO 270001
-* NIST 800-53
-* FISMA Moderate
-* Safe Harbor
-* SSAE 16, type 2 (datacenter provider)
+
+ - ISO 270001
+ - NIST 800-53
+ - FISMA Moderate
+ - Safe Harbor
+ - SSAE 16, type 2 (datacenter provider)
 
 Rally performs bi-weekly vulnerability scans of our Internet facing environment and scans of their internal environment twice a year. They perform at least semi-annual penetration tests. In addition, Rally contracts with a 3rd party penetration/vulnerability testing firm to perform annual audits. This same firm performs audits on any component of the application that has undergone a major change or anytime we incorporate a new software technology in our datacenter.
 
