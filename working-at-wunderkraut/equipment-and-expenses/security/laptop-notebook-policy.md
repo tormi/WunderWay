@@ -32,8 +32,9 @@ Wunderkraut must ensure that when an employee leaves their remote access rights 
 ### Operational system
 
 Wunderkraut will consider the provision of a laptop/notebook computer if the following criteria are met:
+
 * a member of staff is required to work from more than one location and convenient access to a desktop PC is not available in all the locations;
-*a member of staff regularly undertakes work at home on behalf of Wunderkraut, provided that such work does not breach the Working Times Directive;
+* a member of staff regularly undertakes work at home on behalf of Wunderkraut, provided that such work does not breach the Working Times Directive;
 
 Requests for laptop/notebook computers must be peer reviewed, with the management completing the purchase.
 
