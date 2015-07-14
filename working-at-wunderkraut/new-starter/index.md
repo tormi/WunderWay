@@ -31,7 +31,7 @@ Shortly after starting you'll be contacted by our accountant, Ed, who will reque
 
 ##SIP Phone
 
-We'll provide you with a SIP phone which you can use from your home office. This phone works over the internet using your home internet connection. You will receive a handset and a headset for those longer calls. To set up your phone see <a href="/working-at-wunderkraut/equipment-and-expenses/sip-phone-setup/">SIP Phone Setup</a>.
+We'll provide you with a SIP phone which you can use from your home office. This phone works over the internet using your home internet connection. You will receive a handset and a headset for those longer calls. To set up your phone see [SIP Phone Setup](/working-at-wunderkraut/equipment-and-expenses/sip-phone-setup/).
 
 ##Expenses
 
@@ -45,15 +45,15 @@ For information about expenses see [How to Claim Expenses](/working-at-wunderkra
 
 ##Holidays
 
-You'll be allocated a holiday allowance each year. See <a href="/working-at-wunderkraut/holidays-and-unplanned-leave/how-to-book-holidays/">How to Book Holidays</a> for more information.
+You'll be allocated a holiday allowance each year. See [How to Book Holidays](/working-at-wunderkraut/holidays-and-unplanned-leave/how-to-book-holidays/) for more information.
 
 ##Communication Tools
 
 With distributed teams communication is really important. With the right tools we can beam numerous people into the same room for meetings or general catchup-ups.
 
-The phone is always a good place to start. Take a look at the <a href="/about-the-company/phone-directory/">UK Phone Directory</a>.
+The phone is always a good place to start. Take a look at the [UK Phone Directory](/about-the-company/phone-directory/).
 
-We use a combination of <a href="http://www.skype.com/en/">Skype</a> and <a href="https://www.hipchat.com">HipChat</a> for online text chats. It's a good idea to install both of these.
+We use a combination of [Skype](http://www.skype.com/en/) and [HipChat](https://www.hipchat.com) for online text chats. It's a good idea to install both of these.
 
 We use Google Hangouts for video calls. Whenever there's to be a hangout we'll announce it and provide a link in HipChat. As a minimum there's a weekly Wunderkraut Hangout on a Friday when we discuss our weeks and have a general chin wag. We use hangouts for quick project calls.
 
@@ -69,20 +69,18 @@ Travel is a necessity for some of usto perform our jobs. The company does not op
 
 If you have any issues or questions related to Health and Safety these must be discussed with your managing director.
 
-Here's our <a href="/working-at-wunderkraut/health-and-safety/health-and-safety/">Health & Safety policy</a> in full.
+Here's our [Health and Safety policy](/working-at-wunderkraut/health-and-safety/health-and-safety/) in full.
 
 
 ##We're the best!
 
 Well, that's our plan and we've made big steps to achieve that. We've implemented some nice lean processes and are ISO9001 certified. That just means that we manage ourselves and our projects as well as we can, we're always looking to better ourselves and we want you to be part of that too. There are some references to get you started here:
 
-<a href="/about-the-company/ambition/">Our Ambition</a><br/>
-<a href="/about-this-site/quality-management-system/">Quality Management System</a> < that's the official *how we do stuff* document<br/>
-<a href="/about-the-company/">Our Company</a><br/>
-<a href="/about-the-company/the-team/">Who we are</a>
+[Our Ambition](/about-the-company/ambition/)<br/>
+[Quality Management System](/about-this-site/quality-management-system/) < that's the official *how we do stuff* document<br/>
+[Our Company](/about-the-company/)<br/>
+[Who we are](/about-the-company/the-team/)</a>
 
 ##Everything Else
 
-If you still have questions you can look around the WunderWay (see the <a href="/">How</a> section), ask your buddy or speak to SteveP or SteveH.
-
-Or it may be below:<a name="questions" id="questions"></a>
+If you still have questions you can look around or search the [WunderWay](/).
