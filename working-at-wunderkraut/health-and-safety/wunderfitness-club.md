@@ -1,8 +1,9 @@
 ---
 layout: section
-title: Wunder Fitness
+tags: club
+title: WunderFitness Club
 ---
-There is lots written in the press about the health risks related to sedentary jobs. In a job like our it's all too easy to spend the whole day sat down. In a bid to fix this, to encourage eachother to move a little more and to build on our team spirit we came up with the idea of WunderFitness.
+There is lots written in the press about the health risks related to sedentary jobs. In a job like our it's all too easy to spend the whole day sat down. In a bid to fix this, to encourage each other to move a little more and to build on our team spirit we came up with the idea of WunderFitness.
 
 We've mapped the miles (as the crow flies) from our UK office to each of the other Wunder offices and we're plotting every mile that we walk, run and cycle. During each year we aim, as a team, to cover the following distances:
 
@@ -19,7 +20,7 @@ We've mapped the miles (as the crow flies) from our UK office to each of the oth
  - Finland, Turku	- 1,056 miles
  - Latvia, Valmeria	- 1,098 miles
  - Finland, Helsinki	- 1,133 miles
- 
+
  You can track our progress [here] (https://docs.google.com/spreadsheets/d/1tAzjqKjsIO-xfOx7BqUV-6V76dTDFE8Kq2LIATrAIuI/edit#gid=0).
- 
+
  If you'd like to join in just email the UK team for more info.
