@@ -48,7 +48,7 @@ Internal documents
 Wunderkraut share their documents internally to the Wunderkraut group using google drive as a collaborative repository to allow staff involved in each project a good project overview and ability to update the documents whenever required. This prevents documents becoming outdated or duplicated.
 Public documents
 
-Information regarding Wunderkraut that is pubilcally available is contained within [the Wunderway](http://way.wunder.co.uk) this is a website containing information about Wunderkraut, their practises, project management theories and also other helpful information. Any public documents should undergo peer review before they are published to minimise any incorrect information being released.
+Information regarding Wunderkraut that is pubilcally available is contained within [the Wunderway](/) this is a website containing information about Wunderkraut, their practises, project management theories and also other helpful information. Any public documents should undergo peer review before they are published to minimise any incorrect information being released.
 
 Customer information is not shared on Wunderway.
 
@@ -69,17 +69,19 @@ Access to the following must be removed:
 
 Before the user account is removed from Google, the contents of the Google Drive for that individual must be transferred to another current user to remain accessible within the system
 to do this :
-Sign in to the Google Admin console.
 
-Click Google Apps > Drive. Where is it?
-Click Transfer ownership.
+* Sign in to the Google Admin console.
+* Click Google Apps > Drive. Where is it?
+* Click Transfer ownership.
 
 Complete the Document ownership transfer section:
-In the From field, enter the user name of the current owner and select the user’s domain.
-In the To field, enter the user name of the new owner and select the user’s domain.
+
+* In the From field, enter the user name of the current owner and select the user’s domain.
+* In the To field, enter the user name of the new owner and select the user’s domain.
+
 Tip: If the transfer involves a very large number of documents, you may want to notify the new owner and check that they have enough storage capacity to accommodate the transferred documents. (You can see the amount of storage used and available at the bottom left corner of Google Drive on the web.)
 
-Click Transfer documents to save.
+* Click Transfer documents to save.
 
 All of the transferred documents are automatically organized in a single new folder — titled with the previous owner’s email address — in the new owner’s Drive.
 

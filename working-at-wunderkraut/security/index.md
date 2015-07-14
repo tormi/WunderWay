@@ -8,9 +8,11 @@ title: Security
 
 Most of Wunderkraut’s work is performed online, an environment that is vulnerable to attacks. Many of our clients insist on our implementation and proper management of information security policies and procedures. We operate in environments that require us to handle, store and transmit personal and sensitive data.
 
-** Security Policy Scope **
+### Security Policy Scope
 
 This policy is applicable to, and will be communicated to, all staff within the Wunderkraut/Wunderkraut group who work on UK managed projects and who have access to and interact with company and client data in all its forms. This includes systems and data attached to our internal network, public and private networks.
+
+### Security Policy Documents
 
 This section contains all of Wunderkrauts policy documents regarding security.
 
@@ -47,4 +49,3 @@ This section contains all of Wunderkrauts policy documents regarding security.
 [Key principles of the Freedom of information act](/working-at-wunderkraut/security/freedom-of-information-key-principles/)
 
 [Key principles of the Official secrects act](/working-at-wunderkraut/security/official-secrets-act-key-principles/)
-

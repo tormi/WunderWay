@@ -21,6 +21,7 @@ This policy is applicable to all staff, contractors and volunteers working for W
 Wunderkraut is responsible for the provision of adequate training for home workers to ensure that they are aware of their responsibilities regarding the Data Protection Act while working with personal or confidential data.
 
 Home working staff should also be trained in:
+
 * the use of for any additional or special tools or functions that underpin the security of their home working, including provided access or log-on tokens.
 * the deletion of cached information from internet browsers used to access web-based services.
 backing up data for safekeeping in case there is an event that causes data loss.
@@ -28,6 +29,7 @@ backing up data for safekeeping in case there is an event that causes data loss.
 The home worker’s proposed working environment(s) should be considered and where necessary risks assessed to help inform consideration of home working options. The findings of this consideration or survey process and any associated risks should be documented, so that appropriate control measures may be reviewed.
 
 Where the proposed home working arrangements involve the use of personal or shared computing resources, it must be noted the risks of doing so may outweigh any operational advantage of home working. For all home working scenarios, consideration of risks must be made and should take account of the potential to:
+
 * disclose other sensitive data of the organisation to unauthorised individuals;
 * lose or damage critical business data;
 * damage the organisation’s infrastructure and e-services through spread of un-trapped malicious code such as viruses;
