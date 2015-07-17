@@ -7,7 +7,7 @@ tags:
 title: Professional Development Plan
 ---
 
-We recognise the importantce of helping our staff to develop and grow professionally. After all, the more experienced and skilled you are the better it is for us. 
+We recognise the importance of helping our staff to develop and grow professionally. After all, the more experienced and skilled you are the better it is for us. 
 
 When you've been with us for 6 months we'll talk with you about putting in place a plan for your own personal development. The personal development plan takes a look at your existing skills and looks at where you would like to be in the next 1-3 years. Armed with that information we can formulate a plan to help you achieve your professional goals.
 
