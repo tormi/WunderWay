@@ -44,6 +44,8 @@ This section contains all of Wunderkrauts policy documents regarding security.
 
 [Security Policy](/working-at-wunderkraut/security/)
 
+[Sharing passwords securely](/working-at-wunderkraut/security/sharing-passwords/)
+
 [Key principles of the Data protection act](/working-at-wunderkraut/security/data-protection-act-key-principles/)
 
 [Key principles of the Freedom of information act](/working-at-wunderkraut/security/freedom-of-information-key-principles/)

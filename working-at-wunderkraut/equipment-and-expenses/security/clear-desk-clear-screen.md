@@ -36,9 +36,9 @@ All laptops should be configured with a password-protected screen-saver. This is
 
 Personal computers and computer terminals and printers must not be left logged on when unattended and must be protected by key lock, passwords or other controls when not in use.
 
-Effective passwords should not be easy for someone to guess. Names, words, telephone numbers, dates of birth etc., must not be used. Users should use passwords which meet the following minimum password complexity rules: 
+<a name="password-strength"></a>Effective passwords should not be easy for someone to guess. Names, words, telephone numbers, dates of birth etc., must not be used. Users should use passwords which meet the following minimum password complexity rules: 
 
-  - minimum of 8 characters in length; where possible, the minimum character length will be configured in the system;
+  - minimum of 8 characters in length (16+ is better); where possible, the minimum character length will be configured in the system;
   - recommend a change at least every 90 days;
   - contain at least three of the four possible character types, (lowercase letters, upper case letters, numbers and symbols)
 
