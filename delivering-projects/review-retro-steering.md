@@ -24,7 +24,7 @@ A retrospective is held at the end of every sprint and is a chance for the team 
 
 As always, if there's an opportunity to improve all projects then record your change request in <a href="https://rally1.rallydev.com/#/18084711157d/backlog">Rally</a>.
 
-The retrospecive itself is written up and stored in the project's Reviews & Assessments folder. A template for the write-up is available at <a href="https://docs.google.com/a/wunderkraut.com/document/d/11CTHJwRlwqjoXpri7OLus0RMDKaw4n5dcHtU_ZN8HBE/edit">Sprint Retrospective</a>. The file name describes the required format for saving the file.
+The retrospective itself is written up and stored in the project's Reviews & Assessments folder. A template for the write-up is available at <a href="https://docs.google.com/a/wunderkraut.com/document/d/11CTHJwRlwqjoXpri7OLus0RMDKaw4n5dcHtU_ZN8HBE/edit">Sprint Retrospective</a>. The file name describes the required format for saving the file.
 
 ##Steering Groups
 
