@@ -10,6 +10,7 @@ At Wundercamp London in August 2014 we held a session to look at the way we work
 
 
 - Frequent calls, hangouts, etc
+- Arrange regular informal calls (with video) to enhance bonding: e.g. remote tea/coffee break in the afternoon
 - Celebrate, mark milestones together
 - Get face to face as often as possible
 - Decent flights, hotels, food etc when meeting up. Don't be exhausted for the project day as a result of skimping on flying in the night before and taking a cheap early flight.
