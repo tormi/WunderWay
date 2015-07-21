@@ -19,7 +19,7 @@ This section sets out how we deliver projects.
 - Stakeholder Research
 - Other Research
 - [Backlog Development](backlogs-and-planning)
-- [Risk Management](issue-and-risk-management)
+- [Risk Management](risk-management)
 - [Quality Management](qualty-testing-non-conformities)
 
 

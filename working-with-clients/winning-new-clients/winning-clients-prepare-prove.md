@@ -31,7 +31,7 @@ It reveals the value propositions and supporting information the client wants fr
 The majority of the questions will not be about the technical solution, they’ll be about everything else – the real concerns, queries and motivations behind the client, as a business and as a group of people.
 
 ### How do I use a Question Tree?
-[TOOL: The Question Tree](https://docs.google.com/a/wunderkraut.com/presentation/d/1w66PBmYNJmflCyZk0x4oXbXt4jVIH4uVL5c100rwJuk/edit#slide=id.p)
+[TOOL: The Question Tree](https://docs.google.com/drawings/d/1pXa7WaBZwhqazq4C5_owZJEOKWFdZwnlJyXqMzbFXmY/edit)
 
 #### 1. Start building the tree from the first contact
 For example, when we get an email or phone call saying a pitch is coming up, or when we first know we want to target the organization.

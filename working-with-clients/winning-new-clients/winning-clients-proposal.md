@@ -12,7 +12,7 @@ These are the steps to creating a winning document...
 
 ## Storyboard
 A storyboard is a page-by-page outline of the full proposal document we’re creating. It helps us keep sight of the whole picture as we write the details of the story. It sets a guide for the content we need to gather and prevents us gathering content we don’t need.
-[TOOL: Example Storyboard for Proposals](https://docs.google.com/a/wunderkraut.com/document/d/16yZT6ukxPDywPZD4SCa2d_k9Yw45SQjFiiFY_BYUhzo/edit)
+[TOOL: Example Storyboard for Proposals](https://docs.google.com/document/d/13mQg3WUitHZvCQV2euiAFV3Yj_fYvLZoODDLTX1089U/edit)
 
 Base the structure of the document on the specifications in the RFP – this will keep the format familiar to the client and help them find the information they are looking for. Making the experience straightforward for them will put them in a good frame of mind from the start.
 
