@@ -70,7 +70,6 @@ Inputs:
 Goals & Measurements:
 
 - The maintenance and management of risk logs for all projects
-- The maintenance and management of a risk log for the business
 - Regular reporting of risks in steering group meetings
 
 Risk is inherent in everything that we do. We must seek to identify and manage risks throughout all our business. Managing risk, and showing that we’re managing risk provides assurances to our customers and staff that we’re in control and are prepared. Risks are identified within projects and must be reviewed regularly in order to mitigate and manage the likelihood of them occurring.
