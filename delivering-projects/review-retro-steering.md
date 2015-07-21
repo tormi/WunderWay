@@ -22,7 +22,7 @@ Sprint reviews are used to give a clear picture to the client's project team, an
 
 A retrospective is held at the end of every sprint and is a chance for the team to take a look back over the sprint and identify things that went well and what didn't go so well. The purpose of this is to look for ways to improve how we deliver projects. Some changes are specific to the individual project you're working on. Others might improve how we deliver all projects.
 
-As always, if there's an opportunity to improve all projects then record your change request in <a href="https://rally1.rallydev.com/#/18084711157d/backlog">Rally</a>.
+As always, if there's an opportunity to improve all projects then we need to raise that change request so that the benefits are available to everyone. See [Edit the WunderWay](/about-this-site/how-edit-wunderway/).
 
 The retrospective itself is written up and stored in the project's Reviews & Assessments folder. A template for the write-up is available at <a href="https://docs.google.com/a/wunderkraut.com/document/d/11CTHJwRlwqjoXpri7OLus0RMDKaw4n5dcHtU_ZN8HBE/edit">Sprint Retrospective</a>. The file name describes the required format for saving the file.
 
