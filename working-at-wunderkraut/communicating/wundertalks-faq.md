@@ -18,11 +18,11 @@ Every Friday at noon for central Europe, 13:00 for Finnland and the Baltics and 
 
 ### Where do I find the current or past episode?
 
-You can see all current and past episodes here: [https://plus.google.com/communities/115007220818167304346](https://plus.google.com/communities/115007220818167304346) (or [https://plus.google.com/u/1/communities/115007220818167304346](https://plus.google.com/u/1/communities/115007220818167304346) if you use multiple google accounts).
+If you are logged in with your company account, you can see all current and past episodes here: [https://docs.google.com/spreadsheets/d/1tbolFp-JIhdPRl59OW8PgN4l7Zl92uHYLe_wihJZBpU/edit](https://docs.google.com/spreadsheets/d/1tbolFp-JIhdPRl59OW8PgN4l7Zl92uHYLe_wihJZBpU/edit).
 
 ### Who can view the Wundertalks?
 
-The content is oriented mostly towards internal use, and is not usually advertised outside of the company. We sometimes get requests from customers who asks if they can view, which we have so far always welcomed.
+The content is generally oriented towards internal use, but if the topic allows for it and if the speaker is not opposed we sometimes promote them to the outside of the company. We sometimes get requests from customers who asks if they can view, which we have always welcomed. 
 
 ### Where can I see upcoming topics?
 
@@ -30,7 +30,7 @@ Check the [WunderTalks schedule](https://docs.google.com/a/wunderkraut.com/sprea
 
 ### Who can participate?
 
-Anyone who works at Wunderkraut. You don’t need to be an expert, you just need to have something to share.
+Anyone who works at Wunderkraut. You don’t need to be an expert, you just need to have something to share. If you work from another company and you want to present something that would be relevant for us, please send an e-mail to florian.loretan@wunderkraut.com. 
 
 ### I’d like to participate, where do I sign up?
 
