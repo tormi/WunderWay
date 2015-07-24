@@ -6,7 +6,21 @@ tags:
 title: Backlogs and Planning
 ---
 
-Project requirements are documented in **backlogs**. There is the overall **product backlog** that contains all requirements. We also create **sprint backlogs** that contain the requirements for each iteration. We use [Rally](https://rally1.rallydev.com/) to manage the backlogs.
+Project requirements are documented in **backlogs**. There is the overall **product backlog** that contains all requirements. We also create **sprint backlogs** that contain the requirements for each iteration. 
+
+<hr>
+
+## Backlog Tools
+
+**UK**
+
+The UK team use Rally for backlog management. See [Rally setup instructions](/delivering-projects/tools-rally-configuration/).
+
+**Germany**
+
+The Munich and Berlin team use Jira for backlog management. See Jira setup instructions.
+
+<hr>
 
 Requirements are written as **user stories** using the format:
 
@@ -20,9 +34,9 @@ We use this format to fully describe who wants what and to understand the value 
 
 The product backlog lists all of the requirements that the client has specified. The product backlog is owned by them (the Product Owner) and it’s their responsibility (supported by the Scrum Master and the Project Director) to order the backlog in priority order, with those items delivering the most value first.
 
-We use <a href="https://rally1.rallydev.com">Rally</a> to manage our backlogs. Each project is provided with it's own Rally instance and members of the project team (Wunderkraut and the client) are provided with access.
+Each project will manage the backlog with the tool of their choice and members of the project team (Wunderkraut and the client) are provided with access.
 
-When the project first reaches this stage the Scrummaster will prepare the Rally account for the team.
+When the project first reaches this stage the Scrummaster will prepare the backlog for the team.
 
 ## Sprint Planning, Sprint Backlog & Estimation Accuracy
 
@@ -64,8 +78,8 @@ The accuracy of estimates is very important to quality as this sets the expectat
 
 ###Checklist
 
- - The project has been set up in [Rally] (https://rally1.rallydev.com/) and all members of the project team have been provided with access
- - Backlogs are created in Rally
+ - The project has been set up in the selected tool and all members of the project team have been provided with access
+ - Backlogs are created
  - A [Sprint Review template](https://docs.google.com/a/wunderkraut.com/document/d/167EKxkkrc0oQeOaz-V2qJ9jOpCEAxCzr4ibatu5nCbU/edit) is available in the project folder and is used to capture the details of each review
  - The [Sprint estimation analysis](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1KlAqn9m7MSii7DpfgO9iCDYoP7L547PfK4xiotDTr20/edit#gid=0) log is updated at the end of each sprint to record the sprint effort estimate, the actual effort and the number of bugs reported
  - Sprint Retrospectives are recorded and stored in the project folder
