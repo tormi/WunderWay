@@ -23,6 +23,11 @@ This section sets out how we deliver projects.
 - [Quality Management](qualty-testing-non-conformities)
 
 
+# Design
+
+- [Nine Commandments of Design](nine-commandments-of-design)
+
+
 # Delivery
 
 - [Setting up GitHub, UpCloud, Jenkins and Behat] (/delivering-projects/startanewproject/)
