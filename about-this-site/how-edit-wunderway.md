@@ -10,6 +10,32 @@ The WunderWay is intended to be collaborative and continuously improved. Any cha
 
 To help with this, we use Github's [pull request workflow.](https://help.github.com/articles/using-pull-requests/) This allows us to keep all the different versions of the content that have ever existed, track changes, and discuss them. It also allows us easily catch and fix any mistakes - so don't worry about breaking it.
 
+## The Update Process
+
+All updates, whether editing existing content or adding new content, is done using issues and pull requests in GitHub.
+
+If you have an idea for new content, a new process or a new tool then raise an issue and include a clear description of your request and the reasons behind it.
+
+If you are creating new content or editing existing content then this can be raised as a pull request.
+
+The process is simple:
+
+ - Raise a pull request (PR) or issue in GitHub
+ - The PR or issue is reviewed
+ - Comments, questions, queries and discussions are recorded in GitHub
+ - If the change is accepted:
+	 - An issue will require a pull request to be created to add or edit the content
+	 - A pull request will be reviewed by those with responsibilities for that area of the WunderWay
+	 - When the pull request is merged then any relevant issue will be closed
+	 - Updates will be automatically posted in the WunderCafe room in HipChat
+
+It's important that we have a review process for all new content. The WunderWay is audited annually and we need to log:
+
+ - The reasons and discussions behind the edit or new content
+ - The value is brings
+ - The impact. Does this need to be communicated?
+ - The impact on our [objectives](/about-this-site/quality-management-system/quality-objectives/). Does this change need to be measured and is there a process in place for that?
+
 ## Preparing To Work On The WunderWay
 
 ### Editing The WunderWay On Github
