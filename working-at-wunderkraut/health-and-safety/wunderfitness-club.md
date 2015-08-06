@@ -21,6 +21,6 @@ We've mapped the miles (as the crow flies) from our UK office to each of the oth
  - Latvia, Valmeria	- 1,098 miles
  - Finland, Helsinki	- 1,133 miles
 
- You can track our progress [here] (https://docs.google.com/spreadsheets/d/1tAzjqKjsIO-xfOx7BqUV-6V76dTDFE8Kq2LIATrAIuI/edit#gid=0).
+ You can track our progress [here](https://docs.google.com/spreadsheets/d/1tAzjqKjsIO-xfOx7BqUV-6V76dTDFE8Kq2LIATrAIuI/edit#gid=0).
 
  If you'd like to join in just email the UK team for more info.

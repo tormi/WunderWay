@@ -30,8 +30,8 @@ This section sets out how we deliver projects.
 
 # Delivery
 
-- [Setting up GitHub, UpCloud, Jenkins and Behat] (/delivering-projects/startanewproject/)
-- [Introduction to Project Delivery] (/delivering-projects/project-delivery-intro/)
+- [Setting up GitHub, UpCloud, Jenkins and Behat](/delivering-projects/startanewproject/)
+- [Introduction to Project Delivery](/delivering-projects/project-delivery-intro/)
 - [Agile delivery diagram](agile-delivery-diagram)
 - [Delivery Phases: Alpha, Beta, Live](/delivering-projects/alpha-beta-live/)
 - Sprints

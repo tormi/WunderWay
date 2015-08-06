@@ -20,4 +20,4 @@ Drupal is a widely adopted solution within the UK Government. By choosing it you
 *	benefit from a wide range of stable, secure contributed modules to quickly and easily add functionality
 *	have reassurance from knowing the platform has been approved widely within Government.
 
-The UK Government is a big advocate of Drupal, Agile  and Open Source and they’re realising big savings from these. A recent blog posted on the Cabinet Office [https://www.gov.uk/government/news/government-to-save-millions-on-ict] (https://www.gov.uk/government/news/government-to-save-millions-on-ict) website talks about saving millions of pounds by switching to Agile delivery methods and Open Standards.
+The UK Government is a big advocate of Drupal, Agile  and Open Source and they’re realising big savings from these. A recent blog posted on the Cabinet Office [https://www.gov.uk/government/news/government-to-save-millions-on-ict](https://www.gov.uk/government/news/government-to-save-millions-on-ict) website talks about saving millions of pounds by switching to Agile delivery methods and Open Standards.

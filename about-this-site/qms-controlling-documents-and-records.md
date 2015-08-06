@@ -14,7 +14,7 @@ Changes are raised either as pull requests or issues in GitHub. Those changes ar
 
 When we implement changes to the WW then we affect the whole group so be sure to consider the change you're making. If you've tried out a new process or tool locally then include the results of your test in the pull request or issue so that we can make decisions on the change requests more easily. Plus, it's good to keep a record of the reasons for change in GitHub so we can refer back later on.
 
-If you're not sure about how to go about requesting a change then take a look at [How to edit the WunderWay] (/about-this-site/how-edit-wunderway/). Try to be as descriptive as possible.
+If you're not sure about how to go about requesting a change then take a look at [How to edit the WunderWay](/about-this-site/how-edit-wunderway/). Try to be as descriptive as possible.
 
 All changes will follow this simple process
 
