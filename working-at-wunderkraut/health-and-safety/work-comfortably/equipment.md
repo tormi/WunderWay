@@ -16,6 +16,8 @@ Vesa has this [adjustable height standing desk](http://www.ajproducts.co.uk/tabl
 
 Heikki has this [fixed height standing desk](http://complete-office.co.uk/ProductDetails/Furniture/Desks/3511464/Gresham-Stand-Height-Rectangular-600Mm-Deep-1200-X-600--TS612RHZ/Master.aspx) (bought from [Whiteleys](http://www.whiteleys-office.co.uk/)). It is compact and has neutral styling but suits his needs perfectly.
 
+[Read these tips for healthy standing](https://theconversation.com/health-check-the-low-down-on-standing-desks-37515) to help you set your standing desk up correctly and get used to a new way of working.
+
 ## Good chairs
 
 [Aeron office chair](https://en.wikipedia.org/wiki/Aeron_chair)
