@@ -11,3 +11,9 @@ In most of our projects, we have to consider the highly remote setup. Within the
 3. In person conversation
 
 If not documented by the nature of the communication channel, any relevant results of discussions must then be documented within an appropriate, persistent system.
+
+## Commitment
+
+* If I address a person, I will expect an answer.
+* If I’ve asked for something, I confirm that I’ve read the answer and confirm that this helped/resolved my issue.
+* If I’ve asked for something and things/circumstances change, I will send a notfication ASAP.

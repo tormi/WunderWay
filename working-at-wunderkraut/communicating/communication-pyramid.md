@@ -41,9 +41,3 @@ Is what I want actionable without further explanation or is it explorative and w
 ### Privacy
 Do I need to communicate something intagible, sensitive, explorative, group dynamics, important etc.?
 **TODO**
-
-# Commitment
-
-* If I address a person, I will expect an answer.
-* If I’ve asked for something, I confirm that I’ve read the answer and confirm that this helped/resolved my issue.
-* If I’ve asked for something and things/circumstances change, I will send a notfication ASAP.
