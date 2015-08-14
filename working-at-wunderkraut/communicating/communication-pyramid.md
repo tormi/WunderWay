@@ -22,16 +22,28 @@ This list is ordered descendingly from urgent & synchronous to informative & asy
 ### Types of conversations/purpose and the communication channels
 Typical types and purposes of conversations, and their appropriate channel:
 
-1. Informing: asynchronous (EMail)
-2. Updating (Tasks and status updates on them): asynchronous (Ticketing system)
-3. Escalating: synchronous (at least call), supported by email for documenation purposes
-4. Exploring: synchronous (video call, workshop, face-to-face)
-5. Inspiring: synchronous (video call, face-to-face)
-6. Advising (Feedback): synchronous (video call, face-to-face)
-7. Chatting: both
+1. Informing:
+2. Updating: Updates on tasks and status updates on them
+3. Escalating:
+4. Exploring:
+5. Inspiring:
+6. Advising: providing feedback
+7. Chatting
+
+#### When should I lean towards asynchronous communication?
+* Informing: e.g. email
+* Updating: e.g. ticketing system
+* Chatting
+
+#### When should I lean towards synchronous communication?
+* Escalating: at least by call, supported by email for documenation purposes
+* Exploring: e.g. video call, workshop, face-to-face
+* Inspiring: e.g. video call, face-to-face
+* Advising: e.g. video call, face-to-face
+* Chatting
 
 ### Surrounding conditions
-There are multiple aspects to consider, whether to choose a synchronous or an asynchronous channel of communication:
+In addition to the type or purpose of a conversation, there are multiple aspects to consider, whether to choose a synchronous or an asynchronous channel of communication:
 
 #### Urgency
 Question: do I need the other person act right now?
@@ -50,4 +62,5 @@ Question: do I need to communicate something intagible, delicate, sensitive, gro
 
 ## We are remote, we are documented
 Keep always in mind that Wunderkraut is operating in a highly remote setup. This implies that your peers and you will benefit from well documented and accessible communication.
+
 Thus, regardless of the communication channel: document, document, document - or along the line of scientist: publish or perish!
