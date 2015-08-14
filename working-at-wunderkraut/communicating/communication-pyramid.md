@@ -2,6 +2,9 @@
 layout: page
 title: Pyramid of Communication
 ---
+## Choose your channel appropriately
+The choice of which communication channel is most appropriate depends on the purpose of the conversation, as well as on the surrounding conditions.
+
 We have plenty of channels, how to communicate with peers and customers. The _Pyramid of Communication_ provides a guideline, when to use which channel based on the urgency of the topic to address.
 
 This list is ordered descendingly from urgent & synchronous to informative & asynchronous:
@@ -15,9 +18,6 @@ This list is ordered descendingly from urgent & synchronous to informative & asy
 	* Directed @all / @here
 6. Issue, Ticketing or Project Management Application
 7. Email 
-
-## Choose your channel
-The choice of with channel is most appropriate depends on the purpose of the conversation, as well as on the surrounding conditions.
 
 ### Types of conversations/purpose and the communication channels
 Typical types and purposes of conversations, and their appropriate channel:
