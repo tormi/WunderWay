@@ -14,7 +14,7 @@ This list is ordered descendingly from urgent & synchronous to informative & asy
 	* Directed @someone
 	* Directed @all / @here
 6. Issue, Ticketing or Project Management Application
-7. EMail 
+7. Email 
 
 ## Choose your channel
 The choice of with channel is most appropriate depends on the purpose of the conversation, as well as on the surrounding conditions.
