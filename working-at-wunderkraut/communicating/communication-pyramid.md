@@ -51,6 +51,6 @@ Question: is what I want actionable without further explanation or is it explora
 #### Privacy
 Question: do I need to communicate something intagible, delicate, sensitive, group dynamics, personal important etc.?
 
-## We are remote, we are document
+## We are remote, we are documented
 Keep always in mind that Wunderkraut is operating in a highly remote setup. This implies that your peers and you will benefit from well documented and accessible communication.
 Thus, regardless of the communication channel: document, document, document - or along the line of scientist: publish or perish!
