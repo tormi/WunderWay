@@ -1,8 +1,5 @@
 ---
 layout: page
-section: communication
-categories: communication
-tags: communication
 title: Pyramid of Communication
 ---
 We have plenty of channels, how to communicate with peers and customers. The _Pyramid of Communication_ provides a guideline, when to use which channel based on the urgency of the topic to address.
