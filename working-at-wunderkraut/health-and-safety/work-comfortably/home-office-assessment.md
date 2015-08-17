@@ -9,11 +9,11 @@ This three carrot rating system makes it simple to assess the quality of your wo
 
 ## One carrot: The essentials
 
-* An internet connection above 2.6mbps up and 2.6mbps down. [Take a speed test](http://www.speedtest.net/)
-  * Fix this by upgrading your broadband. this is not expensable for tax reasons, but you can negotiate a pay rise to offset the costs of the upgrade.
+* An internet connection at least 1mbps up and 1mbps down. [Take a speed test](http://www.speedtest.net/)
+  * Fix this by upgrading your broadband. this is not expensable for tax reasons, but is already factored into your salary.
 * A chair and desk that meet minimum health requirements: [![Office ergonomics](/public/images/stretching-wellness-exercises/office-ergonomic-workstation-diagrams.gif)](/public/images/office-ergonomic-workstation-diagrams.gif) [![Body mechanics](/public/images/stretching-wellness-exercises/body-mechanics.png)](/public/images/body-mechanics.png)
 
-Fix this by buying an adjustable chair and desk that fit your proportions. See [How to choose an ergonomic chair](http://www.wikihow.com/Choose-an-Ergonomic-Office-Chair).
+Fix this by buying an adjustable chair and desk that fit your proportions. See [How to choose an ergonomic chair](http://www.wikihow.com/Choose-an-Ergonomic-Office-Chair) and [our recommended equipment.](/working-at-wunderkraut/health-and-safety/work-comfortably/recommended-equipment/)
 
 ## Two carrots: Productivity
 
@@ -23,4 +23,5 @@ Fix this by buying an adjustable chair and desk that fit your proportions. See [
 
 ## Three carrots: Optimal comfort
 
-* A heathier chair and/or desk option. For example: Standing desk, exercise ball, [and more](http://fourhourworkweek.com/2009/01/27/office-chair-aeron-vs-mirra-vs-liberty/).
+* An internet connection at least 2.6mbps up and 2.6mbps down.
+* A heathier chair and/or desk option. For example: Standing desk, exercise ball, or [see our recommended equipment.](/working-at-wunderkraut/health-and-safety/work-comfortably/recommended-equipment/)
