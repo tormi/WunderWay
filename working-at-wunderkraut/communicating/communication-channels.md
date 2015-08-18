@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Pyramid of Communication
+title: Communication Channels
 ---
 ## Choose your channel appropriately
 The choice of which communication channel is most appropriate depends on the purpose of the conversation, as well as on the surrounding conditions.
 
-We have plenty of channels, how to communicate with peers and customers. The _Pyramid of Communication_ provides a guideline, when to use which channel based on the urgency of the topic to address.
+We have plenty of channels, how to communicate with peers and customers. This page provides a guideline, when to use which channel based on the urgency of the topic to address.
 
 This list is ordered descendingly from urgent & synchronous to informative & asynchronous:
 
