@@ -3,7 +3,7 @@ layout: section
 title: Communicating
 ---
 ## Individuals and interactions over processes and tools
-As a rule of thumb, we adhere to the Manifesto for Agile Software Development, which states - besides others - “Individuals and interactions over processes and tools”.
+As a rule of thumb, we adhere to the [Manifesto for Agile Software Development](http://www.agilemanifesto.org), which states - besides others - “Individuals and interactions over processes and tools”. 
 
 In most of our projects, we have to consider the highly remote setup. Within these circumstances, interactions between individuals are not always to be considere (and efficient) to be face-to-face. According to this, in order to discuss issues and reach mutual agreement, we prefer the following communication channels in their given order:
 
