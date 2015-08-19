@@ -18,7 +18,7 @@ Heikki has this [fixed height standing desk](http://complete-office.co.uk/Produc
 
 IKEA now has a range of sit/stand desks too:
 
-[Belgium (Fr)](http://www.ikea.com/be/fr/catalog/categories/departments/workspaces/18962/) | [Belgium (Nl)](http://www.ikea.com/be/nl/catalog/categories/departments/workspaces/18962/) | [Germany](http://www.ikea.com/de/de/catalog/categories/departments/workspaces/18962/) | [Finland](http://www.ikea.com/fi/fi/catalog/categories/departments/workspaces/18962/) | [Netherlands](http://www.ikea.com/nl/nl/catalog/categories/departments/workspaces/18962/) | [Sweden](http://www.ikea.com/se/sv/catalog/categories/departments/workspaces/18962/) | [Norway](http://www.ikea.com/no/no/catalog/categories/departments/workspaces/18962/) | [UK](http://www.ikea.com/gb/en/catalog/categories/departments/workspaces/18962/)
+[[Belgium (Fr)](http://www.ikea.com/be/fr/catalog/categories/departments/workspaces/18962/)] [[Belgium (Nl)](http://www.ikea.com/be/nl/catalog/categories/departments/workspaces/18962/)] [[Germany](http://www.ikea.com/de/de/catalog/categories/departments/workspaces/18962/)] [[Finland](http://www.ikea.com/fi/fi/catalog/categories/departments/workspaces/18962/)] [[Netherlands](http://www.ikea.com/nl/nl/catalog/categories/departments/workspaces/18962/)] [[Sweden](http://www.ikea.com/se/sv/catalog/categories/departments/workspaces/18962/)] [[Norway](http://www.ikea.com/no/no/catalog/categories/departments/workspaces/18962/)] [[UK](http://www.ikea.com/gb/en/catalog/categories/departments/workspaces/18962/)]
 
 <small>(Sorry, no IKEA in Latvia, Estonia.)</small>
 
