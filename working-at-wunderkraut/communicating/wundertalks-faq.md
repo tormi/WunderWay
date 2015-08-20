@@ -78,7 +78,7 @@ Please avoid the use of copyrighted material within your presentation. Youtube a
 ### Before the Wundertalk (few days in advance)
 
  - Create a Hangout on Air
- 	 - Go to [https://plus.google.com/hangouts](https://plus.google.com/hangouts) (or [https://plus.google.com/u/1/hangouts](https://plus.google.com/u/1/hangouts) if you have multiple google accounts) and click on the button “Start a Hangout on Air”
+ 	 - Go to [https://plus.google.com/hangouts](https://plus.google.com/hangouts) (or [https://plus.google.com/u/1/hangouts](https://plus.google.com/u/1/hangouts) if you have multiple google accounts) and click on the button “Create a Hangout on Air”
 	 - You might need to connect your Google+ account with Youtube and validate your phone number. Don’t bother entering any details until this step is done, you’d have to redo it.
 	 - Enter the following details
 	 	 - Title and description from [https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1tbolFp-JIhdPRl59OW8PgN4l7Zl92uHYLe_wihJZBpU/edit#gid=0](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1tbolFp-JIhdPRl59OW8PgN4l7Zl92uHYLe_wihJZBpU/edit#gid=0)
@@ -87,8 +87,10 @@ Please avoid the use of copyrighted material within your presentation. Youtube a
 		 - Share the event with “Wunderkraut” (the company, indicated with a little building) and the “Wundertalks” community (it’s displayed with a circle with three dots in it that indicates it’s a community)
  - Get the URL to be sent out for notifications
 	 - Go to the event page you just created
-	 - Click on the “start” button on the video, the hangout window will open. Do not click on “start broadcast”.
-	 - At the bottom right of the window, you have access to various URLs, copy the URL of the YouTube page where the live stream will be visible. You can close the hangout window.
+	 - On the right hand side, you will find a box called _Details_
+	 - Click on the _Links_ button
+	 - Copy the URL of the _YouTube page_: [![YouTube Details](/public/images/wundertalks/WunderTalk-Details_URLs.png)](/public/images/wundertalks/WunderTalk-Details_URLs.png)
+	 - Shorten this URL by adding the ID of the YouTube page to the URL _http://youtu.be/[YOUTUBE-ID]_. The ID are the characters after the "v=". The result should look similar to [http://youtu.be/5lrnregtnX](http://youtu.be/5lrnregtnX8)
 	 - Add this URL to the following document *https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1tbolFp-JIhdPRl59OW8PgN4l7Zl92uHYLe_wihJZBpU/edit*. This is the URL that will be included in the reminders.
  - The following reminders are automatically sent, but you might want to double check:
  	 - On Monday morning, the speakers get notified
