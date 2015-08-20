@@ -12,7 +12,7 @@ HipChat has been chosen (for why, see [our rationale of choosing HipChat](hipcha
 You can access HipChat via a browser at [https://wunderchat.hipchat.com](https://wunderchat.hipchat.com) or via a desktop, mobile or tablet client app. Download HipChat apps from appstores for your device, and desktop apps at [https://www.hipchat.com/downloads](https://www.hipchat.com/downloads). 
 
 ## Internal support and onboarding
-If you need help, go into the ‘HipChat Transition’ room and ask, or email Alice. The HipChat help documentation is at [http://help.hipchat.com](http://help.hipchat.com) and can provide quick answers in many cases.
+If you need help, just go into the room "WunderCafe", ask someone in your local office - or check the hipchat help. The HipChat help documentation is at [http://help.hipchat.com](http://help.hipchat.com) and can provide quick answers in many cases.
 
 ## Communication Etiquette
 Anything in the Wunderchat rooms should be regarded as non-permanent, and not likely to be seen by everyone in the room. If you need a permanent record of something being communicated, or you need to ensure everyone sees it, then email should be used rather than chat. That also means you have no obligation to keep checking all the backscroll in rooms you belong to. No-one expects you to read everything.
