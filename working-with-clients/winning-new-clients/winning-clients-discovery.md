@@ -30,6 +30,7 @@ Remember we can gather information from our networks, too:
 
 ## Write Epics For The Project
 This will enable us to get an idea for the size and scope of the project, and to develop better estimates. Develop the epics as a team when reading through the client documentation.
+
 These epics should eventually be included in the proposal, but make very clear that these are just our assumptions and current best understanding of the project. They WILL change as proper user research and discovery is done.
 
 ## Understand Our Buyers
