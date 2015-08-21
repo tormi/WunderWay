@@ -9,6 +9,7 @@ title: Winning New Clients
 
 We have a clear process for winning new clients, with the following stages:
 
+- [Start The Process](/working-with-clients/winning-new-clients/winning-clients-start-process)
 - [Stop/Go](/working-with-clients/winning-new-clients/winning-clients-stop-go)
 - [Discovery](/working-with-clients/winning-new-clients/winning-clients-discovery)
 - [Prepare and Prove](/working-with-clients/winning-new-clients/winning-clients-prepare-prove)
