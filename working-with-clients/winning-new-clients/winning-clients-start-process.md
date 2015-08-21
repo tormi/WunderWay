@@ -40,5 +40,7 @@ Invite everyone to the hipchat room, and the google drive folder. Setup a first 
 
 Everyone in the team should 'work out loud' on the sale, discussing everything openly in the hipchat room, rather than 1-1. That way everyone knows the latest.
 
+## Communicate with the Client
+As we like to work in a very open and collaborative way, let's start this from the very beginning of the relationship. Let the client know what you are doing to set up and evaluate the opportunity. Send them a link to this section of the WunderWay so they can understand what our process is, and what will be happening when.
 
 Once we have the team together and communications in place, we want to make a [Stop/Go Decision](http://way.wunder.io/working-with-clients/winning-new-clients/winning-clients-stop-go/)
