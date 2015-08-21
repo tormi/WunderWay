@@ -65,4 +65,4 @@ Look at ways to maintain a relationship and develop future opportunities.
 - Keep in touch – stay on their radar and aware of their plans.
 
 ## If It’s ‘Go’
-It’s time to make plans, starting with [doing a Discovery](http://way.wunder.io/working-with-clients/winning-new-clients/winning-clients-discovery/).
+It’s time to make plans, starting with [doing a Discovery](/working-with-clients/winning-new-clients/winning-clients-discovery/).
