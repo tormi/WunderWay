@@ -52,7 +52,7 @@ Create a copy of this template worksheet to assess each new project.
 The score that comes out of this worksheet doesn't make the decision for you - it's a starter for a conversation between the team. What does it mean that a certain score is showing red? Are there too many reds? Could we deal with those concerns and allow the opportunity to progress?
 
 ## Be Highly Selective
-Taking part in procurement exercises is a very time consuming, and therefore expensive, process. Therefore we really only want to do it for those that we want to win, can win, and should win. For anything else, or even if we just have doubts, it's best to be honest about it and reject them very early on. It's far better for us, and our clients, if we take part in fewer procurement processes, but with a higher win rate. Beling selective will allow us to focus more time on the ones we should win.
+Taking part in procurement exercises is a very time consuming, and therefore expensive, process. Therefore we really only want to do it for those that we want to win, can win, and should win. For anything else, or even if we just have doubts, it's best to be honest about it and reject them very early on. It's far better for us, and our clients, if we take part in fewer procurement processes, but with a higher win rate. Being selective will allow us to focus more time on the ones we should win.
 
 ## If It’s ‘Stop’
 Remember that the client contact should never end with just ‘NO’. Firstly, we want to provide some value in every contact with other people and organisations. Secondly, there may be other ways to work together in future.
