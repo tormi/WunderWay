@@ -28,6 +28,9 @@ Remember we can gather information from our networks, too:
 - Members of the Drupal, Agile or other industry-related communities
 - Other contacts outside our company and our industry who can inform our decision
 
+## Write Epics For The Project
+This will enable us to get an idea for the size and scope of the project, and to develop better estimates. Develop the epics as a team when reading through the client documentation.
+
 ## Understand Our Buyers
 Targeting buyers is not just a matter of knowing their names. We need to understand their motivations, and their influence on the decision, if we’re to appeal to the right people in the right way.
 
