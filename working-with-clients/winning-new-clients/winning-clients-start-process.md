@@ -8,6 +8,12 @@ title: Winning Clients - Start The Process
 
 When an opportunity comes to us we follow a clear process to assess it and then work towards a proposal.
 
+## Notify the Sales Manager in the country office
+Each country office should have one person who is aware of all the current opportunities. Please let them know about this new one.
+
+## Add the Client and the Opportunity to our CRM
+To make sure we keep track of our work properly, and do things at the right time, please start by making sure everything is set up correctly in our CRM system. The project lead should also be responsible for keeping this up to date as the sale progresses.
+
 ## Start the documentation
 Set up a folder in Google Drive for the client and the project, and set up the folder structure. Upload all the documentation we have there.
 
