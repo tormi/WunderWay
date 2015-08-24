@@ -10,6 +10,7 @@ This section explains how we work with clients - from identifying who we'd like 
 - [Finding potential clients](/working-with-clients/finding-new-clients/finding-potential-clients)
 
 - [Winning new clients](/working-with-clients/winning-new-clients)
+	- [Start The Process](/working-with-clients/winning-new-clients/winning-clients-start-process)
 	- [Stop/Go](/working-with-clients/winning-new-clients/winning-clients-stop-go)
 	- [Discovery](/working-with-clients/winning-new-clients/winning-clients-discovery)
 	- [Prepare and Prove](/working-with-clients/winning-new-clients/winning-clients-prepare-prove)
