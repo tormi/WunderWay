@@ -7,7 +7,7 @@ require([
 
   var docs =
   [
-  {% for page in site.pages limit:100 %}
+  {% for page in site.pages %}
       {% unless page.exclude_from_search %}
         {% include page.json %},
       {% endunless %}
