@@ -7,17 +7,17 @@ We use peer review to provide perspective, to help us understand ourselves, how 
 
 Every six months, you can ask your buddy to collect feedback from three to five co-workers of your choice. Choose co-workers who will have gained insight from working closely with you recently.
 
-Your buddy introduces your own goals to the co-workers. These can include:
+Your buddy introduces your own goals to the co-workers. Some examples are:
 
 1. Where do you want to be in five years
-2. How can I be more open, professional, healthy, fluid, and a leader? See [our principles](/about-the-company/principles/)
-3.
+2. How can I be more open, professional, healthy, fluid, and a better leader? See [our principles](/about-the-company/principles/)
+3. How can I support you more?
 
-Your buddy collects answers to the following questions?
+Your buddy collects answers to the following questions:
 
-1. What you should keep doing to achieve these goals?
-2. What you should start doing to achieve these goals?
-3. What you should stop doing to achieve these goals?
+1. What you should keep doing to achieve these goals.
+2. What you should start doing to achieve these goals.
+3. What you should stop doing to achieve these goals.
 
 Your buddy then identifies common trends and highlights important points and presents the anonymous feedback to you.
 
