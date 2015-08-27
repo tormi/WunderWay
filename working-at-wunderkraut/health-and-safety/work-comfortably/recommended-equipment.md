@@ -3,7 +3,7 @@ layout: page
 section: how
 categories:
 tags:
-title: Equipment
+title: Recommended Equipment
 ---
 
 As we spend a lot of time in our home offices, it's important to be comfortable, and to have a good ergonomic working position.

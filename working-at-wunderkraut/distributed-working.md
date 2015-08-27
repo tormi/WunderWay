@@ -80,7 +80,7 @@ On the other hand, brick-and-mortar offices have health and safety standards tha
 * Assess your working environment. [How does it affect your posture?](http://apps.washingtonpost.com/g/page/national/the-health-hazards-of-sitting/750/)
 * **Invest money in your chair and desk.** The benefits pay off.
 * Everyone is different, don't feel like you need to use the same equipment as everyone else.
-* For more information and ideas, see [Equipment](/working-at-wunderkraut/health-and-safety/work-comfortably/equipment/)
+* For more information and ideas, see [Home Office Assessment](/working-at-wunderkraut/health-and-safety/work-comfortably/home-office-assessment/)
 * For inspiration, see [This is What a Remote Office Looks Like](https://zapier.com/learn/the-ultimate-guide-to-remote-working/remote-office-photos/)
 
 ## Timezones
