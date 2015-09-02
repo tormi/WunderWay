@@ -117,7 +117,7 @@ Many Email servers are designed to reject emails with attachments therefore the 
 
 ### Digital signatures
 
-If a digital signature is required for a contract or written document, a secure signature program should be used. Wunderkraut utilise <a href=https://www.docusign.net/MEMBER/MemberLogin.aspx>DocuSign</a> to do this confidentially and securely.
+If a digital signature is required for a contract or written document, a secure signature program should be used. Wunderkraut utilise [DocuSign](https://www.docusign.net/MEMBER/MemberLogin.aspx) to do this confidentially and securely.
 
 Docusign maintains an archive of signed documents.
 
