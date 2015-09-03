@@ -46,7 +46,7 @@ It's difficult to bond with your team when you don't have a chance to get to kno
 * Arrange informal hangouts that have nothing to do with work.
 * Get together when you can. Celebrate milestones in projects, or arrange a camp around a common objective.
 * Remember that each country has cultural differences, spend time learning about these.
-* Find apps to share a hobbies or interests online. We have groups on MapMyRun and Good Reads.
+* Find apps to share a hobbies or interests online. We have groups on MapMyRun, Strava, and Goodreads.
 * Make effort to ask deeper questions to your co-workers like “What's going well? What are you proud of this week?” and “What challenges are you facing? Where are you stuck?”
 * Try asking open questions that start with how, when, and why.
 * If in doubt, ask [your buddy](/working-at-wunderkraut/buddies/having/)
@@ -97,6 +97,8 @@ To help all team members feel equal, it's important to reduce the assumption of 
 * Document everything to help your team unblock themselves so they don't have to rely on you being online.
 
 ## Recommended resources
+
+You can find loads of recent resources from the Wunder Team in the [remote working section of WunderShare](https://wundershare.herokuapp.com/category/remote-working) 
 
 * [Remotive newsletter](http://remotive.io/)
 * [The comprehensive guide to remote working](http://blog.remotive.io/the-comprehensive-guide-to-remote-working/)
