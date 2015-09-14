@@ -10,6 +10,27 @@ The WunderWay is intended to be collaborative and continuously improved. Any cha
 
 To help with this, we use Github's [pull request workflow.](https://help.github.com/articles/using-pull-requests/) This allows us to keep all the different versions of the content that have ever existed, track changes, and discuss them. It also allows us easily catch and fix any mistakes - so don't worry about breaking it.
 
+## Considerations
+
+The WunderWay is based on ISO 9001, the quality standard. We have objectives that are monitored and measured for this. Before you submit an issue or a pull request consider the impact of this change on our [Quality Objectives](/about-this-site/quality-management-system/quality-objectives/).
+
+We monitor the quality of our services and the quality of the products we create. We record the number of bugs found in these as a measure of quality. We also record the accuracy of our sprint estimations.
+
+Risks are recorded, owned, managed and reported thoroughly. Consider the impact your change could have on how we manage risks.
+
+Our project management processes record vital information throughout a project for reporting, monitoring and training purposes. If your change affects these then it will affect us all.
+
+We try to look after our staff, to continually develop their skills and to provide a suitable workplace for producing quality work and to create an environment for support and learning. Consider how changes in communication, workplace and the availability staff will affect this.
+
+The cost of winning new business is monitored. Consider how changes in the sales and procurement processes will affect this.
+
+## Approving Changes
+
+Changes that affect us all need to be reviewed and approved by those who represent the whole group and not just individual countries. To tackle this we've set up (and are still looking for representatives for) [WunderExperts Groups](/about-this-site/wunder-experts-groups/).
+
+Each group (technical, project management, design, UX, operations, sales, hosting) will comprise (where possible) a representative from each country. It'll be the responsibility for these groups to review your change with you, to agree an implementation plan and a communication plan to make sure everyone within the WunderKraut group is made aware of changes that affect them.
+
+
 ## The Update Process
 
 All updates, whether editing existing content or adding new content, is done using issues and pull requests in GitHub.
@@ -25,7 +46,7 @@ The process is simple:
  - Comments, questions, queries and discussions are recorded in GitHub
  - If the change is accepted:
 	 - An issue will require a pull request to be created to add or edit the content
-	 - A pull request will be reviewed by those with responsibilities for that area of the WunderWay
+	 - A pull request will be reviewed by the [expert group](/about-this-site/wunder-experts-groups/) responsible for the particular area of the WunderWay this affects
 	 - When the pull request is merged then any relevant issue will be closed
 	 - Updates will be automatically posted in the WunderCafe room in HipChat
 
