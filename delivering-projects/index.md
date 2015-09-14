@@ -41,5 +41,6 @@ This section sets out how we deliver projects.
 - Stakeholder communciation
 - User Testing
 - [Quality Management](qualty-testing-non-conformities)
+- [Pre-launch Checklist](/delivering-projects/pre-launch-checklist)
 
 ## All pages
