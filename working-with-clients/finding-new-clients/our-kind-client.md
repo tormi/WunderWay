@@ -13,7 +13,7 @@ This is best for everyone as it ensures the client receives the best service and
 A Wunder customer should:
 
 * Be looking for a long term partnership rather than a one-off project.
-* Be interested in working colaboratively rather than throwing a briefing document over the fence and waiting.
+* Be interested in working collaboratively rather than throwing a briefing document over the fence and waiting.
 * Understand that launching a website is getting to the start line, rather than the finish line.
 * See digital as core to the future of their business.
 * Have hard problems to solve which need more than the usual agency pretty brochure-ware style approach.
