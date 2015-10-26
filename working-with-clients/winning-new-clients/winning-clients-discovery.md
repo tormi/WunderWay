@@ -16,7 +16,7 @@ Then, gather and review as much information as you can on:
 - Timeline, for the proposal and the project – are both achievable with the resources we have available?
 - Budget – is it viable? Do we need to have an early conversation about costs and value? If the client won't give us even an indication of budget, is it worth proceeding?
 - Client market and industry
-- Our competitors for the work – what are their strengths and weaknesses? how can we counter their value propositions? how well placed are we to win in comparison? [TOOL: Competitor Analysis Worksheet](https://docs.google.com/a/wunderkraut.com/presentation/d/13-O3-MIzIr7H-507WzlHSJBsZr7ryYF11GOb0xpS9Ys/edit)
+- Our competitors for the work – what are their strengths and weaknesses? how can we counter their value propositions? how well placed are we to win in comparison? [TOOL: Competitor Analysis Worksheet](https://docs.google.com/presentation/d/1YZ6YlRoFWK5REEieHpIYOhGEHOf3U0MNDC9CGIyYKiQ/edit#slide=id.p4)
 - Fit with Wunder brand – does the client have the approach, personality, standards, brand we want to work with?
 - Potential for long term partnership - is the client interested in developing a long term relationship with us, or do they simply want a one-shot project. Is it worth proceeding if it's only a one-shot?
 - Chances of winning – taking everything into account, is it even worth putting the time into a proposal? Some procurements are simply a lottery, some procurement processes don't allow us to show our strengths, some just look for cheapest bid. Let's not waste time on these.
@@ -36,7 +36,7 @@ These epics should eventually be included in the proposal, but make very clear t
 ## Understand Our Buyers
 Targeting buyers is not just a matter of knowing their names. We need to understand their motivations, and their influence on the decision, if we’re to appeal to the right people in the right way.
 
-[TOOL: Proposal Buyers Analysis Worksheet](https://docs.google.com/a/wunderkraut.com/document/d/1T7jVOxPANJN7L2EJKCjbqBpH1fHrXi_1jjKdMo_ARjc/edit)
+[TOOL: Proposal Buyers Analysis Worksheet](https://docs.google.com/document/d/1bbR4Xo9aVRYjA9UF653oJ20QMyS10uPV-NCeIY1eWlU/edit)
 
 Types of Buyers:
 
@@ -62,7 +62,6 @@ This person can make huge difference to the choice – they may have influence b
 
 ### Procurement
 In some cases the procurement person can really lead the process, and be very pro-active. In other cases this person can just be an influencer, without holding any real power. It’s important to know their true role in the process and if we can build a direct relationship with other buyers too.
-[TOOL: Winning With Procurement](https://docs.google.com/a/wunderkraut.com/presentation/d/1IPr04C39adDeVOjiZwLAfn9ZPkPNCJ6rfx09raTWmCk/edit)
 
 ### Client connector
 Someone within the client who was the reason you were invited to pitch, perhaps a social contact, from the Drupal community, or someone closer to you than the other buyers.
