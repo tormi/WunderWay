@@ -38,6 +38,7 @@ This section sets out how we deliver projects.
 	- [Backlogs & Planning](backlogs-and-planning)
 	- [Daily Standup](daily-standup)
 	- [Sprint Review, Retrospective and Steering Group](review-retro-steering)
+- [Documenting projects](/delivering-projects/writing-project-documentation/)
 - Stakeholder communciation
 - User Testing
 - [Quality Management](qualty-testing-non-conformities)
