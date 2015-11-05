@@ -25,6 +25,7 @@ If you'd like to be involved with a group or want to create a new group then rai
  - *Belgium, Ghent* - Dieter Beheydt
  - *Sweden, Stockholm* - Tomas Persson
  - *Estonia, Tallin* - Ardi Hundt
+ - *WunderCare* - Janne Koponen
 
 ## Editorial 
 #### Looking after our corporate voice, creating fantastic content and polishing the not-so-fantastic
