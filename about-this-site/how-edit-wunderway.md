@@ -132,8 +132,8 @@ You are set up by having a local clone of your GitHub fork. Proceed with these s
 	  4. Merge the changes ``` $ git merge upstream/gh-pages ``` (this should trigger a _fast-forward merge_)
 1. Create a new branch, which reflects the issue or your improvement you want to add ``` $ git checkout -b BRANCH_NAME ```
 2. Open an editor of your choice and add your changes
-3. Add and commit the changes ``` $ git commit -am ```
-4. Push your branch to your GitHub repo ``` $ git push ```
+3. Add and commit the changes ``` $ git commit -am "COMMIT MESSAGE" ```
+4. Push your branch to your GitHub repo ``` $ git push --set-upstream origin BRANCH_NAME ```
 
 Now you only need to let the Expert Group know about your changes by creating a pull request. You create a pull request on GitHub, as described on [GitHub's Pull Request Workflow](https://help.github.com/articles/using-pull-requests/).
 
