@@ -19,9 +19,11 @@ You need to have the role *admin* to create a new project.
 4. Define a key: the key is used to prefix the issues in Jira.
 5. Check box to create a HipChat room
 This will create a new project, which uses the same schemes as one of the template projects. By this, any changes to the shared schemes will impact all projects.
+By this, you can skip the sections on configuring the project's workflows, Issue Type Scheme and Screens. Rather proceed with [assigning Users](#team-assign) to the project and [create a board](#create-board).
 
 ### Customization
 If you want to customize your project to further extend and use project specific schemes, follow these steps:
+
 1. In the main menu bar, click *Projects* and select *Create Project* from the menu
 2. Now select the type of project: normally, *Scrum software development* or *Kanban software development* is your choice.
 3. Provide a name: include the customer name and the core goal or kind of the project
@@ -75,7 +77,10 @@ You need to be Jira or project administrator to change your project's Type Scree
 4. Select either *Default Issue Type Scheme*
 5. Click the button *Associate*
 
-### Assign a team to your project
+### <aname="configure-board"> Configure the board
+**TODO**
+
+### <a name="team-assign"></a>Assign a team to your project
 
 1. Open the configuration page of your Jira project by clicking on the gear wheel on the left side-bar
 2. Select *Users and roles* on the left side-bar
@@ -86,22 +91,27 @@ Recommendations:
 * Make the project lead also administrator
 * Assign customers the roles *Developers* and *Users*
 
-### Create Board
+## <a name="create-board"></a>Create Board
+**TODO**
 * Scrum or Kanban board
 * associate columns to states
 
-### Integrations
-#### BitBucket
+Afterwards, [configure your newly created board](#configure-board).
 
+## Integrations
+#### BitBucket
+**TODO**
 #### HipChat
+**TODO**
 If automatically created
 1. make private
 2. rename according to pattern in HipChat section (**TODO: LINK HERE**)
 
 #### Bamboo
-
+**TODO**
 
 #### Harvest
+**TODO**
 NOT recommended
 
 ## Manage users
