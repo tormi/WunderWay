@@ -121,6 +121,7 @@ The WunderWay will further improve and be extended by contributors. Usually, you
 
 1. Navigate to the folder of your local clone
 2. Add the upstream by typing ``` $ git remote add upstream https://github.com/wunderkraut/WunderWay.git ``` (note: the original repository is called _upstream_ by convention. But feel free to give it another name and replace _upstream_ by another term.)
+3. Tip: Syncing your fork only updates your local copy of the repository. You will need to push the changes in order to update your fork on GitHub.
 
 #### Editing by branches and pull requests
 You are set up by having a local clone of your GitHub fork. Proceed with these steps to get your commits and pull requests up for reviews:
