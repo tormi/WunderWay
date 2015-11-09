@@ -9,7 +9,7 @@ This section sets out how we deliver projects.
 
 - [Initialising a Project](initialising-a-project)
 - [Project Suitability](suitable-project/)
-- [Project Costs](project-costs/)
+- Project Costs
 - [Communication](communication/)
 
 
