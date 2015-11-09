@@ -24,7 +24,7 @@ If you'd like to be involved with a group or want to create a new group then rai
  - *Latvia, Riga* - Miķelis Zaļais
  - *Belgium, Ghent* - Dieter Beheydt
  - *Sweden, Stockholm* - Tomas Persson
- - *Estonia, Tallin* - Ardi Hundt
+ - *Estonia, Tallinn* - Ardi Hundt
  - *WunderCare* - Janne Koponen
 
 ## Editorial 
