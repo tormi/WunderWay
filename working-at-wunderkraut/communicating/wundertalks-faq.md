@@ -78,7 +78,7 @@ Please avoid the use of copyrighted material within your presentation. Youtube a
 ### Before the Wundertalk (few days in advance)
 
  - Create a Hangout on Air
- 	 - Go to [https://plus.google.com/hangouts](https://plus.google.com/hangouts) (or [https://plus.google.com/u/1/hangouts](https://plus.google.com/u/1/hangouts) if you have multiple google accounts) and click on the button “Create a Hangout on Air”
+ 	 - Go to [https://plus.google.com/hangouts/onair](https://plus.google.com/hangouts/onair) (or [https://plus.google.com/u/1/hangouts/onair](https://plus.google.com/u/1/hangouts/onair) if you have multiple google accounts) and click on the button “Create a Hangout on Air”
 	 - You might need to connect your Google+ account with Youtube and validate your phone number. Don’t bother entering any details until this step is done, you’d have to redo it.
 	 - Enter the following details
 	 	 - Title and description from [https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1tbolFp-JIhdPRl59OW8PgN4l7Zl92uHYLe_wihJZBpU/edit#gid=0](https://docs.google.com/a/wunderkraut.com/spreadsheets/d/1tbolFp-JIhdPRl59OW8PgN4l7Zl92uHYLe_wihJZBpU/edit#gid=0)
