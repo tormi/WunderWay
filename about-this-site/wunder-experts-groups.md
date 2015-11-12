@@ -24,16 +24,16 @@ Taking care of everything technical from Git workflow, to development environmen
  - *Latvia, Riga* - Miķelis Zaļais
  - *Belgium, Ghent* - Dieter Beheydt
  - *Sweden, Stockholm* - Tomas Persson
- - *Estonia, Tallin* - Ardi Hundt
+ - *Estonia, Tallinn* - Ardi Hundt
  - *Belgium, Antwerp* - Pieter De Troyer
 
 ## Consultancy
 Exploring and identifying opportunities with our clients
 
  - *UK, London* - Steve Parks
- - *Estonia, Tallin* - Ardi Hundt
+ - *Estonia, Tallinn* - Ardi Hundt
  - *UK, London* - Steve Hunton
- - *Estonia, Tallin* - Merle Randlepp
+ - *Estonia, Tallinn* - Merle Randlepp
  - *UK, London* - Heikki Yrjola
 
 ## Editorial 
@@ -51,8 +51,8 @@ Taking care of how each country is run and looking for ways to collaborate and s
  - *Germany, Munich* - Daniel Nolde
  - *Latvia, Riga* - Ernests Gabrans
  - *Finland, Turku* - Juha Niemi
- - *Estonia, Tallin* - Merle Randlepp
- - *Estonia, Tallin* - Kati Kangur
+ - *Estonia, Tallinn* - Merle Randlepp
+ - *Estonia, Tallinn* - Kati Kangur
 
 ## UX and Design
 Making things beautiful *and* usable
@@ -60,7 +60,7 @@ Making things beautiful *and* usable
  - *UK, London* - Lewis Nyman
  - *UK, London* - Alice Richmond
  - *Finland, Helsinki* - Hanna Stolt
- - *Estonia, Tallin* - Hannes Kirsman
+ - *Estonia, Tallinn* - Hannes Kirsman
  - *Belgium, Ghent* - Sanne Janssen
 
 ## Project Delivery
@@ -69,7 +69,7 @@ Delivering quality projects
  - *UK, London* - Steve Hunton
  - *Belgium, Antwerp* - Pieter De Troyer
  - *Finland, Helsinki* - Aleksi Johansson
- - *Estonia, Tallin* - Ivar Laks
+ - *Estonia, Tallinn* - Ivar Laks
  - *Germany, Munich* - Florian Huber
 
 ## Hosting and Support
@@ -79,6 +79,5 @@ Our Care team, keeping things safe, secure and accessible
  - *Finland, Helsinki* - Janne Koponen
  - *Finland, Helsinki* - Ilari Makela
  - *Belgium, Antwerp* - Jurgen Verhasselt
- - *Estonia, Tallin* - Mikk Miggur
+ - *Estonia, Tallinn * - Mikk Miggur
  - *Latvia, Valmiera* - Gatis Rudins
- 
