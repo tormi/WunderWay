@@ -14,7 +14,7 @@ We push openness and transparency to new extremes. Everything we create is open 
 
 We work hard to build and maintain trust with our clients. We're always learning from others and from experimentation, bringing credible expertise to our work. We support each other as a team. We can always be relied on to deliver. We're respected for the ways in which we work.
 
-## We areHealthy
+## We are Healthy
 
 We favour long-term sustainable success over short term benefits. We do what's right for our clients and what's right for each other. We value diversity, individuality and weirdness. We have fun, are happy, and bring fun and happiness to others too. We support each other. We have a healthy attitude to failure, facing up to it, learning from our mistakes and avoiding blame. We work in healthy ways, to support a high quality of life. We value being a healthy sustainable company.
 
