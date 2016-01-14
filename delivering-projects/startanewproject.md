@@ -107,7 +107,7 @@ Fortunately, our awesome colleagues at WunderKraut Finland have made a library o
 - **[WunderTools](https://github.com/wunderkraut/WunderTools)** - a reference configuration library for use with Ansible & Vagrant
 - **[WunderMachina](https://github.com/wunderkraut/WunderMachina)** - stand-alone Ansible configurations
 
-[Guide for general WunderTools project layout and configurations](/delivering-projects/wundertools-guide)
+[Guide for general WunderTools project layout and configurations](/delivering-projects/wundertools-guide/)
 
 ### UpCloud service status
 
