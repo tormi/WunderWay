@@ -17,7 +17,7 @@ For those new to Wunderkraut we've put together a quick reference guide to help 
  - [Communicating](/working-at-wunderkraut/communicating/)
  - [A warm welcome for new staff](/working-at-wunderkraut/onboarding/)
  - [The buddy system](/working-at-wunderkraut/buddies/) - you got a friend!
- - [Dstributed working](/working-at-wunderkraut/distributed-working/) - tips for working remotely
+ - [Distributed working](/working-at-wunderkraut/distributed-working/) - tips for working remotely
  - [Career development](/working-at-wunderkraut/career-development/) - includes information on non-project Fridays
  - [Work comfortably](/working-at-wunderkraut/health-and-safety/work-comfortably/) - Stay healthy and happy at work.
  - [Recommended reading](/working-at-wunderkraut/recommended-reading/) - a list of helpful articles
