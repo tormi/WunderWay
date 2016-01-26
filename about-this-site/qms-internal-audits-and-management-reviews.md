@@ -15,14 +15,14 @@ If a management review or audit identifies any issues relating to the WunderWay 
 
 Management Reviews will look at the effectiveness of the QMS. They look at the outputs (sprint reviews, bug reports, metrics, skills matrix) to check that these are providing us with the information we need to assess how well we're doing against our objectives.
 
- - [Management Review schedule] (https://docs.google.com/spreadsheets/d/1OVygusxUKmDQwvAgIybKtkncC_f1kCIEpKYUWJHEKvw/edit#gid=0)
- - [Management Review template] (https://docs.google.com/a/wunderkraut.com/document/d/1DkaK7SV_6dkpSTTAukJ2CbycD1ybxnchNVLEGYjZHOo/edit)
- - [Management Review repository] (https://drive.google.com/a/wunderkraut.com/?tab=mo#folders/0Bxb4YZjQwNDgbWJra3pJRkZXcTg)
- - [Skills Matrix] (https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0AvOebCzjusNEdE12M0hrMDJBWEFHQkRkcHg1NV92cWc&usp=drive_web#gid=10)
- - [Sprint Reviews] (https://drive.google.com/drive/folders/0Bxb4YZjQwNDgTXRkV0FoYndDMWs)
- - [Bug Reports] (https://rally1.rallydev.com/)
- - [Cost of Tender] (https://docs.google.com/spreadsheets/d/1j7tpMR_FHpZ6zwbqCm_GStJrfFtEgrCqiKl4TP-DX0A/edit#gid=0)
- - [Sprint Estimates] (https://docs.google.com/spreadsheets/d/1KlAqn9m7MSii7DpfgO9iCDYoP7L547PfK4xiotDTr20/edit#gid=0)
+ - [Management Review schedule](https://docs.google.com/spreadsheets/d/1OVygusxUKmDQwvAgIybKtkncC_f1kCIEpKYUWJHEKvw/edit#gid=0)
+ - [Management Review template](https://docs.google.com/a/wunderkraut.com/document/d/1DkaK7SV_6dkpSTTAukJ2CbycD1ybxnchNVLEGYjZHOo/edit)
+ - [Management Review repository](https://drive.google.com/a/wunderkraut.com/?tab=mo#folders/0Bxb4YZjQwNDgbWJra3pJRkZXcTg)
+ - [Skills Matrix](https://docs.google.com/a/wunderkraut.com/spreadsheet/ccc?key=0AvOebCzjusNEdE12M0hrMDJBWEFHQkRkcHg1NV92cWc&usp=drive_web#gid=10)
+ - [Sprint Reviews](https://drive.google.com/drive/folders/0Bxb4YZjQwNDgTXRkV0FoYndDMWs)
+ - [Bug Reports](https://rally1.rallydev.com/)
+ - [Cost of Tender](https://docs.google.com/spreadsheets/d/1j7tpMR_FHpZ6zwbqCm_GStJrfFtEgrCqiKl4TP-DX0A/edit#gid=0)
+ - [Sprint Estimates](https://docs.google.com/spreadsheets/d/1KlAqn9m7MSii7DpfgO9iCDYoP7L547PfK4xiotDTr20/edit#gid=0)
 
 Internal Audits will look at projects, onboarding and other aspects of our daily lives to make sure we're implementing the WunderWay properly. 
 
@@ -30,8 +30,8 @@ If the WW has not been implemented properly then we'll look at the reasons behin
 
 ### Internal Audit
 
-The Internal Audits and Management Reviews are carried out each year by those responsible for the WunderWay. See [Roles and Responsibilities] (/about-this-site/quality-management-system/)
+The Internal Audits and Management Reviews are carried out each year by those responsible for the WunderWay. See [Roles and Responsibilities](/about-this-site/quality-management-system/)
 
- - [Internal Audit schedule] (https://docs.google.com/spreadsheets/d/1FG8ahjQBnSpDLc-YEVkNqKEh0zi9ZFOPJTYjG-nxCTA/edit#gid=0)
- - [Internal audit template] (https://docs.google.com/a/wunderkraut.com/document/d/1R-FjoyK75SIjnsDqrNFWzWXx7KIWXfz1OsxoJPwLcxo/edit)
- - [Internal Audit repository] (https://drive.google.com/a/wunderkraut.com/?tab=mo#folders/0Bxb4YZjQwNDgcEdrQXhsMTVkYlk)
+ - [Internal Audit schedule](https://docs.google.com/spreadsheets/d/1FG8ahjQBnSpDLc-YEVkNqKEh0zi9ZFOPJTYjG-nxCTA/edit#gid=0)
+ - [Internal audit template](https://docs.google.com/a/wunderkraut.com/document/d/1R-FjoyK75SIjnsDqrNFWzWXx7KIWXfz1OsxoJPwLcxo/edit)
+ - [Internal Audit repository](https://drive.google.com/a/wunderkraut.com/?tab=mo#folders/0Bxb4YZjQwNDgcEdrQXhsMTVkYlk)

@@ -18,7 +18,7 @@ Drupal’s modular design is also ideal for long life-spans for projects. New fe
 
 We firmly believe in and support the technologies we use and promote. We employ very experienced staff who are active in the Drupal community.
 
-You can browse our team members at [http://www.wunderkraut.com/people] (www.wunderkraut.com/people) and there are links on developer profile pages to their profile on the Drupal.org website. You’ll be able to see how involved they are with Drupal and what contributions they’ve made.
+You can browse our team members at [http://www.wunderkraut.com/people](www.wunderkraut.com/people) and there are links on developer profile pages to their profile on the Drupal.org website. You’ll be able to see how involved they are with Drupal and what contributions they’ve made.
 
 You can also examine their code on the site and the support they provide, and see how long they’ve been developing with Drupal. It’s part of the natural openness and transparency of the Open Source community.
 

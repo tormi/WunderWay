@@ -79,7 +79,7 @@ Well, that's our plan and we've made big steps to achieve that. We've implemente
 [Our Ambition](/about-the-company/ambition/)<br/>
 [Quality Management System](/about-this-site/quality-management-system/) < that's the official *how we do stuff* document<br/>
 [Our Company](/about-the-company/)<br/>
-[Who we are](/about-the-company/the-team/)</a>
+[Who we are](/about-the-company/the-team/)
 
 ##Everything Else
 

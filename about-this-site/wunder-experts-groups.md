@@ -26,6 +26,8 @@ Taking care of everything technical from Git workflow, to development environmen
  - *Sweden, Stockholm* - Tomas Persson
  - *Estonia, Tallinn* - Ardi Hundt
  - *Belgium, Antwerp* - Pieter De Troyer
+ - *Estonia, Tallinn* - Ardi Hundt
+ - *WunderCare* - Janne Koponen
 
 ## Consultancy
 Exploring and identifying opportunities with our clients

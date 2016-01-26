@@ -3,7 +3,7 @@ layout: page
 section: how
 categories:
 tags:
-title: Equipment
+title: Recommended Equipment
 ---
 
 As we spend a lot of time in our home offices, it's important to be comfortable, and to have a good ergonomic working position.
@@ -15,6 +15,14 @@ Many people find it's great to have a standing desk (or ultimately one that can 
 Vesa has this [adjustable height standing desk](http://www.ajproducts.co.uk/tables-desks-workstations/adjustable-standing-desks/flexus-electrically-height-adjustable-wave-desk/5138569-61474.wf) and is very pleased.
 
 Heikki has this [fixed height standing desk](http://complete-office.co.uk/ProductDetails/Furniture/Desks/3511464/Gresham-Stand-Height-Rectangular-600Mm-Deep-1200-X-600--TS612RHZ/Master.aspx) (bought from [Whiteleys](http://www.whiteleys-office.co.uk/)). It is compact and has neutral styling but suits his needs perfectly.
+
+IKEA now has a range of sit/stand desks too:
+
+[[Belgium (Fr)](http://www.ikea.com/be/fr/catalog/categories/departments/workspaces/18962/)] [[Belgium (Nl)](http://www.ikea.com/be/nl/catalog/categories/departments/workspaces/18962/)] [[Germany](http://www.ikea.com/de/de/catalog/categories/departments/workspaces/18962/)] [[Finland](http://www.ikea.com/fi/fi/catalog/categories/departments/workspaces/18962/)] [[Netherlands](http://www.ikea.com/nl/nl/catalog/categories/departments/workspaces/18962/)] [[Sweden](http://www.ikea.com/se/sv/catalog/categories/departments/workspaces/18962/)] [[Norway](http://www.ikea.com/no/no/catalog/categories/departments/workspaces/18962/)] [[UK](http://www.ikea.com/gb/en/catalog/categories/departments/workspaces/18962/)]
+
+<small>(Sorry, no IKEA in Latvia, Estonia.)</small>
+
+[Read these tips for healthy standing](https://theconversation.com/health-check-the-low-down-on-standing-desks-37515) to help you set your standing desk up correctly and get used to a new way of working.
 
 ## Good chairs
 

@@ -22,7 +22,13 @@
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
   <!-- Javascript -->
-   <script data-main="/search.js" src="/public/js/require.js"></script>
+  <script data-main="/search.js" src="/public/js/require.js"></script>
+  {% if page.custom_js %}
+    <!-- Custom javascripts -->
+    {% for js_file in page.custom_js %}
+    <script type="application/javascript" src="{{ js_file }}"></script>
+    {% endfor %}
+  {% endif %}
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">

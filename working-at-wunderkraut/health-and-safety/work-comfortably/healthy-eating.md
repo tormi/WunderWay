@@ -8,7 +8,7 @@ title: Healthy eating
 For more information, see the blog post [Healthy Sprinting](http://www.wunderkraut.com/blog/healthy-sprinting/2014-07-25)
 
 ## Boost your brain power
-**B1, B2, B3, B5, B12, Folic Acid.**
+**B1, B2, B3, B5, Folic Acid.**
 
 Essential for energy production, brain and nerve function. Find them in:
 

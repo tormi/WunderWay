@@ -67,7 +67,7 @@ We hold a Sprint Review and a Sprint Retrospective at the end of each sprint. Th
 When we identify a way to prevent a reoccuring problem we record the change request as an issue in GitHub to make sure it's reviewed and managed properly:
 <ol>
 	<li>Record the details as an issue in GitHub
-	<li>Follow up the request with the [Keeper of the Way] (/roles-and-responsibilities/) if this is considered a priority
+	<li>Follow up the request with the [Keeper of the Way](/roles-and-responsibilities/) if this is considered a priority
 	<li>Report the request to the Scrum Master to ensure that it’s followed up as necessary
 	<li>Discuss the change (if accepted) during the next Sprint Retrospective
 </ol>

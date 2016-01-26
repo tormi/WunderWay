@@ -9,7 +9,7 @@ This section sets out how we deliver projects.
 
 - [Initialising a Project](initialising-a-project)
 - [Project Suitability](suitable-project/)
-- [Project Costs](project-costs/)
+- Project Costs
 - [Communication](communication/)
 
 
@@ -30,16 +30,18 @@ This section sets out how we deliver projects.
 
 # Delivery
 
-- [Setting up GitHub, UpCloud, Jenkins and Behat] (/delivering-projects/startanewproject/)
-- [Introduction to Project Delivery] (/delivering-projects/project-delivery-intro/)
+- [Setting up GitHub, UpCloud, Jenkins and Behat](/delivering-projects/startanewproject/)
+- [Introduction to Project Delivery](/delivering-projects/project-delivery-intro/)
 - [Agile delivery diagram](agile-delivery-diagram)
 - [Delivery Phases: Alpha, Beta, Live](/delivering-projects/alpha-beta-live/)
 - Sprints
 	- [Backlogs & Planning](backlogs-and-planning)
 	- [Daily Standup](daily-standup)
 	- [Sprint Review, Retrospective and Steering Group](review-retro-steering)
+- [Documenting projects](/delivering-projects/writing-project-documentation/)
 - Stakeholder communciation
 - User Testing
 - [Quality Management](qualty-testing-non-conformities)
+- [Pre-launch Checklist](/delivering-projects/pre-launch-checklist)
 
 ## All pages
