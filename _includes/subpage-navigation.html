@@ -2,16 +2,18 @@
 {% assign url_parts_size = url_parts | size %}
 {% assign next_level_down = url_parts_size | plus: 1 %}
 {% assign base_url = url_parts | last %}
-<ul>
-{% assign pages = site.pages | sort: 'title' %}
-{% for page in pages %}
-  {% if page.url contains base_url %}
-    {% assign page_url_parts = page.url | split: '/' %}
-    {% assign page_url_parts_size = page_url_parts | size %}
-    {% assign filename = page_url_parts | last %}
-    {% if page_url_parts_size == next_level_down %}
-      <li><a href='{{page.url}}'>{{page.title}}</a></li>
+{% if pages %}
+  <ul>
+  {% assign pages = site.pages | sort: 'title' %}
+  {% for page in pages %}
+    {% if page.url contains base_url %}
+      {% assign page_url_parts = page.url | split: '/' %}
+      {% assign page_url_parts_size = page_url_parts | size %}
+      {% assign filename = page_url_parts | last %}
+      {% if page_url_parts_size == next_level_down %}
+        <li><a href='{{page.url}}'>{{page.title}}</a></li>
+      {% endif %}
     {% endif %}
-  {% endif %}
-{% endfor %}
-</ul>
+  {% endfor %}
+  </ul>
+{% endif %}
