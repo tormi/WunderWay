@@ -15,7 +15,7 @@ If you have a specific question or idea you'd like to discuss or share then you 
 If you'd like to be involved with a group or want to create a new group then raise an issue.
 
 ## Technology Taskforce
-#### Taking care of everything technical from Git workflow, to development environments, to modules to new technology
+Taking care of everything technical from Git workflow, to development environments, to modules to new technology
 
  - *Germany, Munich* - Florian Lorétan
  - *UK, London* - Joe Baker
@@ -25,27 +25,61 @@ If you'd like to be involved with a group or want to create a new group then rai
  - *Belgium, Ghent* - Dieter Beheydt
  - *Sweden, Stockholm* - Tomas Persson
  - *Estonia, Tallinn* - Ardi Hundt
+ - *Belgium, Antwerp* - Pieter De Troyer
+ - *Estonia, Tallinn* - Ardi Hundt
  - *WunderCare* - Janne Koponen
 
+## Consultancy
+Exploring and identifying opportunities with our clients
+
+ - *UK, London* - Steve Parks
+ - *Estonia, Tallinn* - Ardi Hundt
+ - *UK, London* - Steve Hunton
+ - *Estonia, Tallinn* - Merle Randlepp
+ - *UK, London* - Heikki Yrjola
+
 ## Editorial 
-#### Looking after our corporate voice, creating fantastic content and polishing the not-so-fantastic
+Looking after our corporate voice, creating fantastic content and polishing the not-so-fantastic
 
  - *UK, London* - Alex Lemon 
-*more members required!*
+ - *Finland, Helsinki* - Emma Makinen
 
 ## Operations 
-#### Taking care of how each country is run and looking for ways to collaborate and streamline
+Taking care of how each country is run and looking for ways to collaborate and streamline
 
  - *UK, London* - Steve Hunton
+ - *Belgium, Antwerp* - Pieter De Troyer
+ - *Finland, Helsinki* - Emma Makinen
+ - *Germany, Munich* - Daniel Nolde
+ - *Latvia, Riga* - Ernests Gabrans
+ - *Finland, Turku* - Juha Niemi
+ - *Estonia, Tallinn* - Merle Randlepp
+ - *Estonia, Tallinn* - Kati Kangur
 
 ## UX and Design
-#### Making things beautiful *and* usable
+Making things beautiful *and* usable
 
  - *UK, London* - Lewis Nyman
  - *UK, London* - Alice Richmond
- - *Finland, Helsinki* - Matti Vahtera
+ - *Finland, Helsinki* - Hanna Stolt
+ - *Estonia, Tallinn* - Hannes Kirsman
+ - *Belgium, Ghent* - Sanne Janssen
+
+## Project Delivery
+Delivering quality projects
+
+ - *UK, London* - Steve Hunton
+ - *Belgium, Antwerp* - Pieter De Troyer
+ - *Finland, Helsinki* - Aleksi Johansson
+ - *Estonia, Tallinn* - Ivar Laks
+ - *Germany, Munich* - Florian Huber
 
 ## Hosting and Support
-#### Keeping things safe, secure and accessible
+Our Care team, keeping things safe, secure and accessible
 
- - Be the first!
+ - *Finland, Helsinki* - Henri Hirvonen
+ - *Finland, Helsinki* - Janne Koponen
+ - *Finland, Helsinki* - Ilari Makela
+ - *Belgium, Antwerp* - Jurgen Verhasselt
+ - *Estonia, Tallinn * - Mikk Miggur
+ - *Latvia, Valmiera* - Gatis Rudins
