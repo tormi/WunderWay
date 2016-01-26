@@ -2,7 +2,7 @@
 layout: section
 title: Onboarding New Staff
 ---
-When new people join our team it's important that they all receive the same warm welcome. If you've been chosen to welcome the next intake then here's a handy list to help you with your warm welcome.
+When new people join our team it's important that they all receive the same warm welcome. If you've been chosen to welcome the next intake then here is a handy list to help you with your warm welcome.
 
 ## Before Joining
 
