@@ -104,10 +104,10 @@ There's a myriad of ways you may want to configure your development server, acco
 
 Fortunately, our awesome colleagues at WunderKraut Finland have made a library of Ansible scripts to get your development server configured in double-quick time.
 
-- **[AnsibleRef](https://gitlab.com/wunderkraut-finland/ansibleref)** - a reference configuration library for use with Ansible & Vagrant
-- **[Ansible](https://gitlab.com/wunderkraut-finland/ansible)** - stand-alone Ansible configurations
+- **[WunderTools](https://github.com/wunderkraut/WunderTools)** - a reference configuration library for use with Ansible & Vagrant
+- **[WunderMachina](https://github.com/wunderkraut/WunderMachina)** - stand-alone Ansible configurations
 
-
+[Guide for general WunderTools project layout and configurations](/delivering-projects/wundertools-guide/)
 
 ### UpCloud service status
 
