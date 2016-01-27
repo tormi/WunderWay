@@ -6,6 +6,8 @@ tags:
 title: Our Principles
 ---
 
+We like to run our company with as few formal structures and rules as possible, by using some guiding principles. These indicate what you can expect from colleagues, and what they - and our clients - will expect from you. When you make decisions or take action, bear these principles in mind.
+
 ## We are Open
 
 We push openness and transparency to new extremes. Everything we create is open by default. We are highly collaborative and work easily and often with others, including our clients, open source communities, and other firms in our industry. We share our knowledge and experience widely. We're great listeners, curious and always open to ideas and feedback. We communicate clearly and often.
