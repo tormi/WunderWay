@@ -167,13 +167,16 @@ Assign a customer or partner only to the following group:
 ## Archive a project
 Jira does not provide the functionality to archive a project and its board(s). The recommended way is documented in [Jira's Confluence](https://confluence.atlassian.com/adminjiraserver071/archiving-a-project-802592917.html).
 The workaround (and our best-practice) is to assign a dedicated permision schema in order to 'hide the project' and delete the board(s). Follow these steps to do so:
+
 Change Permission Schema:
+
 1. Open the configuration page of your Jira project by clicking on the gear wheel on the left side-bar (*Project Settings*)
 2. Select *Permissions* on the left side-bar
 3. In the menu *Actions* (upper right side), select *Use a different scheme*
 4. Selecte the permission scheme *Archived Project Permission Scheme*
 
 Delete Board(s):
+
 1. Open the board, which you want to delete
 2. In the board's configuratio menu *Board* (upper right side), select *Configure*
 3. In the configuration view, open menu *Board* (again ;-)), select *Delete*
