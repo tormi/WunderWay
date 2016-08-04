@@ -46,6 +46,35 @@ All Wunder staff are admins in HipChat so you can access any room and add new ro
 
 Please add client project teams as users and members of the project room, and encourage them to take part in the project chat.
 
+## Users
+
+### Create new users: staff (internal)
+You need to have the role *Admin* to create a new user. Then follow these steps:
+
+1. Open the *User Administration* in HipChat (Menu *Group Admin* --> *Users*)
+2. Add new user with the following values:
+  * Full Name: Firstname Lastname
+  * @mention name: firstnamelastname
+  * Email: the user's email address
+  * Role: *User* or *Admin* (usually we prefer *Admin* and trust our team to be responsible)
+4. Invite the team member to our room *WunderCafe* and welcome her/him
+
+### Create new users: customers and partners (external)
+There are two ways to add external partners to HipChat: either create a HipChat user or use the *Guest Access* feature of HipChat.
+
+#### Create a HipChat User for external partners
+Just follow the steps above, but consider the changes in step 2.:
+
+* Full Name: Firstname Lastname Company
+* @mention name: firstnamelastnamecompany
+* Email: the user's email address
+* Role: *User*
+
+By the additional information about the user's company, it is easier to differentiate between our staff and our external partners. And by granting the role *User* we guarantee that a user can only access the private rooms only with an invite and all public rooms. 
+
+#### Guest Access
+*todo*
+
 ## Integrations
 HipChat has a great API, and can be integrated with many other tools. If you would like an integration set-up then contact @stevehunton @alicerichmond or @joebaker please.
 
